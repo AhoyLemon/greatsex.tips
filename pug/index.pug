@@ -1,0 +1,19 @@
+- var testing = true
+- var siteTitle = "Cosmo Sex Tips"
+- var siteURL = ""
+- var fPlusURL = ""
+- var description = "Halelujah, it's raining dumb men! Amen."
+- var d = new Date()
+- var lastUpdated = d.getFullYear() + '-' + (d.getMonth()<10?'0':'') + d.getMonth() + '-' + (d.getDate()<10?'0':'') + d.getDate() + '@' + (d.getHours()<10?'0':'') + d.getHours() + ':' + (d.getMinutes()<10?'0':'') + d.getMinutes() + ':' + (d.getSeconds()<10?'0':'') + d.getSeconds()
+doctype html
+html(lang="en")
+  head
+    meta(charset="utf-8")
+    title= siteTitle
+    link(href="css/tips.css?lastUpdated="+lastUpdated rel="stylesheet")
+  body
+    main#app
+      
+      include partials/_sidebar.pug
+
+    include partials/_javascripts.pug

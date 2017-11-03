@@ -1,0 +1,387 @@
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+a,
+abbr,
+acronym,
+address,
+applet,
+article,
+aside,
+audio,
+b,
+big,
+blockquote,
+body,
+canvas,
+caption,
+center,
+cite,
+code,
+dd,
+del,
+details,
+dfn,
+dialog,
+div,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figcaption,
+figure,
+font,
+footer,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+hgroup,
+hr,
+html,
+i,
+iframe,
+img,
+ins,
+kbd,
+label,
+legend,
+li,
+main,
+mark,
+menu,
+meter,
+nav,
+object,
+ol,
+output,
+p,
+pre,
+progress,
+q,
+rp,
+rt,
+ruby,
+s,
+samp,
+section,
+small,
+span,
+strike,
+strong,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+time,
+tr,
+tt,
+u,
+ul,
+var,
+video,
+xmp {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-size: 100%; }
+
+html,
+body {
+  height: 100%; }
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+menu,
+nav,
+section {
+  display: block; }
+
+b,
+strong {
+  font-weight: bold; }
+
+img {
+  color: transparent;
+  font-size: 0;
+  vertical-align: middle;
+  -ms-interpolation-mode: bicubic; }
+
+ul,
+ol {
+  list-style: none; }
+
+li {
+  display: list-item; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+th,
+td,
+caption {
+  font-weight: normal;
+  vertical-align: top;
+  text-align: left; }
+
+q {
+  quotes: none; }
+
+q:before,
+q:after {
+  content: "";
+  content: none; }
+
+sub,
+sup,
+small {
+  font-size: 75%; }
+
+sub,
+sup {
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline; }
+
+sub {
+  bottom: -0.25em; }
+
+sup {
+  top: -0.5em; }
+
+svg {
+  overflow: hidden; }
+
+* {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  background-color: #212121;
+  color: #210505; }
+
+img {
+  max-width: 100%;
+  height: auto; }
+
+a {
+  cursor: pointer;
+  color: #17680f; }
+
+b, strong {
+  font-weight: 600; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Nunito", sans-serif;
+  font-family: 'Neuton', serif; }
+
+h1 {
+  font-size: 2.5em; }
+
+h2 {
+  font-size: 2em; }
+
+h3 {
+  font-size: 1.75em; }
+
+h4 {
+  font-size: 1.5em; }
+
+h5 {
+  font-size: 1.25em; }
+
+h6 {
+  font-size: 1em; }
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 105%; }
+
+ul {
+  padding-left: 1.5em; }
+  ul li {
+    list-style-type: disc; }
+
+[v-cloak] {
+  display: none; }
+
+@media (min-width: 768px) {
+  .mobile-only {
+    display: none; } }
+
+@media (max-width: 767px) {
+  .desktop-only {
+    display: none; } }
+
+body {
+  background-image: url(../img/bg/rain1.jpg);
+  background-size: cover;
+  background-position: center; }
+  body .cover {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url(../img/bg/rain1.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.18; }
+
+.sidebar-button {
+  background: transparent;
+  border: none;
+  color: #e5e972;
+  position: fixed;
+  top: 5px;
+  right: 10px;
+  z-index: 1005;
+  outline: none;
+  cursor: pointer; }
+  .sidebar-button svg {
+    width: 50px;
+    height: 50px; }
+    .sidebar-button svg * {
+      fill: #e5e972; }
+  .sidebar-button .x, .sidebar-button .question-mark {
+    -webkit-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    -webkit-transform-origin: center;
+    -ms-transform-origin: center;
+    transform-origin: center;
+    fill: #e5e972; }
+  .sidebar-button .fill {
+    opacity: 0; }
+  .sidebar-button .x {
+    opacity: 0;
+    -webkit-transform: scale(0.1);
+    -ms-transform: scale(0.1);
+    transform: scale(0.1); }
+  .sidebar-button .question-mark {
+    -webkit-transform-style: scale(1);
+    transform-style: scale(1); }
+  .sidebar-button:hover svg .question-mark, .sidebar-button:hover svg .x {
+    fill: #212121; }
+  .sidebar-button:hover svg .fill {
+    opacity: 1; }
+  .sidebar-button.active svg * {
+    fill: #212121; }
+  .sidebar-button.active:hover .question-mark, .sidebar-button.active:hover .x {
+    fill: #e5e972; }
+  .sidebar-button.active .x {
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1); }
+  .sidebar-button.active .question-mark {
+    opacity: 0;
+    -webkit-transform: scale(0.1) " ";
+    -ms-transform: scale(0.1) " ";
+    transform: scale(0.1) " "; }
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #e5e972;
+  color: #212121;
+  width: 14em;
+  padding: 3.5rem 1rem 1rem 1rem;
+  z-index: 1004;
+  font-family: 'Zilla Slab', serif;
+  font-size: 20px;
+  -webkit-transform: translateX(101%);
+  -ms-transform: translateX(101%);
+  transform: translateX(101%);
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease; }
+  .sidebar ul {
+    padding: 0; }
+  .sidebar li {
+    margin-bottom: 0.65em;
+    list-style: none; }
+  .sidebar .label {
+    display: block;
+    line-height: 145%; }
+  .sidebar .indent {
+    display: block;
+    padding-left: 1em;
+    font-weight: 600; }
+  .sidebar a {
+    color: #ee2a2a;
+    text-decoration: none;
+    cursor: pointer; }
+    .sidebar a:hover {
+      text-decoration: underline; }
+  .sidebar .smaller {
+    font-size: 0.8em; }
+  .sidebar.visible {
+    -webkit-transform: translateX(0);
+    -ms-transform: translateX(0);
+    transform: translateX(0); }
+
+.homescreen-help-holder {
+  background-color: rgba(221, 220, 202, 0.9);
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 12; }
+  .homescreen-help-holder .homescreen-help {
+    background: white;
+    color: #212121;
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 1em; }
+  .homescreen-help-holder svg {
+    fill: currentColor; }
+    .homescreen-help-holder svg * {
+      fill: currentColor; }
+  .homescreen-help-holder .help {
+    text-align: right;
+    line-height: 160%; }
+    .homescreen-help-holder .help span {
+      display: block; }
+    .homescreen-help-holder .help svg {
+      width: 0.8em;
+      height: 0.8em; }
+  .homescreen-help-holder.ios {
+    top: auto;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100%; }
+    .homescreen-help-holder.ios .help {
+      text-align: center; }
+  .homescreen-help-holder .button-holder {
+    padding-top: 1em;
+    text-align: center; }
+    .homescreen-help-holder .button-holder button {
+      font-size: 20px; }
+
+@media all and (display-mode: standalone) {
+  #AddToHomeScreen {
+    display: none; } }

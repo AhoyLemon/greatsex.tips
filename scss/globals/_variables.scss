@@ -1,0 +1,52 @@
+// COLORS
+$white: #eee;
+$offwhite: #f0f1f2;
+$black: #212121;
+$blue: #4885ed;
+$red: #ee2a2a;
+$green: #17680f;
+$yellow:#e5e972;
+$teal: #4e7f71;
+$lessdark:#2A313A;
+  // COLOR UTILITIES
+  $body: #dddcca;
+  $copy: #210505;
+  $link: $green;
+  $accent: $green;
+  $sidebar: $yellow;
+  $also-made: #444;
+  $wrote: #f0ecd8;
+  $episode: #fff;
+
+// BRAND COLORS
+  $color-twitter: #55acee;
+  $color-github: #181616;
+  $color-googleplus: #D34836;
+  $color-flattr-green: #89b443;
+  $color-flattr-orange: #f9ad33;
+  $color-facebook: #3B5998;
+
+// FONTS
+//$quicksand: 'Catamaran', sans-serif;
+$nunito: 'Nunito', sans-serif;
+$font-size: 18px;
+$light:300;
+$medium:400;
+$bold:600;
+
+// FONT UTILITIES
+$sans-serif: $nunito;
+
+// MEASUREMENTS //////////////////////////////////////////////////////////////////////
+$mobile-top:56px;
+$radius:6px;
+$mobile-max: 767px;
+$desktop-min: 768px;
+$header-height:3.5rem;
+$max-width:600px;
+
+$perfect:#52d88e;
+$great:#1eaefc;
+$okay:#ca62f0;
+$bad:#ecb528;
+$failure:#ee2c2c;

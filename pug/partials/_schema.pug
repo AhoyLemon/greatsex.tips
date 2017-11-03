@@ -1,0 +1,26 @@
+if !testing
+  script(type="application/ld+json").
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "#{siteTitle}",
+      "url": "#{siteURL}",
+      "sameAs": "#{fplusURL}",
+      "image": "#{siteURL}/img/og-image.png",
+      "description": "#{description}",
+      "inLanguage": "English",
+      "author": {
+        "@type": "Person",
+        "name": "Lemon",
+        "url": "http://ahoylemon.xyz",
+        "sameAs": [
+          "https://thefpl.us/meet/lemon",
+          "https://twitter.com/AhoyLemon"
+        ]
+      },
+      "publisher": {
+        "@type": "PerformingGroup",
+        "name": "The F Plus",
+        "url": "https://thefpl.us"
+      }
+    }
