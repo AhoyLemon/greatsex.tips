@@ -419,11 +419,11 @@ main {
   main h1 {
     text-align: center;
     font-family: "Taviraj", "Papyrus";
-    font-weight: 400; }
+    font-weight: 400;
+    padding: 0.5em; }
   main h3 {
     font-family: "Sansita", "Papyrus";
-    font-weight: 400;
-    margin-bottom: 0.5em; }
+    font-weight: 400; }
     main h3 span {
       background: #ee2a2a;
       font-weight: 600;

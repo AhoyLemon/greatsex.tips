@@ -10,6 +10,7 @@ var app = new Vue({
     tipNumber: '',
     currentTip: '',
     tips: sexTips,
+    names: fakeNames
   },
   methods: {
     
@@ -20,18 +21,22 @@ var app = new Vue({
       //console.log(self.tips['sexActs'][0]);
       var r = Math.floor(Math.random()*(self.tips.sexActs.length));
       self.currentTip = '';
-      self.tipNumber = addCommas(Math.floor(Math.random()*(99999)));
+      self.tipNumber = addCommas(Math.floor(Math.random()*(99999))+1);
+      
       self.tips.sexActs[r].forEach(function(k) {
+        console.log(typeof k);
+        //if (k)
         if (typeof k == "object") {
+          console.log(k)
           var z = Math.floor(Math.random()*(k.length));
           self.currentTip += k[z];
         } else {
+          //
           self.currentTip += k;
         }
         
       });
     },
-    
     
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

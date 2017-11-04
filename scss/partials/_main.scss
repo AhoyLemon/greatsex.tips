@@ -1,9 +1,9 @@
 body { background-image:url(../img/bg1.jpg); background-size:cover; }
 main { @include flex-center(); height: 99vh;
   .inner {  width:100%; max-width: 960px; }
-  .tip { background: white; padding: 1em; }
-  h1 { text-align: center; font-family:$serif; font-weight: $medium; }
-  h3 { font-family:$sans-serif; font-weight: $medium; margin-bottom: 0.5em;
+  .tip { background: white; padding: 1em ; }
+  h1 { text-align: center; font-family:$serif; font-weight: $medium; padding: 0.5em; }
+  h3 { font-family:$sans-serif; font-weight: $medium;
     span { background:$red; font-weight: $bold; display: inline-block; padding:0.25em 0.65em; transform: translateX(-50px); color:$white; }
   }
   .button-holder { text-align: center; 

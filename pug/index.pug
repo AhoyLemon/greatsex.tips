@@ -15,12 +15,12 @@ html(lang="en")
       include partials/_sidebar.pug
       
       main
-        .inner
+        .inner(v-cloak)
           .tip
             h3 
               span Cosmo Sex Tip {{tipNumber}}
-            h1 {{currentTip}}
+            h1(v-html="currentTip")
           .button-holder
             button(v-on:click="generateSexTip") New Tip
       
-      include partials/_javascripts.pug
+    include partials/_javascripts.pug
