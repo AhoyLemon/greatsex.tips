@@ -2,7 +2,14 @@
 
 var handjobs = [
   [
-    "Grab his penis and","Take his penis and","Put his penis in your hand and","Reach for his penis and","Ask to see his penis and","When he's not looking, grab his penis and","Contemplate his penis, then","Unsheath his penis, then"
+    "Grab his penis and",
+    "Take his penis and",
+    "Put his penis in your hand and",
+    "Reach for his penis and",
+    "Ask to see his penis and",
+    "When he's not looking, grab his penis and",
+    "Contemplate his penis, then",
+    "Unsheath his penis, then"
   ],
   " ",
   [
@@ -20,14 +27,14 @@ var handjobs = [
 ];
 
 var genitalAction = [
-  preamble,
+  preambles,
   " ",
   [
     "Punch","Bite","Kick","Poke","Belittle","Humiliate","Spit on","Lick","Have contempt for","Suck"
   ],
   " his ",
   [
-    "taint","nut sack","vas deferens","pee hole","left nut","right ball","ball(s)","butthole","perinium","anus","extra penis","pubic hair"
+    maleGenitals
   ],
   " until he ",
   [
@@ -190,18 +197,46 @@ var reallyUncreativeSexTips = [
   [
     "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other"
   ],
-  "?"
+  "?","."
+];
+
+var hideAnItem = [
+  preambles,
+  
+  " Hide ",
+  [
+    "an eggplant","a dozen eggs","some hamburger meat","your panties","your underwear","your bra","an (ahem) adult item","a vibrator","a tube of lipstick","loose change","six fluid ounces of massage oil","an empty beer bottle",
+    "a Scotch bonnet pepper","baby teeth purchased from the Dark Web","a tampon"
+  ],
+  " in his ",
+  [
+    "pants pocket","shirt pocket","suit jacket","socks","slippers","nicest dress shoes"
+  ],
+  ". When he ",
+  [
+    "discovers your treasure","finds it","finds your treat","catches on","figures it out"
+  ],
+  ", ",
+  [
+    "say “I've been dead for so long I forget what living feels like.”",
+    "shrug your shoulders and sing “That's why they call it the blues”.",
+    "give him a seductive wink and an Easter egg dying kit.",
+    "punch him in the throat.",
+    "yank forcefully on his testicles until he starts crying.",
+    "tell him you wanted to give him something to remember you by, as you suspect he has early onset dimensia.",
+    "deny EVERYTHING."
+  ]
 ];
 
 
 
 
 var sexActs = [
-  handjobs, genitalAction, dressUpAndSay, nonPenisActionsFromMen, suggestionsFromWomen, sensualMensTips, dirtyTalkTips, reallyUncreativeSexTips
+  handjobs, genitalAction, dressUpAndSay, nonPenisActionsFromMen, suggestionsFromWomen, sensualMensTips, dirtyTalkTips, reallyUncreativeSexTips, hideAnItem
 ];
 
 
 var sexTips = {
-  preamble: preamble,
+  //preamble: preambles,
   sexActs: sexActs
 };

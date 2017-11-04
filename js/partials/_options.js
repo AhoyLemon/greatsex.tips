@@ -1,9 +1,10 @@
-var preamble = [
+var preambles = [
   "Here's a sexy idea!",
   "Want to give him the time of his life?",
   "Looking to spice things up?",
   "He's gonna love this:",
   "Give him the time of his life:",
+  "Here's one he's sure to love:"
 ];
 
 var fakeNames = {
