@@ -8,12 +8,19 @@
 doctype html
 html(lang="en")
   head
-    meta(charset="utf-8")
-    title= siteTitle
-    link(href="css/tips.css?lastUpdated="+lastUpdated rel="stylesheet")
+    include partials/_head.pug
   body
-    main#app
-      
+    #app
+    
       include partials/_sidebar.pug
-
-    include partials/_javascripts.pug
+      
+      main
+        .inner
+          .tip
+            h3 
+              span Cosmo Sex Tip {{tipNumber}}
+            h1 {{currentTip}}
+          .button-holder
+            button(v-on:click="generateSexTip") New Tip
+      
+      include partials/_javascripts.pug

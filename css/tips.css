@@ -190,10 +190,6 @@ a {
 b, strong {
   font-weight: 600; }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Nunito", sans-serif;
-  font-family: 'Neuton', serif; }
-
 h1 {
   font-size: 2.5em; }
 
@@ -385,3 +381,65 @@ body {
 @media all and (display-mode: standalone) {
   #AddToHomeScreen {
     display: none; } }
+
+body {
+  background-image: url(../img/bg1.jpg);
+  background-size: cover; }
+
+main {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 99vh; }
+  main .inner {
+    width: 100%;
+    max-width: 960px; }
+  main .tip {
+    background: white;
+    padding: 1em; }
+  main h1 {
+    text-align: center;
+    font-family: "Taviraj", "Papyrus";
+    font-weight: 400; }
+  main h3 {
+    font-family: "Sansita", "Papyrus";
+    font-weight: 400;
+    margin-bottom: 0.5em; }
+    main h3 span {
+      background: #ee2a2a;
+      font-weight: 600;
+      display: inline-block;
+      padding: 0.25em 0.65em;
+      -webkit-transform: translateX(-50px);
+      -ms-transform: translateX(-50px);
+      transform: translateX(-50px);
+      color: #eee; }
+  main .button-holder {
+    text-align: center; }
+    main .button-holder button {
+      background-color: #4885ed;
+      color: #eee;
+      font-family: "Sansita", "Papyrus";
+      border: none;
+      cursor: pointer;
+      font-size: 1.5rem;
+      padding: 0.25em 1em; }

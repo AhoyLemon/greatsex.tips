@@ -6,68 +6,32 @@ var app = new Vue({
     browser: '',
     sidebarVisible: false,
     addToHomescreen: false,
-    men: dumbMen,
-    masks: [ 'heart-1', 'heart-2', 'heart-3', 'heart-4' ],
-    filePath: 'img/men/squares/',
-    raindrops: [],
-    recentMen: []
+    currentHeadline: 'Cosmo Tip',
+    tipNumber: '',
+    currentTip: '',
+    tips: sexTips,
   },
   methods: {
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // GENERATE NEW RAINDROP
-    newRaindrop: function() {
+    // GENERATE NEW SEX TIP
+    generateSexTip: function() {
       var self = this;
-      var r = Math.floor(Math.random()*self.men.length);
-      
-      if (self.recentMen.includes(self.men[r].file)) {
-        self.newRaindrop();
-      } else {
-        self.recentMen.push(self.men[r].file);
-        if (self.recentMen.length > 22) {
-          self.recentMen.shift();
+      //console.log(self.tips['sexActs'][0]);
+      var r = Math.floor(Math.random()*(self.tips.sexActs.length));
+      self.currentTip = '';
+      self.tipNumber = addCommas(Math.floor(Math.random()*(99999)));
+      self.tips.sexActs[r].forEach(function(k) {
+        if (typeof k == "object") {
+          var z = Math.floor(Math.random()*(k.length));
+          self.currentTip += k[z];
+        } else {
+          self.currentTip += k;
         }
-      }
-      
-      var dropClass = self.masks[Math.floor(Math.random()*self.masks.length)];
-
-      var sizeDiff = ((Math.floor(Math.random() * 100) + 1) / 100);
-      //alert(sizeDiff);
-      
-      var minSize = 0.05;
-      var maxSize = 1.05;
-      
-      var s = minSize + (sizeDiff * (maxSize - minSize));
-      var tX = (-40 + Math.floor(Math.random() * 80)) + 'vw';
-      
-      // Fall speed
-      var minSpeed = 2;
-      var maxSpeed = 18;
-      var aD = maxSpeed - ((maxSpeed - minSpeed) * sizeDiff) + 's';
-      
-      var rot = (-35 + (Math.random() * 70)) + 'deg';
-      var shd = Math.floor(30 * sizeDiff) + 'px';
-      
-      var drop = {
-        file: self.men[r].file,
-        class: dropClass,
-        seconds: {
-          animationDuration: aD,
-          zIndex: (sizeDiff * 1000)
-        },
-        styleObject: {
-          transform: 'translateX('+tX+') scale('+s+') rotate('+rot+')', 
-          boxShadow: '0 0 '+shd+' rgba(0,0,0,0.5)'
-        }
-      };
-      
-      self.raindrops.push(drop);
-      
-      if (self.raindrops.length > 20) {
-        $('#Raindrops .drop:first-child').remove();
-      }
-      
+        
+      });
     },
+    
     
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -124,17 +88,6 @@ var app = new Vue({
   },
   mounted: function () {
     var self = this;
-    //self.newRaindrop();
-    self.newRaindrop();
-    function doSomething() {}
-
-    (function loop() {
-      var rand = Math.round(Math.random() * (1600  - 600)) + 600;
-      setTimeout(function() {
-        //alert('A');
-        self.newRaindrop();
-        loop();  
-      }, rand);
-    }());
+    self.generateSexTip();
   }
 });
