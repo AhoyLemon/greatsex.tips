@@ -148,6 +148,7 @@ var sensualMensTips = [
   [
     "It's tender, yet sexy.", "It really shows me your sensual side.", "It shows me how much you care.", "It demonstrates that you're a classy woman.", "Because my previous girlfriend never would."
   ],
+  "”",
   "<br />",
   "     -",
   fakeNames.first.men,
@@ -190,7 +191,7 @@ var reallyUncreativeSexTips = [
     "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other"
   ],
   "?"
-]
+];
 
 
 
