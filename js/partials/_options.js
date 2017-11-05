@@ -4,15 +4,17 @@ var preambles = [
   "Looking to spice things up?",
   "He's gonna love this:",
   "Give him the time of his life:",
-  "Here's one he's sure to love:"
+  "Here's one he's sure to love:",
+  "Here's a hot one!",
+  "Hot stuff!"
 ];
 
 var fakeNames = {
   first: { 
-    men:   ["Clifton","Alistair","Crunk","Dag","Brock","Slug","Dick","P.J.","Tungsten","F. Murray","Grund","Thurston","Crud","Sandford", "Peter B","Satch"],
-    women: ["Whinnie","Siri","Bimbi","Tawnee","Kaytee","Stacie","Katrina","Gwenevere","Annie","Phoebe","Femke","Flavia","Nestea","Fanta","Sandy","Sammi","Pansy"]
+    men:   ["Clifton","Alistair","Crunk","Dag","Brock","Slug","Dick","P.J.","Tungsten","F. Murray","Grund","Thurston","Crud","Sandford", "Peter B","Satch","Philbert"],
+    women: ["Whinnie","Siri","Bimbi","Tawnee","Kaytee","Stacie","Katrina","Gwenevere","Annie","Phoebe","Femke","Flavia","Nestea","Fanta","Sandy","Sammi","Pansy","Brindle","Swank"]
   },
-  last:    [ "Nutskin","Slapandtickle","Dickwhistle","Realperson","Shrunkdink","Fluffermore","Gutbucket","Turnblatt","Dingle-Schmidt","Thistlewick","Bundlebottom","Troublelump","Ornithopter","Innercheese", "Winnerlose","Clieffe","Strunkenwhite","Arr","Genuine","Blank-Schotte","Christchurchmass","Odor"]
+  last:    [ "Nutskin","Slapandtickle","Dickwhistle","Realperson","Shrunkdink","Fluffermore","Gutbucket","Turnblatt","Dingle-Schmidt","Thistlewick","Bundlebottom","Troublelump","Ornithopter","Innercheese", "Winnerlose","Tremblecleft","Cliff-Note","Strunkenwhite","Arr","Genuine","Blank-Schotte","Christchurch","Odor","Actual","Peelinete"]
 };
 
 var bodyParts = [

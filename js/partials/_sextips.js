@@ -1,5 +1,6 @@
 // jshint -W117
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var handjobs = [
   [
     "Grab his penis and",
@@ -13,6 +14,7 @@ var handjobs = [
   ],
   " ",
   [
+    "stroke it as quickly and forcefully as possible, ignoring any new sounds or smells that occur as a result.",
     "explain why you're disappointed.",
     "list the Kings of England chronologically, excluding the Williams and Henrys.",
     "roll it back and forth between your palms until it is the length and circumference of a No 2 pencil.",
@@ -26,6 +28,71 @@ var handjobs = [
   ]
 ];
 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+var blowjobs = [
+  [
+    "And now, the perfect blowjob:","Mind blowing oral for him:","The Perfect Blowjob:","Give him a blowjob to remember"
+  ],
+  " ",
+  [
+    "While his penis is in your mouth","With his penis in your mouth","As you suck on his penis"
+  ],
+  ", ",
+  [
+    "snap your fingers at him like you were Calista Gingrich summoning a waiter",
+    "slap him once on each side of his face",
+    "look directly into one of his eyes (your choice)",
+    "wink seductively at him",
+    "twist his scrotum around a chopstick or paintbrush",
+    "gag just a little bit",
+    "start singing your choice of Tom Petty's greatest hits",
+    "apologize for what you're about to do",
+    "dig your fingernails into his scrotum"
+  ],
+  " and ",
+  [
+    "knock the tip of his penis against your uvula as though it was a prize fighter practicing on a speed bag",
+    "bite down.",
+    "then spit his penis out of your mouth.",
+    "then file for divorce"
+  ]
+];
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+var newSexPositions = [
+  [
+    "Try out a new position:","Have sex in a new position:","Ditch the missionary!","Forget the kama sutra, try this one:"
+  ],
+  " Put your legs ",
+  [
+    "over his head","around his butt","on top of his legs","on his knees","over his gun rack","all around his body","aside","out the window"
+  ],
+  " and your hands ",
+  [
+    "on his head","gripping his butt cheeks tightly","grabbing his legs","squeezing his knees","resting on his balls","around his aura","on his hip","over his eyes"
+  ],
+  ". ",
+  [
+    "Now thrust back against him as hard as you can.",
+    "Now lay perfectly still until he forgets you're in the room.",
+    "Now stare him right in the eyes and dare him to make love to you like that.",
+    "Now tell him to orgasm on the count of three.",
+    "Now begin a high pitched shriek daring him to knock you unconscious."
+    
+  ],
+  " ",
+  [
+    "What a workout!","","","","",""
+  ]
+];
+
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var genitalAction = [
   preambles,
   " ",
@@ -33,9 +100,7 @@ var genitalAction = [
     "Punch","Bite","Kick","Poke","Belittle","Humiliate","Spit on","Lick","Have contempt for","Suck"
   ],
   " his ",
-  [
-    maleGenitals
-  ],
+  maleGenitals,
   " until he ",
   [
     "asks you to stop.", "begs you to stop.", "wishes you would stop.", "summons a genie to get you to stop.","gets bored of it.","calls Amnesty International.","cries.","regrets meeting you.",
@@ -43,6 +108,7 @@ var genitalAction = [
   ]
 ];
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var dressUpAndSay = [
   [
     "Dress up",
@@ -58,7 +124,8 @@ var dressUpAndSay = [
     "in his unwashed socks",
     "like a cross between Prince and his mother",
     "like a mouse",
-    "as Soviet Spy Ethel Rosenberg"
+    "as Soviet Spy Ethel Rosenberg",
+    "your sexiest lingerie"
   ],
   " ",
   [
@@ -68,13 +135,14 @@ var dressUpAndSay = [
   ],
   " ",
   [
-    "“This is a trial for humanity's crimes, and you will be punished with our sentence.”",
+    "“You are on trial for all the crimes of humanity, and will be punished if found guilty.”",
     "“Prepare yourself for disappointment!”",
     "that you want to listen to U2's entire discography before having sex.",
     "“Me Chinese, me play joke. Me put pee-pee in your Coke.”",
   ]
 ];
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var nonPenisActionsFromMen = [
   fakeNames.first.men,
   " ",
@@ -107,10 +175,14 @@ var nonPenisActionsFromMen = [
   "”"
 ];
 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var suggestionsFromWomen = [
   fakeNames.first.women,
   " ",
   fakeNames.last,
+  " ",
   [
     "tells us","writes","wrote in to say","confessed to us","let us know"
   ],
@@ -138,6 +210,7 @@ var suggestionsFromWomen = [
   ]
 ];
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var sensualMensTips = [
   " “When I ",
   [
@@ -165,6 +238,9 @@ var sensualMensTips = [
   ]
 ];
 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var dirtyTalkTips = [
   [
     "Men love dirty talk!","Take IN the trash... with dirty talk!","Get vocal in the bedroom!","Start talking dirty!","Even clean girls can talk dirty!","Talk dirty to him!",
@@ -189,6 +265,10 @@ var dirtyTalkTips = [
   ]
 ];
 
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var reallyUncreativeSexTips = [
   [
     "Maybe you could","How about you","What about you","Okay uh"
@@ -197,9 +277,14 @@ var reallyUncreativeSexTips = [
   [
     "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other"
   ],
-  "?","."
+  [
+    "?","."
+  ]
 ];
 
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var hideAnItem = [
   preambles,
   
@@ -230,9 +315,39 @@ var hideAnItem = [
 
 
 
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+var bondageTips = [
+  [
+    "Introduce a little kink into your life!","Time to get naughty!","Be his daring darling!","Experiment with bondage!","Be his darling dominatrix!"
+  ],
+  " ",
+  [
+    "Handcuff","Tie","Lash"
+  ],
+  " his ",
+  [
+    "hands","wrists","ankles"
+  ],
+  " to ",
+  [
+    "the bed","the couch"
+  ],
+  " and ",
+  [
+    "leave.","discuss what you'd like to change about the kitchen backsplash.","give him one hard punch right in the taint.","then have sex with his dad.","tell him how excited you are about watching him starve to death."
+  ]
+];
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
 
 var sexActs = [
-  handjobs, genitalAction, dressUpAndSay, nonPenisActionsFromMen, suggestionsFromWomen, sensualMensTips, dirtyTalkTips, reallyUncreativeSexTips, hideAnItem
+  //handjobs, genitalAction, dressUpAndSay, nonPenisActionsFromMen, suggestionsFromWomen, sensualMensTips, dirtyTalkTips, reallyUncreativeSexTips, hideAnItem, bondageTips, newSexPositions
+  blowjobs
 ];
 
 

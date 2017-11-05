@@ -258,9 +258,6 @@ body {
     .sidebar-button svg * {
       fill: #e5e972; }
   .sidebar-button .x, .sidebar-button .question-mark {
-    -webkit-transition: all 0.3s ease;
-    -o-transition: all 0.3s ease;
-    transition: all 0.3s ease;
     -webkit-transform-origin: center;
     -ms-transform-origin: center;
     transform-origin: center;
@@ -415,7 +412,9 @@ main {
     max-width: 960px; }
   main .tip {
     background: white;
-    padding: 1em; }
+    padding: 1em;
+    -webkit-box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
+    box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5); }
   main h1 {
     text-align: center;
     font-family: "Taviraj", "Papyrus";
@@ -432,14 +431,30 @@ main {
       -webkit-transform: translateX(-50px);
       -ms-transform: translateX(-50px);
       transform: translateX(-50px);
-      color: #eee; }
-  main .button-holder {
-    text-align: center; }
-    main .button-holder button {
-      background-color: #4885ed;
       color: #eee;
-      font-family: "Sansita", "Papyrus";
-      border: none;
+      -webkit-box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
+      box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5); }
+  main .button-holder {
+    text-align: center;
+    padding-top: 1em; }
+    main .button-holder button {
+      background-color: transparent;
+      color: #e5e972;
+      font-family: "Taviraj", "Papyrus";
+      font-weight: 600;
+      border: 2px solid currentColor;
       cursor: pointer;
       font-size: 1.5rem;
-      padding: 0.25em 1em; }
+      padding: 0.25em 1em;
+      text-shadow: 1px 1px 0 #212121;
+      -webkit-box-shadow: 1px 1px 0 #212121;
+      box-shadow: 1px 1px 0 #212121;
+      background-color: rgba(33, 33, 33, 0.3); }
+      main .button-holder button:hover {
+        background: #e5e972;
+        color: #212121;
+        -webkit-box-shadow: 3px 3px 0 rgba(33, 33, 33, 0.85);
+        box-shadow: 3px 3px 0 rgba(33, 33, 33, 0.85); }
+      main .button-holder button:active {
+        -webkit-box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88);
+        box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88); }
