@@ -19,7 +19,7 @@ var handjobs = [
     "list the Kings of England chronologically, excluding the Williams and Henrys.",
     "roll it back and forth between your palms until it is the length and circumference of a No 2 pencil.",
     "immediately let go of it.",
-    "strangle the life out of it.",
+    "strangle it until it goes limp.",
     "measure it, tutting all the while.",
     "give it a hundred thousand tiny papercuts.",
     "name the Martha Stewart swatch its color most resembles.",
@@ -103,8 +103,8 @@ var genitalAction = [
   maleGenitals,
   " until he ",
   [
-    "asks you to stop.", "begs you to stop.", "wishes you would stop.", "summons a genie to get you to stop.","gets bored of it.","calls Amnesty International.","cries.","regrets meeting you.",
-    "accepts you as his new God!","notices.","wakes up.","finaly enjoys it"
+    "asks you to stop.", "begs you to stop.", "wishes you would stop.", "summons a genie to get you to stop.","gets bored of it.","calls Amnesty International.","cries.","regrets meeting you.","gets creeped out.",
+    "accepts you as his new God!","notices.","wakes up.","finaly enjoys it."
   ]
 ];
 
@@ -125,7 +125,8 @@ var dressUpAndSay = [
     "like a cross between Prince and his mother",
     "like a mouse",
     "as Soviet Spy Ethel Rosenberg",
-    "your sexiest lingerie"
+    "your sexiest lingerie",
+    "in your birthday suit"
   ],
   " ",
   [
@@ -135,10 +136,12 @@ var dressUpAndSay = [
   ],
   " ",
   [
-    "“You are on trial for all the crimes of humanity, and will be punished if found guilty.”",
+    "“You are on trial for the crimes of all humanity. If found guilty, you will be executed.”",
     "“Prepare yourself for disappointment!”",
     "that you want to listen to U2's entire discography before having sex.",
     "“Me Chinese, me play joke. Me put pee-pee in your Coke.”",
+    "“Chemtrails are a government conspiracy to ruin sex by giving me nausea.”",
+    "“Today I'm going to roleplay as someone cares about you.”"
   ]
 ];
 
@@ -161,7 +164,7 @@ var nonPenisActionsFromMen = [
   ],
   " ",
   [
-    "tugs on","slaps","twists","flicks","thwacks","spits on","lightly touches","is unimpressed with"
+    "tugs on","slaps","twists","flicks","spits on","lightly touches","silently judges","nibbles on"
   ],
   " my ",
   bodyParts,
@@ -232,7 +235,7 @@ var sensualMensTips = [
   "<br />",
   "     -",
   fakeNames.first.men,
-  ", ",
+  ", ", 
   [
     24,25,26,27,28,29,30,31,32,33,34,35,36,37
   ]
@@ -275,7 +278,7 @@ var reallyUncreativeSexTips = [
   ],
   " ",
   [
-    "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other"
+    "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other","masturbate together"
   ],
   [
     "?","."
@@ -309,7 +312,8 @@ var hideAnItem = [
     "punch him in the throat.",
     "yank forcefully on his testicles until he starts crying.",
     "tell him you wanted to give him something to remember you by, as you suspect he has early onset dimensia.",
-    "deny EVERYTHING."
+    "deny EVERYTHING.",
+    "call the police."
   ]
 ];
 
@@ -322,7 +326,7 @@ var bondageTips = [
   ],
   " ",
   [
-    "Handcuff","Tie","Lash"
+    "Handcuff","Tie","Lash",
   ],
   " his ",
   [
@@ -330,11 +334,16 @@ var bondageTips = [
   ],
   " to ",
   [
-    "the bed","the couch"
+    "the bed","the the headboard","the radiator","the front door","a meathook"
   ],
   " and ",
   [
-    "leave.","discuss what you'd like to change about the kitchen backsplash.","give him one hard punch right in the taint.","then have sex with his dad.","tell him how excited you are about watching him starve to death."
+    "leave.",
+    "discuss what you'd like to change about the kitchen backsplash.",
+    "give him one hard punch right in the taint.",
+    "then have sex with his dad.",
+    "tell him how excited you are about watching him starve to death.",
+    "surprise him with your brand new blood play fetish."
   ]
 ];
 
@@ -346,8 +355,7 @@ var bondageTips = [
 
 
 var sexActs = [
-  //handjobs, genitalAction, dressUpAndSay, nonPenisActionsFromMen, suggestionsFromWomen, sensualMensTips, dirtyTalkTips, reallyUncreativeSexTips, hideAnItem, bondageTips, newSexPositions
-  blowjobs
+  handjobs, genitalAction, dressUpAndSay, nonPenisActionsFromMen, suggestionsFromWomen, sensualMensTips, dirtyTalkTips, reallyUncreativeSexTips, hideAnItem, bondageTips, newSexPositions, blowjobs
 ];
 
 
