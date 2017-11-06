@@ -1,7 +1,8 @@
 .javascripts
-  script(src="http://code.jquery.com/jquery-3.2.1.min.js")
   if testing
-    script(src="https://unpkg.com/vue")
+    //script(src="js/libraries/jquery.full.js")
+    script(src="js/libraries/vue.full.js")
   else
-    script(src="js/min/vue.min.js")
+    script(src="js/libraries/jquery.min.js")
+    script(src="js/libraries/vue.min.js")
   script(src="js/min/tips.min.js?lastUpdated="+lastUpdated)

@@ -20,15 +20,13 @@ var suggestionsFromWomen = [
     "My sweetie",
     "My sister's husband",
     "This guy I know",
-    "A stranger on the bus",
-    "My tulpa"
   ],
   " ",
   [
     "loves it when",
     "really likes it when",
     "goes wild when",
-    "thinks they've died and gone to heaven"
+    "thinks he's died and gone to heaven when"
   ],
   " ",
   [
@@ -39,16 +37,21 @@ var suggestionsFromWomen = [
     "we play ‘Sexy Monopoly’, which is like regular Monopoly except it takes longer.",
     "I give him a sexy striptease to the Johnny Cash cover of “Hurt”",
     "I put googly eyes on his penis and practice ventriloquy.",
-    "I show him my favorite speedrun of Bubsby.",
-    "describe and rate every hair on his balls.",
-    "we record a new episode of the podcast where I interview his dick about current politics.",
+    "I show him all my favorite speedruns of Bubsy.",
+    "I describe and rate every hair on his balls.",
+    [
+      "we record a new episode of our podcast ",
+      [
+        "“Dick's Nixon”, where I debate his neo-conservative dick on the legacy of Richard Nixon",
+        "“Lady And The Dick”, where his dick and I discuss our favorite Disney films.",
+        "about our top 100 MMA fights of all time."
+      ]
+    ],
+    "we watch unboxing videos together.",
     "I strap a large piece of dirty drywall to my face and tell him I'm his glory hole.",
-    "place electrodes on his frenulum.",
-    "put his dick in a hot dog bun and complain that it's too small for the bun.",
-    "perform CPR on his balls.",
-    "buff his dick to a mirror shine.",
+    "I buff his dick to a mirror shine.",
     "perform my comedy monologue in a Big Bird costume.",
-    "put the lotion on the skin."
+    "I put the lotion on its skin."
   ],
   " ",
   [

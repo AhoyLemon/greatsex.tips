@@ -15,9 +15,9 @@ var dressUpAndSay = [
     "like a cross between Prince and his mother",
     "like a mouse",
     "as Soviet Spy Ethel Rosenberg",
-    "your sexiest lingerie",
+    "in your sexiest lingerie",
     "in your birthday suit",
-    "his favorite anime character",
+    "as his favorite anime character",
     "as the Cat in the Hat",
     "a third grade lunchlady",
     "a caring girlfriend",
@@ -30,7 +30,7 @@ var dressUpAndSay = [
     "as the personification of dignity",
     "a giant fish stick",
     "a large bee",
-    "as James Bond"
+    "as David Niven era James Bond"
   ],
   " ",
   [

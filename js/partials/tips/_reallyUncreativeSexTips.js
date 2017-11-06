@@ -19,7 +19,7 @@ var reallyUncreativeSexTips = [
     "consider couple's counciling",
     "put his penis in your vagina",
     "use some lube",
-    "write sex in pepperonis on a pizza",
+    "write SEX in pepperonis on a pizza",
     "use your mouth AND your hands",
     "have sex in the shower"
   ],

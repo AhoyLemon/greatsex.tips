@@ -37,7 +37,8 @@ var doThingsToHisGenitals = [
     "summons a genie to get you to stop.",
     "gets bored of it.",
     "calls Amnesty International.",
-    "cries.","regrets meeting you.",
+    "cries.",
+    "regrets meeting you.",
     "gets creeped out.",
     "accepts you as his new God.",
     "notices.",
@@ -48,7 +49,6 @@ var doThingsToHisGenitals = [
     "folds into singularity",
     "returns to dust",
     "runs out of quarters.",
-    "commits first degree.",
     "remembers you exist.",
     "trancends to a new plane.",
     "runs out of the house screaming."

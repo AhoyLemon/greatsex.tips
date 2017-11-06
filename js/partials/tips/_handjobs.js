@@ -21,6 +21,7 @@ var handjobs = [
     "measure it, tutting all the while.",
     "give it a hundred thousand tiny papercuts.",
     "name the Martha Stewart swatch its color most resembles.",
+    "make a “Chicago Style” Hot Dog with yellow mustard, sport peppers, pickle relish and celery salt.",
     "start a Twitterbot for it.",
     "grab it with your other set of hands now.",
     "rub-a-dub-dub put that dick in a tub.",
