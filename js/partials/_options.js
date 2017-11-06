@@ -6,7 +6,7 @@ var preambles = [
   "Give him the time of his life:",
   "Here's one he's sure to love:",
   "Here's a hot one!",
-  "Hot stuff!"
+  "Hot stuff!",
 ];
 
 var fakeNames = {

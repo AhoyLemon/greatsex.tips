@@ -28,9 +28,19 @@ var app = new Vue({
         if (typeof k == "object") {
           //console.log(k)
           var z = Math.floor(Math.random()*(k.length));
-          self.currentTip += k[z];
+          
+          if (typeof k[z] == "object") {
+            k[z].forEach(function(a) {
+              if (typeof a == "object") {
+                self.currentTip += a[(Math.floor(Math.random()*(a.length)))];
+              } else {
+                self.currentTip += a;
+              }
+            });
+          } else {
+            self.currentTip += k[z];
+          }
         } else {
-          //
           self.currentTip += k;
         }
         
