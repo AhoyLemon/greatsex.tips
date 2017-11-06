@@ -25,6 +25,8 @@ var handjobs = [
     "name the Martha Stewart swatch its color most resembles.",
     "start a Twitterbot for it.",
     "grab it with your other set of hands now."
+    "Rub-a-dub-dub put that dick in a tub.",
+    "Put some creative floral arrangements of seasonal flowers around it, adding soft lighting and take a few photos. Remember to only use the Willow filter."
   ]
 ];
 
@@ -33,7 +35,7 @@ var handjobs = [
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var blowjobs = [
   [
-    "And now, the perfect blowjob:","Mind blowing oral for him:","The Perfect Blowjob:","Give him a blowjob to remember"
+    "And now, the perfect blowjob:","Mind blowing oral for him:","The Perfect Blowjob:","Give him a blowjob to remember", "To really slob that knob"
   ],
   " ",
   [
@@ -81,11 +83,11 @@ var newSexPositions = [
     "Now stare him right in the eyes and dare him to make love to you like that.",
     "Now tell him to orgasm on the count of three.",
     "Now begin a high pitched shriek daring him to knock you unconscious."
-    
+
   ],
   " ",
   [
-    "What a workout!","","","","",""
+    "What a workout!","How transcendental!","Soon you'll be another story in Hustler!","Your yoga class will be impressed!","",""
   ]
 ];
 
@@ -97,14 +99,14 @@ var genitalAction = [
   preambles,
   " ",
   [
-    "Punch","Bite","Kick","Poke","Belittle","Humiliate","Spit on","Lick","Have contempt for","Suck"
+    "Punch","Bite","Kick","Poke","Belittle","Humiliate","Spit on","Lick","Have contempt for","Suck", "Massage", "Console", "Hypnotize", "Livestream", "Skin", "Paint", "Toast"
   ],
   " his ",
   maleGenitals,
   " until he ",
   [
     "asks you to stop.", "begs you to stop.", "wishes you would stop.", "summons a genie to get you to stop.","gets bored of it.","calls Amnesty International.","cries.","regrets meeting you.","gets creeped out.",
-    "accepts you as his new God!","notices.","wakes up.","finaly enjoys it."
+    "accepts you as his new God!","notices.","wakes up.","finaly enjoys it.", "Busts into song", "Calls you Mother", "Folds into singularity", "Returns to dust", "Runs out of quarters"
   ]
 ];
 
@@ -114,6 +116,7 @@ var dressUpAndSay = [
     "Dress up",
     "Greet him at the door dressed",
     "Suprise him by dressing",
+    "Throw away the sweatpants and dress"
   ],
   " ",
   [
@@ -132,7 +135,9 @@ var dressUpAndSay = [
   [
     "and tell him",
     "and whisper",
-    "and scream"
+    "and scream",
+    "and text him"
+    "and semaphore him"
   ],
   " ",
   [
@@ -142,6 +147,9 @@ var dressUpAndSay = [
     "“Me Chinese, me play joke. Me put pee-pee in your Coke.”",
     "“Chemtrails are a government conspiracy to ruin sex by giving me nausea.”",
     "“Today I'm going to roleplay as someone cares about you.”"
+    "“VACCINES CAUSE AUTISM."“,
+    "“Jet fuel can't melt steel beams.”",
+    "“So it's $300 for the first two hours, and $100 for each subsequent hour."“
   ]
 ];
 
@@ -156,24 +164,24 @@ var nonPenisActionsFromMen = [
   ],
   " “",
   [
-    "I love it when","It turns me on when","It drives me wild when"
+    "I love it when","It turns me on when","It drives me wild when", "I feel like I've died and gone to heaven"
   ],
   " ",
   [
-    "a chick","a woman","a babe","a lady","a girl"
+    "a chick","a woman","a babe","a lady","a girl", "my waifu", "my bae", "a lady", "a succubus"
   ],
   " ",
   [
-    "tugs on","slaps","twists","flicks","spits on","lightly touches","silently judges","nibbles on"
+    "tugs on","slaps","twists","flicks","spits on","lightly touches","silently judges","nibbles on", "builds up", "edit judiciously", "pet gently", "takes on a dinner date", "removes and places in a museum", "stares intently", "blindfolds", "screams at", "cries on", "makes a sandwich out of", "alternates an ice pack and hot water bottle on", "sets on fire", "screencasts as Kramer"
   ],
   " my ",
   bodyParts,
   ". It ",
   [
-    "drives me crazy every time","absolutely destroys me each time","makes me want to propose marriage","makes me want to do the same thing back to her","makes me rethink all my life choices up til that point","really is something we men sure do like a lot"
+    "drives me crazy every time","absolutely destroys me each time","makes me want to propose marriage","makes me want to do the same thing back to her","makes me rethink all my life choices up til that point","really is something we men sure do like a lot", "makes my" maleGenitals, "stand at attention", "makes me want to flee the country", "catch up on my filing", "call into work", "post on Reddit", "finish my Gunpla", "is an amazing revalation", "sustains me emotionally", "scratches that itch"
   ],
   [
-    "!", "!", "!!!", "."  
+    "!", "!", "!!!", "."
   ],
   "”"
 ];
@@ -191,11 +199,11 @@ var suggestionsFromWomen = [
   ],
   " “",
   [
-    "My husband", "My hubby", "My boyfriend", "My man", "My bae", "My sweetie", "My sister's husband", "This guy I know"
+    "My husband", "My hubby", "My boyfriend", "My man", "My bae", "My sweetie", "My sister's husband", "This guy I know", "A stranger on the bus", "My tulpa", "My bodypillow", "My incubus"
   ],
   " ",
   [
-    "loves it when","really likes it when","goes wild when"
+    "loves it when","really likes it when","goes wild when", "thinks they've died and gone to heaven"
   ],
   " ",
   [
@@ -203,13 +211,26 @@ var suggestionsFromWomen = [
     "we spend an entire evening avoiding eye contact with each other.",
     "I jerk on his dick to the beat of Kid Rock's Early Mornin' Stoned Pimp.",
     "we compare our credit scores from Experian to the ones from Equifax.",
-    "we play ‘Sexy Monopoly’, which is like regular Monopoly except it takes longer."
+    "we play ‘Sexy Monopoly’, which is like regular Monopoly except it takes longer.",
+    "I sing Nine Inch Nails <i>Hurt</i> for six hours.",
+    "I put googly eyes on his penis and practice ventriloquy.",
+    "show him my favorite speedrun of Bugsby.",
+    "catalogue every hair on his balls.",
+    "start a podcast interviewing his dick about current politics.",
+    "strap a large piece of drity drywall to my face and simulate a glory hole.",
+    "place electrodes on his frenulum.",
+    "put his dick in a hot dog bun and complain that it's too small for the bun.",
+    "perform CPR on his balls"
   ],
   " ",
   [
     "It certainly makes for an interesting evening!",
     "Waiter? Check Please!",
-    "We just make sure the door is locked first!"
+    "We just make sure the door is locked first!",
+    "What a rush!",
+    "The police know where we live!",
+    "Maxium fun!",
+    "A sure-fire turn on!"
   ]
 ];
 
@@ -217,7 +238,7 @@ var suggestionsFromWomen = [
 var sensualMensTips = [
   " “When I ",
   [
-    "lean in to kiss you","take you by the hand","stroke your clit","look into your eyes","touch your chest"
+    "lean in to kiss you","take you by the hand","stroke your clit","look into your eyes","touch your chest","finger your baby hole", "bend you over the bed", "load you into the sex swing", "shower you with dildos"
   ],
   ", ",
   [
@@ -226,6 +247,10 @@ var sensualMensTips = [
     "apologize for everything you've ever said to me in the past",
     "pretend that your name is actually my name and refer to me only as ‘Star Commander’",
     "just start going ‘I whip my hair back and forth, I whip my hair back and forth’ and don't stop no matter what",
+    "drink to forget",
+    "open your mouth to unleash a plague of locusts",
+    "bask in the glow of your bioluminescence",
+    "release ink and escape in the confusion"
   ],
   ". ",
   [
@@ -235,7 +260,7 @@ var sensualMensTips = [
   "<br />",
   "     -",
   fakeNames.first.men,
-  ", ", 
+  ", ",
   [
     24,25,26,27,28,29,30,31,32,33,34,35,36,37
   ]
@@ -260,11 +285,11 @@ var dirtyTalkTips = [
   [
     "Your penis is totally fine, all things considered.", "I'm not really sure what the point of all <i>this</i> is!",
     "Great green globs of greasy, grimy, gopher guts / Mutilated monkey meat / Hairy pickled piggy feet / French fried eyeballs floating in some kerosene / and me without a spoon",
-    "Okay.", "Dirt!", "I really love the 2001 David Spade movie ‘Joe Dirt’.", "Bawitdaba da bang a dang diggy diggy diggy said the boogy said up jump the boogy","These immigrants are coming over here and taking all of our goddamn jobs!","I consent to everything taking place right now and believe that I will inform you if and when that changes."
+    "Okay.", "Dirt!", "I really love the 2001 David Spade movie ‘Joe Dirt’.", "Bawitdaba da bang a dang diggy diggy diggy said the boogy said up jump the boogy","These immigrants are coming over here and taking all of our goddamn jobs!","I consent to everything taking place right now and believe that I will inform you if and when that changes.", "5/10 effort at <i>best</i>.", "...is that a piece of beef jerky?", "I didn't think it was possible for sex to jump the shark, but you've shown me different.", "So do you want go to your mother's tomorrow, or Wednesday?", "If you feel anything, it's just the spare key to the house I keep in my uterus.", "Pachouli is a perfectly natural smell.", "The sins you committed can never be washed away", "Out, damned spot! Out, I say!—One, two. What, will these hands ne'er be clean?", ""
   ],
   "” He's sure to ",
   [
-    "put up with it!", "blow his top!", "notice.", "lose his mind!"
+    "put up with it!", "blow his top!", "notice.", "lose his mind!", "call the police!", "orgasm into outer space!", "Baker Act you!"
   ]
 ];
 
@@ -278,7 +303,7 @@ var reallyUncreativeSexTips = [
   ],
   " ",
   [
-    "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other","masturbate together"
+    "do it doggy style","do it standing up","have sex in the kitchen","kiss each other","touch his penis with your hand","put his penis in your mouth","do it backwards","talk to each other","masturbate together", "wear some lingerie", "consider couple's counciling", "put his penis in your vagina", "use some lube", "write sex in pepperonis on a pizza"
   ],
   [
     "?","."
@@ -290,7 +315,7 @@ var reallyUncreativeSexTips = [
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 var hideAnItem = [
   preambles,
-  
+
   " Hide ",
   [
     "an eggplant","a dozen eggs","some hamburger meat","your panties","your underwear","your bra","an (ahem) adult item","a vibrator","a tube of lipstick","loose change","six fluid ounces of massage oil","an empty beer bottle",
