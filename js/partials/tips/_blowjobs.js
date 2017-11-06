@@ -3,8 +3,7 @@ var blowjobs = [
     "And now, the perfect blowjob:",
     "Mind blowing oral for him:",
     "The Perfect Blowjob:",
-    "Give him a blowjob to remember",
-    "To <i>really</i> slob that knob"
+    "Give him a blowjob to remember"
   ],
   " ",
   [
