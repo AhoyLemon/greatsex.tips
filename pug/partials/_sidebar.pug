@@ -11,7 +11,11 @@ button.sidebar-button(v-on:click="sidebarVisible = !sidebarVisible" v-bind:class
       span.label This site is
       span.indent
         span by 
-        a(href="http://ahoylemon.xyz" target="_blank" onclick="sendGA('outside link', 'site by Lemon', http://ahoylemon.xyz')") Lemon
+        a(href="http://ahoylemon.xyz" target="_blank" onclick="sendEvent('outside link', 'site by Lemon', 'http://ahoylemon.xyz')") Lemon
+        br
+        span and 
+        a(href="https://twitter.com/AberrantWhimsy" target="_blank" onclick="sendEvent('outside link', 'Sanguinary Novel', 'https://twitter.com/AberrantWhimsy')") Sanguinary Novel
+        
     li#AddToHomeScreen(v-if="device")
       span.label But first
       span.indent 

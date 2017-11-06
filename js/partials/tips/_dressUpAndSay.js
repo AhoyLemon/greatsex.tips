@@ -1,0 +1,62 @@
+var dressUpAndSay = [
+  [
+    "Dress up",
+    "Greet him at the door dressed",
+    "Suprise him by dressing",
+    "Throw away the sweatpants and dress"
+  ],
+  " ",
+  [
+    "as the thing he fears the most",
+    "as his favorite professional golfer",
+    "as Robocop",
+    "as Scrooge McDuck",
+    "in his unwashed socks",
+    "like a cross between Prince and his mother",
+    "like a mouse",
+    "as Soviet Spy Ethel Rosenberg",
+    "your sexiest lingerie",
+    "in your birthday suit",
+    "his favorite anime character",
+    "as the Cat in the Hat",
+    "a third grade lunchlady",
+    "a caring girlfriend",
+    "a carnival barker",
+    "a sentient Bop-It",
+    "the Thing",
+    "a plate of spaghetti",
+    "as Sylvia Plath imitating literal jar of bells",
+    "an opera singer",
+    "as the personification of dignity",
+    "a giant fish stick",
+    "a large bee",
+    "as James Bond"
+  ],
+  " ",
+  [
+    "and tell him",
+    "and whisper",
+    "and scream",
+    "and text him",
+    "and semaphore him",
+    "and sing to him"
+  ],
+  " ",
+  [
+    "“You are on trial for the crimes of all humanity. If found guilty, you will be executed.”",
+    "“Prepare yourself for disappointment!”",
+    "that you want to listen to U2's entire discography before having sex.",
+    "“Me Chinese, me play joke. Me put pee-pee in your Coke.”",
+    "“Chemtrails are a government conspiracy to ruin sex by giving me nausea.”",
+    "“Today I'm going to roleplay as someone cares about you.”",
+    "“VACCINES CAUSE AUTISM.”",
+    "“Jet fuel can't melt steel beams.”",
+    "“So it's $300 for the first two hours, and $100 for each subsequent hour.”",
+    "“I think we should see other people”",
+    "“Eccelston was the best Doctor.”",
+    "“The rhythm method truly is the best way.”",
+    "“Dear Leader's turn is next.”",
+    "“I like the way you work it”",
+    "“If you fuck at 88mph, my vagina catches fire and you'll teleport into the future.”"
+  ]
+];

@@ -21,13 +21,12 @@ var app = new Vue({
       //console.log(self.tips['sexActs'][0]);
       var r = Math.floor(Math.random()*(self.tips.sexActs.length));
       self.currentTip = '';
-      self.tipNumber = addCommas(Math.floor(Math.random()*(99999))+1);
+      self.tipNumber = '#' + addCommas(Math.floor(Math.random()*(99999))+1);
       
       self.tips.sexActs[r].forEach(function(k) {
-        console.log(typeof k);
-        //if (k)
+        //console.log(typeof k);
         if (typeof k == "object") {
-          console.log(k)
+          //console.log(k)
           var z = Math.floor(Math.random()*(k.length));
           self.currentTip += k[z];
         } else {
