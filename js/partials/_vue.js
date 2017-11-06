@@ -6,8 +6,16 @@ var app = new Vue({
     browser: '',
     sidebarVisible: false,
     addToHomescreen: false,
-    currentHeadline: 'Cosmo Tip',
-    tipNumber: '',
+    tipLabel: 'Cosmo Sex Tip',
+    backgroundImages: [
+      'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg'
+    ],
+    secondaryImage: false,
+    primaryImage: {
+      backgroundImage:'url(img/bg1.jpg)'
+    },
+    tipNumber: 0,
+    tipsDisplayed: 0,
     currentTip: '',
     tips: sexTips,
     names: fakeNames
@@ -21,7 +29,7 @@ var app = new Vue({
       //console.log(self.tips['sexActs'][0]);
       var r = Math.floor(Math.random()*(self.tips.sexActs.length));
       self.currentTip = '';
-      self.tipNumber = '#' + addCommas(Math.floor(Math.random()*(99999))+1);
+      self.tipNumber = Math.floor(Math.random()*(99999))+1;
       
       self.tips.sexActs[r].forEach(function(k) {
         //console.log(typeof k);
@@ -45,8 +53,20 @@ var app = new Vue({
         }
         
       });
+      self.tipsDisplayed++;
+      
+      if (self.tipsDisplayed % 5 == 0) {
+        self.newBackgroundImage();
+      }
+      
     },
     
+    newBackgroundImage: function() {
+      var self = this;
+      self.primaryImage = {
+        backgroundImage:'url(img/'+randomFrom(self.backgroundImages)+')',
+      }
+    },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // CHECK BROWSER
@@ -97,9 +117,15 @@ var app = new Vue({
         this.browser = "chrome";
       }
     }
-    
-    
+
   },
+  
+  computed: {
+    tipNumberFormatted: function() {
+      return '#' + addCommas(this.tipNumber);
+    }
+  },
+  
   mounted: function () {
     var self = this;
     self.generateSexTip();

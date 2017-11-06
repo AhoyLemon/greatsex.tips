@@ -35,7 +35,7 @@ var suggestionsFromWomen = [
     "I jerk on his dick to the beat of Kid Rock's Early Mornin' Stoned Pimp.",
     "we compare our credit scores from Experian to the ones from Equifax.",
     "we play ‘Sexy Monopoly’, which is like regular Monopoly except it takes longer.",
-    "I give him a sexy striptease to the Johnny Cash cover of “Hurt”",
+    "I give him a sexy striptease to the Johnny Cash cover of “Hurt”.",
     "I put googly eyes on his penis and practice ventriloquy.",
     "I show him all my favorite speedruns of Bubsy.",
     "I describe and rate every hair on his balls.",

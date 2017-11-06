@@ -1,7 +1,16 @@
 $button-color:$yellow;
 
-body { background-image:url(../img/bg1.jpg); background-size:cover; }
-main { @include flex-center(); height: 99vh;
+
+body { background-color: #985a5a; }
+figure.fullpic { @include position(absolute,0,0,0,0); background-size:cover;
+  &.primary { z-index: $z-background-primary; opacity: 0.35; }
+  &.secondary { z-index: $z-background-secondary; opacity: 0;
+    &.visible { opacity: 0.35; transition:opacity 0.35s ease; }
+  }
+}
+
+
+main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main;
   .inner {  width:100%; max-width: 960px; }
   .tip { background: white; padding: 1em; box-shadow: 3px 3px 3px rgba($black,0.5); }
   h1 { text-align: center; font-family:$serif; font-weight: $medium; padding: 0.5em; }

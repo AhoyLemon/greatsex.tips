@@ -11,6 +11,8 @@ html(lang="en")
     include partials/_head.pug
   body
     #app
+      figure.fullpic.secondary(v-bind:style="secondaryImage" v-bind:class="{visible:secondaryImage}")  
+      figure.fullpic.primary(v-bind:style="primaryImage")
     
       include partials/_sidebar.pug
       
@@ -18,7 +20,7 @@ html(lang="en")
         .inner(v-cloak)
           .tip
             h3 
-              span Cosmo Sex Tip {{tipNumber}}
+              span {{tipLabel}} {{tipNumberFormatted}}
             h1(v-html="currentTip")
           .button-holder
             button(v-on:click="generateSexTip") New Tip

@@ -380,8 +380,26 @@ body {
     display: none; } }
 
 body {
-  background-image: url(../img/bg1.jpg);
+  background-color: #985a5a; }
+
+figure.fullpic {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
   background-size: cover; }
+  figure.fullpic.primary {
+    z-index: 2;
+    opacity: 0.35; }
+  figure.fullpic.secondary {
+    z-index: 1;
+    opacity: 0; }
+    figure.fullpic.secondary.visible {
+      opacity: 0.35;
+      -webkit-transition: opacity 0.35s ease;
+      -o-transition: opacity 0.35s ease;
+      transition: opacity 0.35s ease; }
 
 main {
   display: -webkit-box;
@@ -406,7 +424,9 @@ main {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  height: 99vh; }
+  height: 99vh;
+  position: relative;
+  z-index: 5; }
   main .inner {
     width: 100%;
     max-width: 960px; }
