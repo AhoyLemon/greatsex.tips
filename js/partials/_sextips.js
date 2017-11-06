@@ -49,7 +49,8 @@ var blowjobs = [
     "gag just a little bit",
     "start singing your choice of Tom Petty's greatest hits",
     "apologize for what you're about to do",
-    "dig your fingernails into his scrotum"
+    "dig your fingernails into his scrotum",
+    "hum the chorus to the Hanson song Mmm-Bop"
   ],
   " and ",
   [
