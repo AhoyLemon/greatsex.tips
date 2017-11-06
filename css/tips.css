@@ -434,26 +434,29 @@ main {
     background: white;
     padding: 1em;
     -webkit-box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
-    box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5); }
+    box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
+    border: 3px solid rgba(33, 33, 33, 0.45); }
   main h1 {
     text-align: center;
     font-family: "Taviraj", "Papyrus";
     font-weight: 400;
     padding: 0.5em; }
   main h3 {
-    font-family: "Sansita", "Papyrus";
+    font-family: "Delius", sans-serif;
     font-weight: 400; }
     main h3 span {
       background: #ee2a2a;
       font-weight: 600;
       display: inline-block;
-      padding: 0.25em 0.65em;
+      padding: 0.35em 0.65em;
       -webkit-transform: translateX(-50px);
       -ms-transform: translateX(-50px);
       transform: translateX(-50px);
       color: #eee;
       -webkit-box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
-      box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5); }
+      box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
+      border: 3px solid rgba(33, 33, 33, 0.45);
+      text-shadow: 2px 2px 1px rgba(33, 33, 33, 0.4); }
   main .button-holder {
     text-align: center;
     padding-top: 1em; }

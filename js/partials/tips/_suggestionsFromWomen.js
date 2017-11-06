@@ -37,7 +37,7 @@ var suggestionsFromWomen = [
     "we play ‘Sexy Monopoly’, which is like regular Monopoly except it takes longer.",
     "I give him a sexy striptease to the Johnny Cash cover of “Hurt”.",
     "I put googly eyes on his penis and practice ventriloquy.",
-    "I show him all my favorite speedruns of Bubsy.",
+    "I show him all my favorite speedruns of games in the Bubsy series.",
     "I describe and rate every hair on his balls.",
     [
       "we record a new episode of our podcast ",
@@ -63,5 +63,6 @@ var suggestionsFromWomen = [
     "Maximum fun!",
     "A sure-fire turn on!",
     "We couldn't keep our hands off each other!"
-  ]
+  ],
+  "”"
 ];
