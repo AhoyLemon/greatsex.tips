@@ -62,6 +62,10 @@ var doThingsToHisGenitals = [
     "his penis falls off and sprouts two heads in its place.",
     "loans you his Playstation.",
     "admits pineapple is an acceptable pizza topping.",
-    "unplugs you from the wall."
+    "unplugs you from the wall.",
+	"sings the entirety of I Am the Very Model of a Modern Major General.",
+	"buys that mixer you've been asking for.",
+	"hands over the microfiche.",
+	"remembers your anniversary."
   ]
 ];

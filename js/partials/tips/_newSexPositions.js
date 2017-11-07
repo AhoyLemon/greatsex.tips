@@ -26,7 +26,10 @@ var newSexPositions = [
     "on the coffee table",
     "on the repilca Great Pyramid of Giza",
     "on the door jamb",
-    "on his Dragonlance collection"
+    "on his Dragonlance collection",
+	"through the steering wheel",
+	"in the stirrups",
+	"in the crane position"
   ],
   " and your hands ",
   [
@@ -48,7 +51,8 @@ var newSexPositions = [
     "in his buttcrack",
     "around his tulpa",
     "around your breasts",
-    "on your trusty six shooter"
+    "on your trusty six shooter",
+	"anywhere warm"
   ],
   ". ",
   [
@@ -66,7 +70,8 @@ var newSexPositions = [
     "Now prepare a fine meal for our guest judges using the mystery ingredient Hot Cheetos.",
     "Now lay back and think of England",
     "Now ask your partner for a spot.",
-    "Now execute the legendary quadruple salchow onto the bed."
+    "Now execute the legendary quadruple salchow onto the bed.",
+	"Now search for that ring you lost inside him but haven't brought up the courage to say."
   ],
   " ",
   [

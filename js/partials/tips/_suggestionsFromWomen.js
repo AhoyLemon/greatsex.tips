@@ -20,7 +20,8 @@ var suggestionsFromWomen = [
     "My sweetie",
     "My sister's husband",
     "This guy I know",
-    "Chad"
+    "Chad",
+	"My last tinder hookup",
   ],
   " ",
   [
@@ -45,7 +46,8 @@ var suggestionsFromWomen = [
       [
         "“Dick's Nixon”, where I debate his neo-conservative dick on the legacy of Richard Nixon",
         "“Lady And The Dick”, where his dick and I discuss our favorite Disney films.",
-        "about our top 100 MMA fights of all time."
+        "about our top 100 MMA fights of all time.",
+		"“Slamilton”, where we rank each song from Hamilton based on how much it distracts us from having sex."
       ]
     ],
     "we watch unboxing videos together.",
@@ -59,7 +61,9 @@ var suggestionsFromWomen = [
     "I invest all of our funds in overpriced, over engineered Silicon Valley kitchen appliances.",
     "I use his penis in a tasteful still life.",
     "I jiggle his balls like dice in a cup.",
-    "I milk his penis like a cow udder."
+    "I milk his penis like a cow udder.",
+	"I berate him in front of the other girls in the book club.",
+	"I let him win a game of Steal the Bacon."
   ],
   " ",
   [

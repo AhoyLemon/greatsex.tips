@@ -34,7 +34,12 @@ var dressUpAndSay = [
     "Daenerys, Mother of Dragons",
     "as a knock-off Casper",
     "as Darth Vader",
-    "as a tin of anchovies"
+    "as a tin of anchovies",
+	"as Rodney Dangerfield in Caddyshack",
+	"as Edvard Munch's The Scream",
+	"in his mother's clothes",
+	"as Margaret Thatcher",
+	"in your nicest dirndl"
   ],
   " ",
   [
@@ -43,7 +48,8 @@ var dressUpAndSay = [
     "and scream",
     "and text him",
     "and semaphore him",
-    "and sing to him"
+    "and sing to him", 
+	"and mime"
   ],
   " ",
   [
@@ -71,6 +77,7 @@ var dressUpAndSay = [
     "“Fuck you really are a basic bitch.”",
     "“No, no, the OTHER hole.”",
     "“Sir, this is a McDonalds drive thru.”",
-    "“Find a penis, pick it up, and all day you'll have good fuck”"
+    "“Find a penis, pick it up, and all day you'll have good fuck”",
+	"“There are two doors and two guards, one of them always lies, the other one always tells the truth”"
   ]
 ];
