@@ -31,6 +31,16 @@ var handjobs = [
     "throw it on the grill on high for five minutes.",
     "turn it in to the authorities for a sizable reward.",
     "shrug your shoulders, confused at it's bizarre shape.",
-    "glue a small toupee on the tip."
+    "glue a small toupee on the tip.",
+    "loop it around your wrist like a bangle.",
+    "insert it into a vending machine.",
+    "sing it a lullaby.",
+    "feed it a steady diet of castor oil.",
+    "pickle it with dill and peppers.",
+    "present it with an Oscar for Best Supporting Genital",
+    "cut his dick into pieces, this is your last resort.",
+    "tar and feather it for it's heinous crimes.",
+    "realize that this dick has been <i>dead for six years</i>.",
+    "sharpen it on the strop for a real cutting edge handjob."
   ]
 ];

@@ -41,6 +41,8 @@ var blowjobs = [
     "cut off all your hair.",
     "show him your CQC techniques.",
     "try to inflate his penis like a balloon.",
-    "devour his life source through his penis."
+    "devour his life source through his penis.",
+    "twiddle your fingers on the shaft like it was a flute.",
+    "press it in a scrapbook to preserve the memories."
   ]
 ];

@@ -70,6 +70,6 @@ var dirtyTalkExamples = [
   ],
   "” He's sure to ",
   [
-    "put up with it!", "blow his top!", "notice.", "lose his mind!", "call the police!", "orgasm into outer space!", "Baker Act you!"
+    "put up with it!", "blow his top!", "notice.", "lose his mind!", "call the police!", "orgasm into outer space!", "Baker Act you!", "be confused!", "orgasm immediately!", "take his dick and go home!"
   ]
 ];

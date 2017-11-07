@@ -55,10 +55,12 @@ var bondageTips = [
     "reenact the stations of the cross.",
     "browse Tindr for someone more interesting.",
     "brick him in with the cask of Amontillado.",
-    "sing 99 bottles of beer on the wall, without telling him you have dyscalculia.",
+    "sing 99 bottles of beer on the wall, without informing him you have dyscalculia.",
     "play for him your favorite PewDiePie videos.",
     "draw a magic circle and summon Satan.",
     "throw his prize collection of flesh lights into the garbage disposal.",
-    "and say “.elyts ni kcab emoc ot gniog si ekil uoy mug tahT”"
+    "say “.elyts ni kcab emoc ot gniog si ekil uoy mug tahT”",
+    "start a game of FATAL.",
+    "turn off the lights and play creepy children's songs for six hours."
   ]
 ];

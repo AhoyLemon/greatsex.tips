@@ -28,7 +28,8 @@ var doThingsToHisGenitals = [
     "Mock",
     "Shape",
     "Spin",
-    "Tickle"
+    "Tickle",
+    "Bounce"
   ],
   " his ",
   maleGenitals,

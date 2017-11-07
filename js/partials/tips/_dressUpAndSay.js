@@ -30,7 +30,11 @@ var dressUpAndSay = [
     "as the personification of dignity",
     "as a giant fish stick",
     "as a large bee",
-    "as David Niven era James Bond"
+    "as David Niven era James Bond",
+    "Daenerys, Mother of Dragons",
+    "as a knock-off Casper",
+    "as Darth Vader",
+    "as a tin of anchovies"
   ],
   " ",
   [
