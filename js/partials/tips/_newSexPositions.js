@@ -25,7 +25,8 @@ var newSexPositions = [
     "on the kitchen table",
     "on the coffee table",
     "on the repilca Great Pyramid of Giza",
-    "on the door jamb"
+    "on the door jamb",
+    "on his Dragonlance collection"
   ],
   " and your hands ",
   [
@@ -62,7 +63,10 @@ var newSexPositions = [
     "Now don't forget the asshole!",
     "Now neglect to mention your affair.",
     "Now embrace the ~~**~~uNiCoRn oRgAsM~~**~~ within.",
-    "Now prepare a fine meal for our guest judges using the mystery ingredient Hot Cheetos."
+    "Now prepare a fine meal for our guest judges using the mystery ingredient Hot Cheetos.",
+    "Now lay back and think of England",
+    "Now ask your partner for a spot.",
+    "Now execute the legendary quadruple salchow onto the bed."
   ],
   " ",
   [
@@ -72,6 +76,8 @@ var newSexPositions = [
     "Your yoga class will be impressed!",
     "Hotter than hot!!",
     "This makes for an explosive orgasm!",
-    "Like a science experiment!"
+    "Like a science experiment!",
+    "You never knew your body could bend that way!",
+    "Sensational sensations!"
   ]
 ];

@@ -46,7 +46,15 @@ var nonPenisActionsFromMen = [
     "dribbles chocolate sauce on",
     "films",
     "pickles",
-    "liveblogs"
+    "liveblogs",
+    "folds",
+    "sculpts",
+    "massages",
+    "pokes",
+    "judges",
+    "annoys",
+    "volleys",
+    "grinds to dust"
   ],
   " my ",
   bodyParts,
@@ -71,7 +79,12 @@ var nonPenisActionsFromMen = [
     "fixes my credit score",
     "sends me to Hogwarts",
     "sorts my biscuits",
-    "really gives me something to discuss with my therapist this week"
+    "really gives me something to discuss with my therapist this week",
+    "is great I guess",
+    "reconsider the capitalist system",
+    "take up competitive curling",
+    "jazzes my jizz",
+    "flips my flaps at the good ol' sock hop"
   ],
   [
     "!", "!", "!!!", "."

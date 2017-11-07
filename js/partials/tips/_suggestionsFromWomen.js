@@ -20,6 +20,7 @@ var suggestionsFromWomen = [
     "My sweetie",
     "My sister's husband",
     "This guy I know",
+    "Chad"
   ],
   " ",
   [
@@ -51,7 +52,14 @@ var suggestionsFromWomen = [
     "I strap a large piece of dirty drywall to my face and tell him I'm his glory hole.",
     "I buff his dick to a mirror shine.",
     "perform my comedy monologue in a Big Bird costume.",
-    "I put the lotion on its skin."
+    "I put the lotion on its skin.",
+    "I flap my arms and scream like a pterodactyl.",
+    "donate to the FPlus podcast.",
+    "we use sexy dice but all the sides are Pomegranate and Dick.",
+    "I invest all of our funds in overpriced, over engineered Silicon Valley kitchen appliances.",
+    "I use his penis in a tasteful still life.",
+    "jiggled his balls like dice in a cup.",
+    "I milk his penis like a cow udder."
   ],
   " ",
   [
@@ -62,7 +70,8 @@ var suggestionsFromWomen = [
     "The police know where we live!",
     "Maximum fun!",
     "A sure-fire turn on!",
-    "We couldn't keep our hands off each other!"
+    "We couldn't keep our hands off each other!",
+    "He always asks for more!"
   ],
   "”"
 ];

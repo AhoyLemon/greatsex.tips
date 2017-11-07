@@ -25,7 +25,12 @@ var handjobs = [
     "start a Twitterbot for it.",
     "grab it with your other set of hands now.",
     "rub-a-dub-dub put that dick in a tub.",
-    "put some creative floral arrangements of seasonal flowers around it, adding soft lighting and take a few photos. Remember to only use the Willow filter.",
-    "push it back into his body."
+    "put some creative arrangements of seasonal flowers around it, adding soft lighting and take a few photos. Remember to only use the Willow filter.",
+    "push it back into his body.",
+    "twist it into a balloon dog.",
+    "throw it on the grill on high for five minutes.",
+    "turn it in to the authorities for a sizable reward.",
+    "shrug your shoulders, confused at it's bizarre shape.",
+    "glue a small toupee on the tip."
   ]
 ];

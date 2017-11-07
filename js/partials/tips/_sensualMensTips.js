@@ -8,7 +8,13 @@ var sensualMensTips = [
     "touch your chest",
     "finger your baby hole",
     "bend you over the bed",
-    "load you into the sex swing"
+    "load you into the sex swing",
+    "mount you from behind",
+    "touch you gently",
+    "caress your legs",
+    "worship your feet",
+    "push back your hair",
+    "paint your nipples with glittery lipstick"
   ],
   ", ",
   [
@@ -21,7 +27,17 @@ var sensualMensTips = [
     "open your mouth to unleash a plague of locusts",
     "turn out the lights and bask in the glow of my bioluminescence",
     "release ink from your pouch and escape from me in the confusion",
-    "angle your butt into the air at a perfect 90 degrees"
+    "angle your butt into the air at a perfect 90 degrees",
+    "twist your legs into a pretzel",
+    "solve the puzzlebox and send us into the hell dimension",
+    "create a new World of Warcraft account",
+    "protect the payload instead of running off",
+    "projectile vomit until blood comes out",
+    "stick your hand up my ass and control me like a puppet",
+    "create a boondoggle park of creatures from the late Jurassic period",
+    "offer me up to the elder gods",
+    "start singing <i>This Little Piggy</i> and wiggling my toes",
+    "hit all of the pressure points and send me into paralysis"
   ],
   ". ",
   [

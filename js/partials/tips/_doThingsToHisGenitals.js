@@ -25,7 +25,10 @@ var doThingsToHisGenitals = [
     "Corkscrew",
     "Experiment with",
     "Align",
-    "Mock"
+    "Mock",
+    "Shape",
+    "Spin",
+    "Tickle"
   ],
   " his ",
   maleGenitals,
@@ -43,14 +46,21 @@ var doThingsToHisGenitals = [
     "accepts you as his new God.",
     "notices.",
     "wakes up.",
-    "finaly enjoys it.",
+    "finally enjoys it.",
     "busts into song",
-    "calls you Mother",
-    "folds into singularity",
-    "returns to dust",
+    "calls you <i>Mother</i>.",
+    "folds into singularity.",
+    "returns to dust.",
     "runs out of quarters.",
     "remembers you exist.",
     "trancends to a new plane.",
-    "runs out of the house screaming."
+    "runs out of the house screaming.",
+    "reconsiders a kind and loving god.",
+    "has to go on set.",
+    "detaches his penis and escapes.",
+    "his penis falls off and sprouts two heads in its place.",
+    "loans you his Playstation.",
+    "admits pineapple is an acceptable pizza topping.",
+    "unplugs you from the wall."
   ]
 ];

@@ -3,13 +3,14 @@ var blowjobs = [
     "And now, the perfect blowjob:",
     "Mind blowing oral for him:",
     "The Perfect Blowjob:",
-    "Give him a blowjob to remember"
+    "Give him a blowjob to remember:"
   ],
   " ",
   [
     "While his penis is in your mouth",
     "With his penis in your mouth",
-    "As you suck on his penis"
+    "As you suck on his penis",
+    "With the head of his penis in your mouth"
   ],
   ", ",
   [
@@ -22,10 +23,12 @@ var blowjobs = [
     "apologize for what you're about to do",
     "hum the chorus to the Hanson song Mmm-Bop",
     "load your mouth up with caltrops",
-    "fill your mouth with crushed pinapple",
+    "fill your mouth with crushed pineapple",
     "tickle his nipple",
     "go into a handstand",
-    "start chewing some gum"
+    "start chewing some gum",
+    "activate your camouflage",
+    "twist his balls into an attractive paperweight"
   ],
   " and ",
   [
@@ -35,6 +38,9 @@ var blowjobs = [
     "then file for divorce.",
     "spin around his penis like you're in a dizzy bat race.",
     "dig your fingernails into his scrotum.",
-    "cut off all your hair."
+    "cut off all your hair.",
+    "show him your CQC techniques.",
+    "try to inflate his penis like a balloon.",
+    "devour his life source through his penis."
   ]
 ];

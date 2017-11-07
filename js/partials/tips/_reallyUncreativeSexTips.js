@@ -21,7 +21,8 @@ var reallyUncreativeSexTips = [
     "use some lube",
     "write SEX in pepperonis on a pizza",
     "use your mouth AND your hands",
-    "have sex in the shower"
+    "have sex in the shower",
+    "try to orgasm"
   ],
   [
     "?","."

@@ -16,7 +16,21 @@ var hideAnItem = [
     "an empty beer bottle",
     "a Scotch bonnet pepper",
     "baby teeth purchased from the Dark Web",
-    "a tampon"
+    "a tampon",
+    "Exhibit A",
+    "a bowl of clam chowder",
+    "the Ark of the Covenant",
+    "Adam Sandler's ability to write jokes",
+    "a large swarm of wasps",
+    "the world's tiniest juggalo",
+    "Nana's ashes",
+    "<i>Sex for Dummies</i> book",
+    "a crisp fiver",
+    "your frozen placenta",
+    "a pound of locally sourced Himalayan pink sea salt",
+    "Gwyneth Paltrow's Goop",
+    "your bitcoin wallet code",
+    "a pile of bootleg Pokemon figurines from Ali Express"
   ],
   " in his ",
   [
@@ -25,7 +39,23 @@ var hideAnItem = [
     "suit jacket",
     "socks",
     "slippers",
-    "nicest dress shoes"
+    "nicest dress shoes",
+    "dinner",
+    "underwear",
+    "sex toys chest",
+    "throat cavity",
+    "escape hatch",
+    "briefcase",
+    "laptop",
+    "workstation",
+    "car",
+    "truck",
+    "onsie",
+    "pajamas",
+    "banana hammock",
+    "thong",
+    "hair gel",
+    "shaving cream"
   ],
   ". When he ",
   [
@@ -44,6 +74,16 @@ var hideAnItem = [
     "yank forcefully on his testicles until he starts crying.",
     "tell him you wanted to give him something to remember you by, as you suspect he has early onset dimensia.",
     "deny EVERYTHING.",
-    "call the police."
+    "call the police.",
+    "tell him that he has five minutes to find the antidote.",
+    "say “Where we're going, we don't need eyes to see.”",
+    "tear out of your fleshly shell and devour him whole",
+    "drop him through the trap door into the acid pit below.",
+    "introduce him to all of your plushies.",
+    "bake a pile of pebbles and swear they are cookies.",
+    "pull out the hidden camera and yell “IT'S JUST A PRANK BRO!”",
+    "admit that you spent the entire yearly budget on a herd of Chincoteague horses.",
+    "try to lure his penis out with yogurt covered raisins.",
+    "jump out of the bushes, tackle him, and steal his wallet. "
   ]
 ];
