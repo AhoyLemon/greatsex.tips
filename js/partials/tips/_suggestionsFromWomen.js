@@ -54,11 +54,11 @@ var suggestionsFromWomen = [
     "perform my comedy monologue in a Big Bird costume.",
     "I put the lotion on its skin.",
     "I flap my arms and scream like a pterodactyl.",
-    "donate to the FPlus podcast.",
+    "I donate to the FPlus podcast.",
     "we use sexy dice but all the sides are Pomegranate and Dick.",
     "I invest all of our funds in overpriced, over engineered Silicon Valley kitchen appliances.",
     "I use his penis in a tasteful still life.",
-    "jiggled his balls like dice in a cup.",
+    "I jiggle his balls like dice in a cup.",
     "I milk his penis like a cow udder."
   ],
   " ",

@@ -36,10 +36,10 @@ var handjobs = [
     "insert it into a vending machine.",
     "sing it a lullaby.",
     "feed it a steady diet of castor oil.",
-    "pickle it with dill and peppers.",
+    "pickle it with dill, peppers, and garlic.",
     "present it with an Oscar for Best Supporting Genital",
     "cut his dick into pieces, this is your last resort.",
-    "tar and feather it for it's heinous crimes.",
+    "tar and feather it for its heinous crimes.",
     "realize that this dick has been <i>dead for six years</i>.",
     "sharpen it on the strop for a real cutting edge handjob."
   ]

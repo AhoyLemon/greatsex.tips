@@ -41,7 +41,7 @@ var newSexPositions = [
     "in his chest cavity",
     "in his mouth",
     "on your phone",
-    "in a box of Cheez Its",
+    "in a box of Cheez-Its",
     "on the Bible",
     "against his pubic bone",
     "in a pair of wool mittens",

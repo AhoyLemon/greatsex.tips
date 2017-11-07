@@ -81,8 +81,8 @@ var nonPenisActionsFromMen = [
     "sorts my biscuits",
     "really gives me something to discuss with my therapist this week",
     "is great I guess",
-    "reconsider the capitalist system",
-    "take up competitive curling",
+    "makes me reconsider the capitalist system",
+    "makes me take up competitive curling",
     "jazzes my jizz",
     "flips my flaps at the good ol' sock hop"
   ],

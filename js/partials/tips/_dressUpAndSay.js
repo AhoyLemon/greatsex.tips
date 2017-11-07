@@ -62,7 +62,7 @@ var dressUpAndSay = [
     "“Dear Leader's turn is next.”",
     "“I like the way you work it”",
     "“If you fuck at 88mph, my vagina catches fire and you'll teleport into the future.”",
-    "“My vagina is actually the missing horcux”",
+    "“My vagina is actually the missing horcrux”",
     "“Is this going to take awhile? I've got a thing...”",
     "“Fuck my pot of gold with your skinny leprechaun”",
     "“You said you were going to dress up as Johnny Depp!”",

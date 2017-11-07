@@ -24,7 +24,7 @@ var hideAnItem = [
     "a large swarm of wasps",
     "the world's tiniest juggalo",
     "Nana's ashes",
-    "<i>Sex for Dummies</i> book",
+    "a <i>Sex for Dummies</i> book",
     "a crisp fiver",
     "your frozen placenta",
     "a pound of locally sourced Himalayan pink sea salt",
