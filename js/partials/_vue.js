@@ -12,7 +12,7 @@ var app = new Vue({
     ],
     secondaryImage: false,
     primaryImage: {
-      backgroundImage:'url(img/bg10.jpg)'
+      backgroundImage:'url(img/bg1.jpg)'
     },
     tipNumber: 0,
     tipsDisplayed: 0,
