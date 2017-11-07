@@ -35,8 +35,8 @@
   &.visible { transform:translateX(0); }
 }
 
-.homescreen-help-holder { background-color:rgba($body,0.9); @include position(fixed,0,0,0,0); z-index:$z-favorite-box;
-  .homescreen-help { background:white; color:$black; @include position(fixed,0,0); padding:1em; }
+.homescreen-help-holder { background-color:rgba($black,0.9); @include position(fixed,0,0,0,0); z-index:$z-favorite-box;
+  .homescreen-help { background:$white; color:$black; @include position(fixed,0,0); padding:1em; }
   svg { fill:currentColor;
     * { fill:currentColor; }
   }
@@ -47,9 +47,12 @@
   &.ios { top:auto; bottom:0; right: 0; left:0; width:100%; max-width: 100%;
     .help { text-align: center; }
   }
-  .button-holder { padding-top: 1em; text-align: center;
-    button { font-size:20px; }
+  .button-holder { padding-top: 1em; text-align: center; }
+  
+  button { color:$blue; background-color:transparent; border:2px solid $blue; font-family:$serif; padding:0.25em 1em; font-size:0.9rem;
+    &:hover { background:$blue; cursor: pointer; color:$white; }
   }
+  
 }
 
 

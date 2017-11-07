@@ -28,7 +28,7 @@ var blowjobs = [
     "go into a handstand",
     "start chewing some gum",
     "activate your camouflage",
-    "twist his balls into an attractive paperweight"
+    "mush his balls into a single undiscernable shape"
   ],
   " and ",
   [
@@ -39,9 +39,8 @@ var blowjobs = [
     "spin around his penis like you're in a dizzy bat race.",
     "dig your fingernails into his scrotum.",
     "cut off all your hair.",
-    "show him your CQC techniques.",
     "try to inflate his penis like a balloon.",
-    "devour his life source through his penis.",
+    "suck in on his urethra to remove his life essense.",
     "twiddle your fingers on the shaft like it was a flute.",
     "press it in a scrapbook to preserve the memories."
   ]

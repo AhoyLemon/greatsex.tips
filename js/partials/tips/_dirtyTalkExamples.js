@@ -60,7 +60,6 @@ var dirtyTalkExamples = [
     "A problem has been detected and Windows has been shut down to prevent damage to your computer. The problem seems to be cause by the following file: vagina.exe",
     "Oh shit, cramp, CRAMP, CRAMP IN MY FOOT.",
     "The end of the <i>Truman Show</i> was kinda bullshit, if you think about it.",
-    "SCREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
     "01000110 01101001 01110110 01100101 00100000 01101101 01101001 01101110 01110101 01110100 01100101 01110011 00100000 01110100 01101111 00100000 01110011 01100101 01111000 00100000 01100100 01100101 01110011 01110100 01110010 01110101 01100011 01110100",
     "-.. . .- .-. / . .-.. .. --.. .- --..-- / - .... .. ... / - .-. ..- .-.. -.-- / .. ... / .- / - . .-. .-. .. -... .-.. . / ..-. ..- -.-. -.- / .. .----. -- / .... .- ...- .. -. --.",
     "I just ejected an entire fruit salad from my anus.",
@@ -70,6 +69,14 @@ var dirtyTalkExamples = [
   ],
   "” He's sure to ",
   [
-    "put up with it!", "blow his top!", "notice.", "lose his mind!", "call the police!", "orgasm into outer space!", "Baker Act you!", "be confused!", "orgasm immediately!", "take his dick and go home!"
+    "put up with it!", 
+    "blow his top!",
+    "notice.",
+    "lose his mind!",
+    "call the police!",
+    "orgasm into outer space!",
+    "be confused!",
+    "orgasm immediately!",
+    "pack up his dick and go home!"
   ]
 ];

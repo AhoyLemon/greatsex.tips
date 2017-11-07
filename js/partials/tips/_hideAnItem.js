@@ -20,17 +20,13 @@ var hideAnItem = [
     "Exhibit A",
     "a bowl of clam chowder",
     "the Ark of the Covenant",
-    "Adam Sandler's ability to write jokes",
     "a large swarm of wasps",
-    "the world's tiniest juggalo",
     "Nana's ashes",
     "a <i>Sex for Dummies</i> book",
     "a crisp fiver",
     "your frozen placenta",
-    "a pound of locally sourced Himalayan pink sea salt",
     "Gwyneth Paltrow's Goop",
     "your bitcoin wallet code",
-    "a pile of bootleg Pokemon figurines from Ali Express"
   ],
   " in his ",
   [
@@ -50,7 +46,7 @@ var hideAnItem = [
     "workstation",
     "car",
     "truck",
-    "onsie",
+    "onesie",
     "pajamas",
     "banana hammock",
     "thong",
@@ -84,6 +80,7 @@ var hideAnItem = [
     "pull out the hidden camera and yell “IT'S JUST A PRANK BRO!”",
     "admit that you spent the entire yearly budget on a herd of Chincoteague horses.",
     "try to lure his penis out with yogurt covered raisins.",
-    "jump out of the bushes, tackle him, and steal his wallet. "
+    "jump out of the bushes, tackle him, and steal his wallet.",
+    "tell him to look into the camera and say “Bang Bros”."
   ]
 ];

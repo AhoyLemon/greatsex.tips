@@ -29,7 +29,7 @@ var bondageTips = [
     "the front door",
     "a meathook",
     "jungle gym",
-    "Deluxe Ghostbusters Lego Playset",
+    "a Ghostbusters® Lego® playset",
     "pile of bagpipes",
     "a nailed together stack of Jenga bricks",
     "two draft horses",

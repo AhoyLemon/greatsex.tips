@@ -34,7 +34,7 @@ var sensualMensTips = [
     "protect the payload instead of running off",
     "projectile vomit until blood comes out",
     "stick your hand up my ass and control me like a puppet",
-    "create a boondoggle park of creatures from the late Jurassic period",
+    "create a boondoggle of a park using creatures from the late Jurassic period",
     "offer me up to the elder gods",
     "start singing <i>This Little Piggy</i> and wiggling my toes",
     "hit all of the pressure points and send me into paralysis"
