@@ -95,10 +95,10 @@ var nonPenisActionsFromMen = [
     "causes my hair to turn white and rocket from my body",
     "makes me buy six different burritos and preserve them in resin",
     "makes me remove my disguise and run off with the Queen's jewels",
-	"reminds me of my life before the Witness Relocation Program.",
-	"gives me goosebumps just thinking about it.",
-	"made sense at the time. I guess you had to be there.",
-	"is why my neighbors all installed sound proofing."
+	"reminds me of my life before the Witness Relocation Program",
+	"gives me goosebumps just thinking about it",
+	"made sense at the time. I guess you had to be there",
+	"is why my neighbors all installed sound proofing"
   ],
   [
     "!", "!", "!!!", "."
