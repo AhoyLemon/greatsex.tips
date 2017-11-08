@@ -32,7 +32,8 @@ var blowjobs = [
     "examine his belly button with a magnifying glass",
     "dump soap on his dick because he's a dirty boy",
     "shave his pubes",
-    "toot the <i>Robin Hood</i> Oo De Lally song on his penis"
+    "toot the <i>Robin Hood</i> Oo De Lally song on his penis",
+	"tap SOS in morse code on his glans with your tongue"
   ],
   " and ",
   [
@@ -60,6 +61,9 @@ var blowjobs = [
     "refuse to take any part of him seriously.",
     "roll a D20 for pleasure.",
     "snoop in his wallet for loose 20 dollar bills.",
-    "pantomime choking to death, and then steal his computer when he leaves to call an ambulance."
+    "pantomime choking to death, and then steal his computer when he leaves to call an ambulance.",
+	"fake a seizure.",
+	"try to recite the declaration of independence.",
+	"grab the sides of his scrotum and play them like an accordion."
   ]
 ];

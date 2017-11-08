@@ -12,7 +12,8 @@ var bondageTips = [
     "Tie",
     "Lash",
     "Restrain",
-    "Clamp"
+    "Clamp",
+	"Duct tape"
   ],
   " his ",
   [
@@ -48,7 +49,9 @@ var bondageTips = [
     "the stake",
     "El Capitan",
     "a basketball hoop",
-    "the International Space Station"
+    "the International Space Station",
+	"an inflatable castle",
+	"the United Nations building"
   ],
   " and ",
   [
@@ -80,6 +83,10 @@ var bondageTips = [
     "find out how many bananas will fit in his asshole.",
     "bark like a walrus while goring him with your pencil tusks.",
     "create a cast of his genitalia and sell it to a Chinese dildo manufacturer.",
-    "put a pair of glasses on his penis and have a tea party."
+    "put a pair of glasses on his penis and have a tea party.",
+	"show him how much you've improved at playing the kalimba.",
+	"workshop new Cards Against Humanity suggestions.",
+	"invest in a time share.",
+	"binge-watch Season 12 of Supernatural uninterrupted."
   ]
 ];

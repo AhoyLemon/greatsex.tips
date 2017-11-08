@@ -29,7 +29,8 @@ var dirtyTalkExamples = [
   ],
   " “",
   [
-    "Your penis is totally fine, all things considered.", "I'm not really sure what the point of all <i>this</i> is!",
+    "Your penis is totally fine, all things considered.",
+	"I'm not really sure what the point of all <i>this</i> is!",
     "Great green globs of greasy, grimy, gopher guts / Mutilated monkey meat / Hairy pickled piggy feet / French fried eyeballs floating in some kerosene / and me without a spoon",
     "Okay.",
     "Dirt!",
@@ -87,7 +88,10 @@ var dirtyTalkExamples = [
     "Fuck my pussy like it's an offshore tax haven.",
     "Ahh, Jizz, or some say Jizm... Do you hear our orgasms?",
     "If we have a threesome with your doppleganger, is it incest or masturbation?",
-    "Baby I hope you're AdBlock because this site is covered in viruses."
+    "Baby I hope you're AdBlock because this site is covered in viruses.",
+	"And to think, Mother said I'd never amount to ANYTHING! Who's laughing now, Mother!",
+	"I'm the strudel, you're the poppy seed filling.",
+	"I understand you've got a family to feed, but I can't offer you a promotion until your metrics improve."
   ],
   "” He's sure to ",
   [
@@ -100,6 +104,7 @@ var dirtyTalkExamples = [
     "be confused!",
     "orgasm immediately!",
     "pack up his dick and go home!",
-    "come back for more!"
+    "come back for more!",
+	"have a heart attack!"
   ]
 ];

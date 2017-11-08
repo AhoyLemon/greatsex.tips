@@ -22,7 +22,7 @@ var dressUpAndSay = [
     "as a third grade lunchlady",
     "as a caring girlfriend",
     "as a carnival barker",
-    "a sentient Bop-It",
+    "as a sentient Bop-It",
     "as the Thing",
     "as a plate of spaghetti",
     "as Sylvia Plath imitating literal jar of bells",
@@ -31,7 +31,7 @@ var dressUpAndSay = [
     "as a giant fish stick",
     "as a large bee",
     "as David Niven era James Bond",
-    "Daenerys, Mother of Dragons",
+    "as Daenerys, Mother of Dragons",
     "as a knock-off Casper",
     "as Darth Vader",
     "as a tin of anchovies",
@@ -40,16 +40,20 @@ var dressUpAndSay = [
 	"in his mother's clothes",
 	"as Margaret Thatcher",
 	"in your nicest dirndl",
-  "in your sparklewolf fursuit",
-  "in a Civil War Era ball gown",
-  "in a Garfield costume",
-  "as a large jelly roll",
-  "as a Silent Hill nurse",
-  "as a wendigo",
-  "in dazzle camo",
-  "as an Easy Bake Oven",
-  "as a plate of nachos",
-  "as a caricature of yourself"
+	"in your sparklewolf fursuit",
+	"in a Civil War Era ball gown",
+	"in a Garfield costume",
+	"as a large jelly roll",
+	"as a Silent Hill nurse",
+	"as a wendigo",
+	"in dazzle camo",
+	"as an Easy Bake Oven",
+	"as a plate of nachos",
+	"as a caricature of yourself",
+	"in his clothes",
+	"in a prison uniform",
+	"like Carmen Miranda",
+	"in only a top hat"
   ],
   " ",
   [
@@ -63,7 +67,8 @@ var dressUpAndSay = [
     "and howl",
     "and call out",
     "and screech",
-    "and mutter"
+    "and mutter",
+	"and rap"
   ],
   " ",
   [
@@ -101,6 +106,8 @@ var dressUpAndSay = [
     "“Willy wang winkie wanks willingly within warm wombs.”",
     "“DID BECKY EVER DO THIS FOR YOU?!!?”",
     "“Drop the pigs blood, lock the door, and we'll get this <i>Carrie</i> show on the road!”",
-    "[Please Insert Joke Here]"
+    "[Please Insert Joke Here]",
+	"“This is what I was wearing the first time I saw you through my telescope.”",
+	"“Ignore the odor.”"
   ]
 ];

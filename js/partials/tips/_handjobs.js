@@ -48,6 +48,9 @@ var handjobs = [
     "shake shake shake, shake shake shake, shake that penis.",
     "give it a failing grade for it's pathetic attempts in PE class.",
     "see if it can tell the difference between Pepsi and Coke.",
-    "use it to break into and hotwire a car."
+    "use it to break into and hotwire a car.",
+	"use it as a conductor's wand for the entirety of Disney's Fantasia.",
+	"stir your coffee with it.",
+	"use it as an obstacle for your hottest fingerboard tricks."
   ]
 ];

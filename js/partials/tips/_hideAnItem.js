@@ -40,7 +40,8 @@ var hideAnItem = [
     "the holy materia",
     "a series of nesting matryoshka penis dolls",
     "his internet browsing history",
-    "a fleshlight from the future"
+    "a fleshlight from the future",
+	"a Juli Ashton Pussy/Ass Combo Sex Toy™ ($149.99)"
   ],
   " in his ",
   [
@@ -68,7 +69,12 @@ var hideAnItem = [
     "shaving cream",
     "coat pocket",
     "boss' coat pocket",
-    "report for the Big Client on Thursday"
+    "report for the Big Client on Thursday",
+	"xanax jar",
+	"gas tank",
+	"rice maker",
+	"terrarium",
+	"Super Nintendo"
   ],
   ". When he ",
   [
@@ -76,7 +82,8 @@ var hideAnItem = [
     "finds it",
     "finds your treat",
     "catches on",
-    "figures it out"
+    "figures it out",
+	"realizes what you've done"
   ],
   ", ",
   [
@@ -106,6 +113,7 @@ var hideAnItem = [
     "challenge him to an arm westling match to win your estranged son's love.",
     "strip naked on the spot, revealing your many Na'vi tattoos.",
     "jerk him off with a mint condition Power Glove.",
-    "wrestle him to the ground and do a victory pose on his unconcious body."
+    "wrestle him to the ground and do a victory pose on his unconcious body.",
+	"you've won. You now own him."
   ]
 ];

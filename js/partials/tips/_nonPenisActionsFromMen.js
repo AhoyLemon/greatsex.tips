@@ -14,7 +14,8 @@ var nonPenisActionsFromMen = [
     "I love it when",
     "It turns me on when",
     "It drives me wild when",
-    "I feel like I've died and gone to heaven when"
+    "I feel like I've died and gone to heaven when",
+	"My heart skipped a beat when"
   ],
   " ",
   [
@@ -24,8 +25,7 @@ var nonPenisActionsFromMen = [
     "a lady",
     "a girl",
     "my waifu",
-    "my bae",
-    "a lady"
+    "my bae"
   ],
   " ",
   [
@@ -54,7 +54,11 @@ var nonPenisActionsFromMen = [
     "judges",
     "annoys",
     "volleys",
-    "grinds to dust"
+    "grinds to dust",
+	"drools on",
+	"instagrams",
+	"snapchats",
+	"sends all my facebook friends photos of"
   ],
   " my ",
   bodyParts,
@@ -90,7 +94,11 @@ var nonPenisActionsFromMen = [
     "seems legit",
     "causes my hair to turn white and rocket from my body",
     "makes me buy six different burritos and preserve them in resin",
-    "makes me remove my disguise and run off with the Queen's jewels"
+    "makes me remove my disguise and run off with the Queen's jewels",
+	"reminds me of my life before the Witness Relocation Program.",
+	"gives me goosebumps just thinking about it.",
+	"made sense at the time. I guess you had to be there.",
+	"is why my neighbors all installed sound proofing."
   ],
   [
     "!", "!", "!!!", "."
