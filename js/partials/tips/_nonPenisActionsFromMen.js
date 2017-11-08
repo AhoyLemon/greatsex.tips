@@ -84,7 +84,13 @@ var nonPenisActionsFromMen = [
     "makes me reconsider the capitalist system",
     "makes me take up competitive curling",
     "jazzes my jizz",
-    "flips my flaps at the good ol' sock hop"
+    "flips my flaps at the good ol' sock hop",
+    "causes my penis to spin around in a comical manner",
+    "makes me consider orgasms",
+    "seems legit",
+    "causes my hair to turn white and rocket from my body",
+    "makes me buy six different burritos and preserve them in resin",
+    "makes me remove my disguise and run off with the Queen's jewels"
   ],
   [
     "!", "!", "!!!", "."

@@ -65,11 +65,33 @@ var dirtyTalkExamples = [
     "I just ejected an entire fruit salad from my anus.",
     "Keep checking out my sweet undercarriage while I go vroom vroom into orgasm",
     "Aww yeah you just bought yourself a one-way ticket to FLAVORTOWN!",
-    "Look, I'm not going to lie, my orgasm sounds like the din of a thousand screaming crows."
+    "Look, I'm not going to lie, my orgasm sounds like the din of a thousand screaming crows.",
+    "COME ON AND SLAM, AND WELCOME TO THE JAM.",
+    "Shhhh, big boys don't cry.",
+    "There's a buttplug slowly dripping LSD into my anus.",
+    "If our fucking drops below 55 thrusts per minute, I will explode.",
+    "Smile! You're on Candid Camera!!",
+    "I'm so putting this shit on Youtube, your dick is hilarious.",
+    "You wouldn't steal a car.",
+    "Hey dude, I'm a computer, stop all the downloading!",
+    "...how do you feel about the movie <i>Teeth</i>?",
+    "Want to try something I saw on Clips for Sale?",
+    "My milk shake brings all the boys to the yard / And they're like / It smells like prawns",
+    "I'm sorry, the vagina you are trying to reach cannot be located. Please pull out and try again.",
+    "Please download Sexr from the Apple store to access this vagina.",
+    "Mount my Dew and give me a Code Red in my cherry.",
+    "Despite all my rage I'm still just a shaft in a babe.",
+    "Mama Mia, thatsa spicy meatball!",
+    "Millenials are coming to kill you next.",
+    "I AM THE ONE WHO CUMS!",
+    "Fuck my pussy like it's an offshore tax haven.",
+    "Ahh, Jizz, or some say Jizm... Do you hear our orgasms?",
+    "If we have a threesome with your doppleganger, is it incest or masturbation?",
+    "Baby I hope you're AdBlock because this site is covered in viruses."
   ],
   "” He's sure to ",
   [
-    "put up with it!", 
+    "put up with it!",
     "blow his top!",
     "notice.",
     "lose his mind!",
@@ -77,6 +99,7 @@ var dirtyTalkExamples = [
     "orgasm into outer space!",
     "be confused!",
     "orgasm immediately!",
-    "pack up his dick and go home!"
+    "pack up his dick and go home!",
+    "come back for more!"
   ]
 ];

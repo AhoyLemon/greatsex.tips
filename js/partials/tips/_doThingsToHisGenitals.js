@@ -29,7 +29,9 @@ var doThingsToHisGenitals = [
     "Shape",
     "Spin",
     "Tickle",
-    "Bounce"
+    "Bounce",
+    "Wiggle",
+    "Satarize"
   ],
   " his ",
   maleGenitals,
@@ -66,6 +68,14 @@ var doThingsToHisGenitals = [
 	"sings the entirety of I Am the Very Model of a Modern Major General.",
 	"buys that mixer you've been asking for.",
 	"hands over the microfiche.",
-	"remembers your anniversary."
+	"remembers your anniversary.",
+  "spills state secrets.",
+  "finally reveals the secret Coke recipe.",
+  "admits that he faked his Xbox gamer score.",
+  "break dances on your vagina.",
+  "scratch your nipples like a DJ turntable.",
+  "starts fingering a jar of silly putty.",
+  "gives you the pizza for free.",
+  "curls up into a defensive position."
   ]
 ];

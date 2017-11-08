@@ -41,6 +41,13 @@ var handjobs = [
     "cut his dick into pieces, this is your last resort.",
     "tar and feather it for its heinous crimes.",
     "realize that this dick has been <i>dead for six years</i>.",
-    "sharpen it on the strop for a real cutting edge handjob."
+    "sharpen it on the strop for a real cutting edge handjob.",
+    "clothe it in a tiny dress and take it to prom.",
+    "dye it purple and enter it into the county fair as an eggplant.",
+    "wiggle it back and forth to the theme of Pink Panther.",
+    "shake shake shake, shake shake shake, shake that penis.",
+    "give it a failing grade for it's pathetic attempts in PE class.",
+    "see if it can tell the difference between Pepsi and Coke.",
+    "use it to break into and hotwire a car."
   ]
 ];

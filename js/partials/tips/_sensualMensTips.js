@@ -14,7 +14,9 @@ var sensualMensTips = [
     "caress your legs",
     "worship your feet",
     "push back your hair",
-    "paint your nipples with glittery lipstick"
+    "paint your nipples with glittery lipstick",
+    "lick your neck",
+    "spoon with you in bed"
   ],
   ", ",
   [
@@ -37,7 +39,19 @@ var sensualMensTips = [
     "create a boondoggle of a park using creatures from the late Jurassic period",
     "offer me up to the elder gods",
     "start singing <i>This Little Piggy</i> and wiggling my toes",
-    "hit all of the pressure points and send me into paralysis"
+    "hit all of the pressure points and send me into paralysis",
+    "crawl out of a TV and curse me with whiskey dick for seven months",
+    "snap into my dick like a Slim Jim",
+    "use psychometry to find out where my penis has been.",
+    "swaddle me in a blanket and rock me to sleep.",
+    "blow raspberries on my stomach long past the point of humor into discomfort.",
+    "pretend my pecs are drums and play the Police's <i>Message in a Bottle</i> with your hands.",
+    "dive through the plate glass window and run to freedom.",
+    "place the thrown condom you made in pottery class on my penis.",
+    "mime whale noises while opening and closing my ass cheeks.",
+    "shove red jasper up my anus while chanting “We can fuck until the dawn, making love 'til magic's gone”",
+    "wear your favorite three penis moon shirt",
+    "hide Easter eggs in my anus"
   ],
   ". ",
   [

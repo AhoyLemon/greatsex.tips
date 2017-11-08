@@ -71,7 +71,18 @@ var newSexPositions = [
     "Now lay back and think of England",
     "Now ask your partner for a spot.",
     "Now execute the legendary quadruple salchow onto the bed.",
-	"Now search for that ring you lost inside him but haven't brought up the courage to say."
+	  "Now search for that ring you lost inside him but haven't brought up the courage to say.",
+    "Now engulf the both of you in a silk cocoon to complete the metamorphasis.",
+    "Now compete in the 17th Annual Company Sack Race.",
+    "Now wake up from your nightmare, having remembered nothing but sadness.",
+    "Now reconsider all of the life choices you've made up 'til now.",
+    "Now fight to the death for the claim to the throne.",
+    "Now long for the sweet release of death.",
+    "Now get jumpin and bumpin and pumpin and moving all around.",
+    "Now ram your genitals together like a game of Hungry Hungry Hippos.",
+    "Now realize that you will never be as funny as Lasagna Cat. Ever.",
+    "Now slam an entire beer and crush the can on your partner's head.",
+    "Now give him the ol' razzle dazzle!"
   ],
   " ",
   [

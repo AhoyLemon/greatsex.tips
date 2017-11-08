@@ -19,7 +19,9 @@ var bondageTips = [
     "hands",
     "wrists",
     "ankles",
-    "head"
+    "head",
+    "thighs",
+    "arms"
   ],
   " to ",
   [
@@ -38,7 +40,15 @@ var bondageTips = [
     "iron maiden",
     "your neighbor Brian",
     "a dogsled",
-    "a trampoline"
+    "a trampoline",
+    "the mast of the USS Constitution",
+    "a treehouse",
+    "the larch",
+    "the door jamb",
+    "the stake",
+    "El Capitan",
+    "a basketball hoop",
+    "the International Space Station"
   ],
   " and ",
   [
@@ -49,18 +59,27 @@ var bondageTips = [
     "tell him how excited you are about watching him starve to death.",
     "surprise him with your brand new blood play fetish.",
     "show off all of the photos from your vacation to Utah.",
-    "invite in the Jehovah's Witnesses and let him know the good news!",
+    "invite in the Jehovah's Witnesses and let him hear the good news!",
     "put a Jeff Dunham special on repeat.",
     "put My Little Pony tattoos all over his body.",
     "reenact the stations of the cross.",
     "browse Tindr for someone more interesting.",
     "brick him in with the cask of Amontillado.",
     "sing 99 bottles of beer on the wall, without informing him you have dyscalculia.",
-    "play for him your favorite PewDiePie videos.",
+    "play him your favorite PewDiePie videos.",
     "draw a magic circle and summon Satan.",
     "throw his prize collection of flesh lights into the garbage disposal.",
     "say “.elyts ni kcab emoc ot gniog si ekil uoy mug tahT”",
     "start a game of FATAL.",
-    "turn off the lights and play creepy children's songs for six hours."
+    "turn off the lights and play creepy children's songs for six hours.",
+    "read Fallout:Equestria with different voices for every character.",
+    "triple combo kick his dick.",
+    "slowly lower him into a vat of angry crabs.",
+    "painstakingly paint a fresco of dicks all over his body.",
+    "prank call all of his old girlfriends while on speakerphone.",
+    "find out how many bananas will fit in his asshole.",
+    "bark like a walrus while goring him with your pencil tusks.",
+    "create a cast of his genitalia and sell it to a Chinese dildo manufacturer.",
+    "put a pair of glasses on his penis and have a tea party."
   ]
 ];

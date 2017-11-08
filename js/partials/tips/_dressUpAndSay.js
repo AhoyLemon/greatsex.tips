@@ -39,7 +39,17 @@ var dressUpAndSay = [
 	"as Edvard Munch's The Scream",
 	"in his mother's clothes",
 	"as Margaret Thatcher",
-	"in your nicest dirndl"
+	"in your nicest dirndl",
+  "in your sparklewolf fursuit",
+  "in a Civil War Era ball gown",
+  "in a Garfield costume",
+  "as a large jelly roll",
+  "as a Silent Hill nurse",
+  "as a wendigo",
+  "in dazzle camo",
+  "as an Easy Bake Oven",
+  "as a plate of nachos",
+  "as a caricature of yourself"
   ],
   " ",
   [
@@ -48,8 +58,12 @@ var dressUpAndSay = [
     "and scream",
     "and text him",
     "and semaphore him",
-    "and sing to him", 
+    "and sing to him",
 	"and mime"
+    "and howl",
+    "and call out",
+    "and screech",
+    "and mutter"
   ],
   " ",
   [
@@ -74,10 +88,19 @@ var dressUpAndSay = [
     "“You said you were going to dress up as Johnny Depp!”",
     "“Trick or Treat!”",
     "“Chicka Chicka Boom Boom, your dick is in my womb.”",
-    "“Fuck you really are a basic bitch.”",
+    "“Fuck, you really <i>are</i> a basic bitch.”",
     "“No, no, the OTHER hole.”",
     "“Sir, this is a McDonalds drive thru.”",
-    "“Find a penis, pick it up, and all day you'll have good fuck”",
-	"“There are two doors and two guards, one of them always lies, the other one always tells the truth”"
+    "“Find a penis, pick it up, and all day you'll have good fuck.”",
+	"“There are two doors and two guards, one of them always lies, the other one always tells the truth.”"
+    "“Chemicals in the water are turning the frogs gay!”",
+    "“I'm a little sexpot short and smug, here is my pussy and here are my jugs”",
+    "“I read the WikiHow article on sex and now I'm an expert!”",
+    "“Nothing can stop garbage ape.”",
+    "“Ramburgler my meat hatch, you daring frycook of industry!”",
+    "“Willy wang winkie wanks willingly within warm wombs.”",
+    "“DID BECKY EVER DO THIS FOR YOU?!!?”",
+    "“Drop the pigs blood, lock the door, and we'll get this <i>Carrie</i> show on the road!”",
+    "[Please Insert Joke Here]"
   ]
 ];
