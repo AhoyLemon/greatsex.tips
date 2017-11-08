@@ -1,12 +1,13 @@
 ////////////
 // Image Builder
 .image-builder { position: absolute; top:0; left: 0; z-index:1;
-  figure { background-size:cover; position: relative; background-position: center; position: relative; border:2px solid $black; width:900px; }
+  &.hidden { display: none; }
+  figure { background-size:cover; position: relative; background-position: center; position: relative; width:900px; }
   .coversheet { @include position(absolute,0,0,0,0); background-color:#622927; opacity: 0.83; }
   h3 { @include position(absolute,20px,null,null,0);
-    span { border-left:none; box-shadow: none; padding:0.35em 0.65em; }
+    span { border:3px solid rgba($black,0.5); border-left:none; box-shadow: none; padding:0.35em 0.65em; }
   }
-  figcaption { min-height: 470px; @include flex-center(); padding:70px 25px 25px 25px; position: relative; color:$white; text-shadow: 2px 2px 4px $black; font-family: $serif; text-align: center; font-size:46px; }
+  figcaption { min-height: 470px; @include flex-center(); padding:70px 25px 25px 25px; position: relative; color:$white; text-shadow: 2px 2px 4px $black; font-family: $serif; text-align: center; font-size:46px; border:3px solid rgba($black,0.5); }
   h4 { @include position(absolute,null,0,0); background:rgba($black,0.8); color:$white; font-family:$sans-serif; padding:0.35em 0.65em; font-size:16px; text-align: right;
     .url { color:$yellow; display: inline; }
   }

@@ -11,8 +11,7 @@ body { background-color: $background-color; }
 main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main;
   .inner {  width:100%; max-width: 960px; }
   .tip { background: white; padding: 1em; box-shadow: 3px 3px 3px rgba($black,0.5); border:3px solid rgba($black,0.65); position: relative;
-    //.share-wrapper { text-align: right; padding-top: 0.5em; }
-    button { background:$yellow; border:1px solid $black; padding: 0.35em 1.25em; color:$black; cursor: pointer; @include position(absolute,3px,3px);
+    button { background:$yellow; border:1px solid $black; padding: 0.35em 1.25em; color:$black; cursor: pointer; @include position(absolute,5px,5px);
       svg * { fill:currentColor; }
       .icon { display: inline-block; width:1.5em; height: 1.5em; margin-right: 0.3em; }
       .text { display: inline-block; font-family:$serif; font-style:italic; font-size:1.15em; text-shadow:none; transform: translateY(-4px); }
@@ -21,10 +20,10 @@ main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main
       }
     }
   }
-  .tip-headline { transform: translateX(-50px);
+  .tip-headline { transform: translateX(-2em);
     span { box-shadow: 2px 2px 1px rgba($black,0.5); border:3px solid rgba($black,0.45); padding:0.35em 0.65em; }
   }
-  .tip-text { font-size:2.2rem; line-height: 120%; padding-top: 0.5em; }
+  .tip-text { font-size:2.2rem; line-height: 120%; padding-top: 0.75em; padding-bottom: 0.5em; }
   .button-holder { text-align: center; padding-top: 1em;
     button { background-color:transparent; color:$button-color; font-family: $serif; font-weight: $bold; border:2px solid currentColor; cursor: pointer; font-size:1.5rem; padding: 0.25em 1em; text-shadow: 1px 1px 0 $black; box-shadow: 1px 1px 0 $black; background-color:rgba($black,0.3);
       &:hover { background: $button-color; color:$black; box-shadow: 3px 3px 0 rgba($black,0.85); }
@@ -39,6 +38,20 @@ main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main
     span { background:$red; font-weight: $bold; display: inline-block; color:$white; text-shadow: 2px 2px 1px rgba($black,0.4); }
   }
   .tip-text { text-align: center; font-family:$serif; font-weight: $medium; }
+}
+
+
+@media (max-width:900px) {
+  main { font-size:2vw;
+    .inner { padding-left: 3em; padding-right: 3em; }
+    .tip-text { font-size:24px; padding-left: .5em; padding-right: .5em; }
+    .tip {
+      button { font-size:10px;}
+    }
+    .button-holder { padding-top:40px;
+      button { font-size:16px; }
+    }
+  }
 }
 
 

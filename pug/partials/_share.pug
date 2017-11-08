@@ -1,15 +1,16 @@
 //----------------------------------------------------
 //- This bit of HTML generates the Image
-.tip.image-builder#CurrentTip
-  figure(v-bind:style="primaryImage")
-    .coversheet &nbsp;
-    h3.tip-headline
-      span {{tipLabel}} {{tipNumberFormatted}}
-    figcaption
-      .share-text(v-html="currentTip")
-    h4
-      span.learnmore Learn more at 
-      span.url goodsex.tips
+.image-builder(v-bind:class="{hidden:hideShareImage}")
+  .tip#CurrentTip
+    figure(v-bind:style="primaryImage")
+      .coversheet &nbsp;
+      h3.tip-headline
+        span {{tipLabel}} {{tipNumberFormatted}}
+      figcaption
+        .share-text(v-html="currentTip")
+      h4
+        span.learnmore Learn more at 
+        span.url goodsex.tips
 
 
 //--------------------------

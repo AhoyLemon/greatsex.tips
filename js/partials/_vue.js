@@ -6,6 +6,7 @@ var app = new Vue({
     browser: '',
     sidebarVisible: false,
     addToHomescreen: false,
+    hideShareImage: true,
     shareScreen: false,
     tipLabel: 'Cosmo Sex Tip',
     backgroundImages: [
@@ -82,6 +83,7 @@ var app = new Vue({
     // Generate an image.
     generatePicture: function() {
       var self = this;
+      self.hideShareImage = false;
       
       var node = document.getElementById('CurrentTip');
 
@@ -91,11 +93,13 @@ var app = new Vue({
           img.src = dataUrl;
           document.getElementById('ShareImageWrapper').innerHTML="";
           document.getElementById('ShareImageWrapper').appendChild(img);
+          self.hideShareImage = true;
           self.shareScreen = true;
         })
         .catch(function (error) {
             console.error('oops, something went wrong!', error);
-        });      
+        });
+        
       
     },
     

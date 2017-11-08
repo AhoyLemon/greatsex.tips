@@ -325,8 +325,8 @@ main {
       color: #212121;
       cursor: pointer;
       position: absolute;
-      top: 3px;
-      right: 3px; }
+      top: 5px;
+      right: 5px; }
       main .tip button svg * {
         fill: currentColor; }
       main .tip button .icon {
@@ -348,9 +348,9 @@ main {
         -ms-transform: scale(1.5);
         transform: scale(1.5); }
   main .tip-headline {
-    -webkit-transform: translateX(-50px);
-    -ms-transform: translateX(-50px);
-    transform: translateX(-50px); }
+    -webkit-transform: translateX(-2em);
+    -ms-transform: translateX(-2em);
+    transform: translateX(-2em); }
     main .tip-headline span {
       -webkit-box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
       box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
@@ -359,7 +359,8 @@ main {
   main .tip-text {
     font-size: 2.2rem;
     line-height: 120%;
-    padding-top: 0.5em; }
+    padding-top: 0.75em;
+    padding-bottom: 0.5em; }
   main .button-holder {
     text-align: center;
     padding-top: 1em; }
@@ -405,6 +406,23 @@ main {
   text-align: center;
   font-family: "Lora", serif;
   font-weight: 400; }
+
+@media (max-width: 900px) {
+  main {
+    font-size: 2vw; }
+    main .inner {
+      padding-left: 3em;
+      padding-right: 3em; }
+    main .tip-text {
+      font-size: 24px;
+      padding-left: .5em;
+      padding-right: .5em; }
+    main .tip button {
+      font-size: 10px; }
+    main .button-holder {
+      padding-top: 40px; }
+      main .button-holder button {
+        font-size: 16px; } }
 
 .sidebar-button {
   background: transparent;
@@ -557,12 +575,13 @@ main {
   top: 0;
   left: 0;
   z-index: 1; }
+  .image-builder.hidden {
+    display: none; }
   .image-builder figure {
     background-size: cover;
     position: relative;
     background-position: center;
     position: relative;
-    border: 2px solid #212121;
     width: 900px; }
   .image-builder .coversheet {
     position: absolute;
@@ -577,6 +596,7 @@ main {
     top: 20px;
     left: 0; }
     .image-builder h3 span {
+      border: 3px solid rgba(33, 33, 33, 0.5);
       border-left: none;
       -webkit-box-shadow: none;
       box-shadow: none;
@@ -611,7 +631,8 @@ main {
     text-shadow: 2px 2px 4px #212121;
     font-family: "Lora", serif;
     text-align: center;
-    font-size: 46px; }
+    font-size: 46px;
+    border: 3px solid rgba(33, 33, 33, 0.5); }
   .image-builder h4 {
     position: absolute;
     right: 0;

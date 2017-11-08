@@ -17,7 +17,7 @@ button.sidebar-button(v-on:click="sidebarVisible = !sidebarVisible" v-bind:class
         a(href="https://twitter.com/AberrantWhimsy" target="_blank" onclick="sendEvent('outside link', 'Sanguinary Novel', 'https://twitter.com/AberrantWhimsy')") Sanguinary Novel
         
     li#AddToHomeScreen(v-if="device")
-      span.label But first
+      span.label You should
       span.indent 
         a(style="font-weight:bold;" v-on:click="addToHomescreen = true")
           span(v-if="(device == 'android') || (device == 'ios')") add to home screen
