@@ -92,7 +92,7 @@ var dressUpAndSay = [
     "“No, no, the OTHER hole.”",
     "“Sir, this is a McDonalds drive thru.”",
     "“Find a penis, pick it up, and all day you'll have good fuck.”",
-	"“There are two doors and two guards, one of them always lies, the other one always tells the truth.”"
+	"“There are two doors and two guards, one of them always lies, the other one always tells the truth.”",
     "“Chemicals in the water are turning the frogs gay!”",
     "“I'm a little sexpot short and smug, here is my pussy and here are my jugs”",
     "“I read the WikiHow article on sex and now I'm an expert!”",
