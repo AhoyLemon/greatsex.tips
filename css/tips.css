@@ -391,24 +391,24 @@ body {
 body {
   background-color: #985a5a; }
 
-figure.fullpic {
-  position: absolute;
+.fullpic {
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
-  background-size: cover; }
-  figure.fullpic.primary {
-    z-index: 2;
-    opacity: 0.35; }
-  figure.fullpic.secondary {
-    z-index: 1;
-    opacity: 0; }
-    figure.fullpic.secondary.visible {
-      opacity: 0.35;
-      -webkit-transition: opacity 0.35s ease;
-      -o-transition: opacity 0.35s ease;
-      transition: opacity 0.35s ease; }
+  background-size: cover;
+  z-index: 2;
+  background: #985a5a; }
+  .fullpic figure {
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5; }
 
 main {
   display: -webkit-box;
@@ -450,22 +450,14 @@ main {
     font-family: "Taviraj", serif;
     font-weight: 400;
     padding: 0.5em; }
-  main h3 {
-    font-family: "Delius", sans-serif;
-    font-weight: 400; }
-    main h3 span {
-      background: #ee2a2a;
-      font-weight: 600;
-      display: inline-block;
-      padding: 0.35em 0.65em;
-      -webkit-transform: translateX(-50px);
-      -ms-transform: translateX(-50px);
-      transform: translateX(-50px);
-      color: #eee;
+  main .tip-headline {
+    -webkit-transform: translateX(-50px);
+    -ms-transform: translateX(-50px);
+    transform: translateX(-50px); }
+    main .tip-headline span {
       -webkit-box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
       box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
-      border: 3px solid rgba(33, 33, 33, 0.45);
-      text-shadow: 2px 2px 1px rgba(33, 33, 33, 0.4); }
+      border: 3px solid rgba(33, 33, 33, 0.45); }
   main .button-holder {
     text-align: center;
     padding-top: 1em; }
@@ -491,29 +483,93 @@ main {
         -webkit-box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88);
         box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88); }
 
+.tip h1 {
+  text-align: center;
+  font-family: "Taviraj", serif;
+  font-weight: 400;
+  padding: 0.5em; }
+
+.tip .tip-headline {
+  font-family: "Delius", sans-serif;
+  font-weight: 400; }
+  .tip .tip-headline span {
+    background: #ee2a2a;
+    font-weight: 600;
+    display: inline-block;
+    padding: 0.35em 0.65em;
+    color: #eee;
+    text-shadow: 2px 2px 1px rgba(33, 33, 33, 0.4); }
+
 .image-builder {
-  position: relative;
-  padding-left: 50px;
-  padding-right: 50px; }
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1; }
   .image-builder figure {
     background-size: cover;
     position: relative;
+    background-position: center;
     position: relative;
-    padding: 25px; }
+    border: 2px solid #212121;
+    width: 900px; }
   .image-builder .coversheet {
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: #985a5a;
-    opacity: 0.8; }
+    background-color: #622927;
+    opacity: 0.83; }
   .image-builder h3 {
-    -webkit-transform: translateX(-10px);
-    -ms-transform: translateX(-10px);
-    transform: translateX(-10px); }
+    position: absolute;
+    top: 20px;
+    left: 0; }
+    .image-builder h3 span {
+      -webkit-transform: translateX(0);
+      -ms-transform: translateX(0);
+      transform: translateX(0);
+      border-left: none;
+      -webkit-box-shadow: none;
+      box-shadow: none; }
+  .image-builder figcaption {
+    min-height: 500px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 60px 25px 25px 25px; }
   .image-builder h1 {
     position: relative;
     color: #eee;
     text-shadow: 2px 2px 4px #212121;
-    z-index: 999; }
+    z-index: 999;
+    font-size: 52px; }
+  .image-builder h4 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: rgba(33, 33, 33, 0.8);
+    color: #eee;
+    font-family: "Delius", sans-serif;
+    padding: 0.35em 0.65em;
+    font-size: 16px; }
+    .image-builder h4 .url {
+      color: #e5e972; }

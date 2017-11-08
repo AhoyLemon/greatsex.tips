@@ -11,26 +11,34 @@ html(lang="en")
     include partials/_head.pug
   body
     #app
-      figure.fullpic.secondary(v-bind:style="secondaryImage" v-bind:class="{visible:secondaryImage}")  
-      figure.fullpic.primary(v-bind:style="primaryImage")
+    
+      .tip.image-builder#CurrentTip
+        figure(v-bind:style="screenshotDiv")
+          .coversheet &nbsp;
+          h3.tip-headline
+            span {{tipLabel}} {{tipNumberFormatted}}
+          figcaption
+            h1(v-html="currentTip")
+          h4
+            span.learnmore Learn more at 
+            span.url goodsex.tips
+    
+      //figure.fullpic.secondary(v-bind:style="secondaryImage" v-bind:class="{visible:secondaryImage}")  
+      .fullpic
+        figure.primary(v-bind:style="primaryImage")
     
       include partials/_sidebar.pug
       
       main
         .inner(v-cloak)
           .tip
-            h3 
+            h3.tip-headline
               span {{tipLabel}} {{tipNumberFormatted}}
             h1(v-html="currentTip")
+            button(v-on:click="generatePicture") Download
           .button-holder
-            button(v-on:click="generatePicture") Generate Image
             button(v-on:click="generateSexTip") New Tip
-          
-          .image-builder#CurrentTip
-            figure(v-bind:style="screenshotDiv")
-              .coversheet &nbsp;
-              h3 
-                span {{tipLabel}} {{tipNumberFormatted}}
-              h1(v-html="currentTip")
+      
+      include partials/_share.pug
       
     include partials/_javascripts.pug

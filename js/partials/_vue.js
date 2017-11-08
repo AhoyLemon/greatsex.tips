@@ -82,17 +82,24 @@ var app = new Vue({
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Generate an image.
     generatePicture: function() {
-      
+      var self = this;
       $t = document.getElementById('CurrentTip');
+      $iW = document.getElementById('ShareImageWrapper');
       
+      var i = 'url(img/'+randomFrom(self.backgroundImages)+')';
+      self.screenshotDiv = {
+        backgroundImage:i,
+      };
       
       html2canvas($t, {
         allowTaint: true,
         taintTest: false,
         onrendered: function(canvas) {
-          document.body.appendChild(canvas);
+          $iW.appendChild(canvas);
         }
       });
+      
+      
     },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
