@@ -171,6 +171,24 @@ sup {
 svg {
   overflow: hidden; }
 
+@font-face {
+  font-family: 'Lora';
+  src: url("../fonts/lora.woff") format("woff"); }
+
+@font-face {
+  font-family: 'Lora';
+  src: url("../fonts/lora-bold.woff") format("woff");
+  font-weight: 600; }
+
+@font-face {
+  font-family: 'Lora';
+  src: url("../fonts/lora-italic.woff") format("woff");
+  font-style: italic; }
+
+@font-face {
+  font-family: 'Didact';
+  src: url("../fonts/didact.woff") format("woff"); }
+
 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
@@ -241,6 +259,152 @@ body {
     background-size: cover;
     background-position: center;
     opacity: 0.18; }
+
+body {
+  background-color: #985a5a; }
+
+.fullpic {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-size: cover;
+  z-index: 2;
+  background: #985a5a; }
+  .fullpic figure {
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5; }
+
+main {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 99vh;
+  position: relative;
+  z-index: 3; }
+  main .inner {
+    width: 100%;
+    max-width: 960px; }
+  main .tip {
+    background: white;
+    padding: 1em;
+    -webkit-box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
+    box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
+    border: 3px solid rgba(33, 33, 33, 0.65);
+    position: relative; }
+    main .tip button {
+      background: #e5e972;
+      border: 1px solid #212121;
+      padding: 0.35em 1.25em;
+      color: #212121;
+      cursor: pointer;
+      position: absolute;
+      top: 3px;
+      right: 3px; }
+      main .tip button svg * {
+        fill: currentColor; }
+      main .tip button .icon {
+        display: inline-block;
+        width: 1.5em;
+        height: 1.5em;
+        margin-right: 0.3em; }
+      main .tip button .text {
+        display: inline-block;
+        font-family: "Lora", serif;
+        font-style: italic;
+        font-size: 1.15em;
+        text-shadow: none;
+        -webkit-transform: translateY(-4px);
+        -ms-transform: translateY(-4px);
+        transform: translateY(-4px); }
+      main .tip button:hover .icon {
+        -webkit-transform: scale(1.5);
+        -ms-transform: scale(1.5);
+        transform: scale(1.5); }
+  main .tip-headline {
+    -webkit-transform: translateX(-50px);
+    -ms-transform: translateX(-50px);
+    transform: translateX(-50px); }
+    main .tip-headline span {
+      -webkit-box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
+      box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
+      border: 3px solid rgba(33, 33, 33, 0.45);
+      padding: 0.35em 0.65em; }
+  main .tip-text {
+    font-size: 2.2rem;
+    line-height: 120%;
+    padding-top: 0.5em; }
+  main .button-holder {
+    text-align: center;
+    padding-top: 1em; }
+    main .button-holder button {
+      background-color: transparent;
+      color: #e5e972;
+      font-family: "Lora", serif;
+      font-weight: 600;
+      border: 2px solid currentColor;
+      cursor: pointer;
+      font-size: 1.5rem;
+      padding: 0.25em 1em;
+      text-shadow: 1px 1px 0 #212121;
+      -webkit-box-shadow: 1px 1px 0 #212121;
+      box-shadow: 1px 1px 0 #212121;
+      background-color: rgba(33, 33, 33, 0.3); }
+      main .button-holder button:hover {
+        background: #e5e972;
+        color: #212121;
+        -webkit-box-shadow: 3px 3px 0 rgba(33, 33, 33, 0.85);
+        box-shadow: 3px 3px 0 rgba(33, 33, 33, 0.85); }
+      main .button-holder button:active {
+        -webkit-box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88);
+        box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88); }
+
+.tip h1 {
+  text-align: center;
+  font-family: "Lora", serif;
+  font-weight: 400;
+  padding: 0.5em; }
+
+.tip .tip-headline {
+  font-family: "Didact", sans-serif;
+  font-weight: 400; }
+  .tip .tip-headline span {
+    background: #ee2a2a;
+    font-weight: 600;
+    display: inline-block;
+    color: #eee;
+    text-shadow: 2px 2px 1px rgba(33, 33, 33, 0.4); }
+
+.tip .tip-text {
+  text-align: center;
+  font-family: "Lora", serif;
+  font-weight: 400; }
 
 .sidebar-button {
   background: transparent;
@@ -376,7 +540,7 @@ body {
     color: #4885ed;
     background-color: transparent;
     border: 2px solid #4885ed;
-    font-family: "Taviraj", serif;
+    font-family: "Lora", serif;
     padding: 0.25em 1em;
     font-size: 0.9rem; }
     .homescreen-help-holder button:hover {
@@ -388,123 +552,11 @@ body {
   #AddToHomeScreen {
     display: none; } }
 
-body {
-  background-color: #985a5a; }
-
-.fullpic {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-size: cover;
-  z-index: 2;
-  background: #985a5a; }
-  .fullpic figure {
-    background-size: cover;
-    background-position: center;
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    opacity: 0.5; }
-
-main {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -moz-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  -moz-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  -webkit-align-items: center;
-  align-items: center;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
-  justify-content: center;
-  height: 99vh;
-  position: relative;
-  z-index: 3; }
-  main .inner {
-    width: 100%;
-    max-width: 960px; }
-  main .tip {
-    background: white;
-    padding: 1em;
-    -webkit-box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
-    box-shadow: 3px 3px 3px rgba(33, 33, 33, 0.5);
-    border: 3px solid rgba(33, 33, 33, 0.45); }
-  main h1 {
-    text-align: center;
-    font-family: "Taviraj", serif;
-    font-weight: 400;
-    padding: 0.5em; }
-  main .tip-headline {
-    -webkit-transform: translateX(-50px);
-    -ms-transform: translateX(-50px);
-    transform: translateX(-50px); }
-    main .tip-headline span {
-      -webkit-box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
-      box-shadow: 2px 2px 1px rgba(33, 33, 33, 0.5);
-      border: 3px solid rgba(33, 33, 33, 0.45); }
-  main .button-holder {
-    text-align: center;
-    padding-top: 1em; }
-    main .button-holder button {
-      background-color: transparent;
-      color: #e5e972;
-      font-family: "Taviraj", serif;
-      font-weight: 600;
-      border: 2px solid currentColor;
-      cursor: pointer;
-      font-size: 1.5rem;
-      padding: 0.25em 1em;
-      text-shadow: 1px 1px 0 #212121;
-      -webkit-box-shadow: 1px 1px 0 #212121;
-      box-shadow: 1px 1px 0 #212121;
-      background-color: rgba(33, 33, 33, 0.3); }
-      main .button-holder button:hover {
-        background: #e5e972;
-        color: #212121;
-        -webkit-box-shadow: 3px 3px 0 rgba(33, 33, 33, 0.85);
-        box-shadow: 3px 3px 0 rgba(33, 33, 33, 0.85); }
-      main .button-holder button:active {
-        -webkit-box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88);
-        box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88); }
-
-.tip h1 {
-  text-align: center;
-  font-family: "Taviraj", serif;
-  font-weight: 400;
-  padding: 0.5em; }
-
-.tip .tip-headline {
-  font-family: "Delius", sans-serif;
-  font-weight: 400; }
-  .tip .tip-headline span {
-    background: #ee2a2a;
-    font-weight: 600;
-    display: inline-block;
-    padding: 0.35em 0.65em;
-    color: #eee;
-    text-shadow: 2px 2px 1px rgba(33, 33, 33, 0.4); }
-
 .image-builder {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: -1; }
+  z-index: 1; }
   .image-builder figure {
     background-size: cover;
     position: relative;
@@ -525,14 +577,12 @@ main {
     top: 20px;
     left: 0; }
     .image-builder h3 span {
-      -webkit-transform: translateX(0);
-      -ms-transform: translateX(0);
-      transform: translateX(0);
       border-left: none;
       -webkit-box-shadow: none;
-      box-shadow: none; }
+      box-shadow: none;
+      padding: 0.35em 0.65em; }
   .image-builder figcaption {
-    min-height: 500px;
+    min-height: 470px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-flex;
@@ -555,21 +605,102 @@ main {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    padding: 60px 25px 25px 25px; }
-  .image-builder h1 {
+    padding: 70px 25px 25px 25px;
     position: relative;
     color: #eee;
     text-shadow: 2px 2px 4px #212121;
-    z-index: 999;
-    font-size: 52px; }
+    font-family: "Lora", serif;
+    text-align: center;
+    font-size: 46px; }
   .image-builder h4 {
     position: absolute;
     right: 0;
     bottom: 0;
     background: rgba(33, 33, 33, 0.8);
     color: #eee;
-    font-family: "Delius", sans-serif;
+    font-family: "Didact", sans-serif;
     padding: 0.35em 0.65em;
-    font-size: 16px; }
+    font-size: 16px;
+    text-align: right; }
     .image-builder h4 .url {
-      color: #e5e972; }
+      color: #e5e972;
+      display: inline; }
+
+.share {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(33, 33, 33, 0.92);
+  z-index: 13;
+  display: none; }
+  .share .inner {
+    max-width: 900px; }
+  .share .share-screen {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    height: 100%; }
+  .share .share-caption {
+    font-family: "Lora", serif;
+    color: #eee;
+    font-size: 1.25em;
+    text-align: center;
+    margin-top: 1em; }
+  .share.visible {
+    display: block; }
+  .share .close-share {
+    position: fixed;
+    top: 5px;
+    right: 17px;
+    display: block; }
+    .share .close-share svg {
+      width: 50px;
+      height: 50px; }
+      .share .close-share svg * {
+        fill: #e5e972; }
+    .share .close-share .fill {
+      opacity: 0; }
+    .share .close-share:hover .fill {
+      opacity: 1; }
+    .share .close-share:hover .x {
+      fill: #212121; }
+  .share .button-holder {
+    padding-top: 1em;
+    text-align: center; }
+  .share button {
+    color: #e5e972;
+    background: transparent;
+    border: 1px solid #e5e972;
+    display: inline-block;
+    padding: 0.35em 1.35em;
+    cursor: pointer; }
+    .share button.swap {
+      width: 11em; }
+    .share button:hover {
+      background: #e5e972;
+      color: #212121; }
+    .share button[disabled] {
+      color: rgba(238, 238, 238, 0.5);
+      background: transparent;
+      border-color: currentColor; }

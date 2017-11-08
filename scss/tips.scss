@@ -6,7 +6,9 @@
 @import "globals/_z-index";
 
 // SITE SPECIFIC
+@import "partials/_fonts";
 @import "partials/_variables";
 @import "partials/_defaults";
-@import "partials/_sidebar"; 
 @import "partials/_main";
+@import "partials/_sidebar"; 
+@import "partials/_share"; 

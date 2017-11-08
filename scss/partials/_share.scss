@@ -1,0 +1,38 @@
+////////////
+// Image Builder
+.image-builder { position: absolute; top:0; left: 0; z-index:1;
+  figure { background-size:cover; position: relative; background-position: center; position: relative; border:2px solid $black; width:900px; }
+  .coversheet { @include position(absolute,0,0,0,0); background-color:#622927; opacity: 0.83; }
+  h3 { @include position(absolute,20px,null,null,0);
+    span { border-left:none; box-shadow: none; padding:0.35em 0.65em; }
+  }
+  figcaption { min-height: 470px; @include flex-center(); padding:70px 25px 25px 25px; position: relative; color:$white; text-shadow: 2px 2px 4px $black; font-family: $serif; text-align: center; font-size:46px; }
+  h4 { @include position(absolute,null,0,0); background:rgba($black,0.8); color:$white; font-family:$sans-serif; padding:0.35em 0.65em; font-size:16px; text-align: right;
+    .url { color:$yellow; display: inline; }
+  }
+}
+
+////////////
+// Share Modal
+.share { @include position(fixed,0,0,0,0); background-color:rgba($black,0.92); z-index:$z-share; display: none;
+  .inner { max-width: 900px; }
+  .share-screen { @include flex-center(); height: 100%; }
+  .share-caption { font-family: $serif; color:$white; font-size:1.25em; text-align: center; margin-top: 1em; }
+  &.visible { display: block; }
+  .close-share { @include position(fixed,5px,17px); display: block;
+    svg { width:50px; height:50px;
+      * { fill:$yellow; }
+    }
+    .fill { opacity: 0; }
+    &:hover { 
+      .fill { opacity: 1; }
+      .x { fill:$black; }
+    }
+  }
+  .button-holder { padding-top: 1em; text-align: center; }
+  button { color:$yellow; background:transparent; border:1px solid $yellow; display: inline-block; padding: 0.35em 1.35em; cursor: pointer;
+    &.swap { width:11em; }
+    &:hover { background: $yellow; color:$black; }
+    &[disabled] { color:rgba($white,0.5); background:transparent; border-color:currentColor; }
+  }
+}

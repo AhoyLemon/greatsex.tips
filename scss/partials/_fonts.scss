@@ -1,0 +1,22 @@
+
+// SERIF
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/lora.woff') format('woff');
+}
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/lora-bold.woff') format('woff');
+  font-weight:$bold;
+}
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/lora-italic.woff') format('woff');
+  font-style:italic;
+}
+
+// SANS SERIF
+@font-face {
+  font-family: 'Didact';
+  src: url('../fonts/didact.woff') format('woff');
+}

@@ -6,6 +6,7 @@ var app = new Vue({
     browser: '',
     sidebarVisible: false,
     addToHomescreen: false,
+    shareScreen: false,
     tipLabel: 'Cosmo Sex Tip',
     backgroundImages: [
       'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg','bg7.jpg','bg8.jpg','bg9.jpg'
@@ -14,9 +15,7 @@ var app = new Vue({
     primaryImage: {
       backgroundImage:'url(img/bg1.jpg)'
     },
-    screenshotDiv: {
-      backgroundImage:'url(img/bg1.jpg)'
-    },
+    imageLoading: false,
     tipNumber: 0,
     tipsDisplayed: 0,
     currentTip: '',
@@ -58,7 +57,7 @@ var app = new Vue({
       });
       self.tipsDisplayed++;
       
-      if (self.tipsDisplayed % 5 === 0) {
+      if (self.tipsDisplayed % 4 === 0) {
         self.newBackgroundImage();
       }
       
@@ -83,23 +82,31 @@ var app = new Vue({
     // Generate an image.
     generatePicture: function() {
       var self = this;
-      $t = document.getElementById('CurrentTip');
-      $iW = document.getElementById('ShareImageWrapper');
       
-      var i = 'url(img/'+randomFrom(self.backgroundImages)+')';
-      self.screenshotDiv = {
-        backgroundImage:i,
-      };
+      var node = document.getElementById('CurrentTip');
+
+      domtoimage.toJpeg(node)
+        .then(function (dataUrl) {
+          var img = new Image();
+          img.src = dataUrl;
+          document.getElementById('ShareImageWrapper').innerHTML="";
+          document.getElementById('ShareImageWrapper').appendChild(img);
+          self.shareScreen = true;
+        })
+        .catch(function (error) {
+            console.error('oops, something went wrong!', error);
+        });      
       
-      html2canvas($t, {
-        allowTaint: true,
-        taintTest: false,
-        onrendered: function(canvas) {
-          $iW.appendChild(canvas);
-        }
-      });
-      
-      
+    },
+    
+    swapBackgroundRegenerateImage: function() {
+      var self = this;
+      self.newBackgroundImage();
+      self.imageLoading = true;
+      setTimeout(function(){ 
+        self.generatePicture();
+        self.imageLoading = false;
+      }, 300);
     },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
