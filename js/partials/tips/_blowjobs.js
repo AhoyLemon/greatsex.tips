@@ -28,7 +28,12 @@ var blowjobs = [
     "go into a handstand",
     "start chewing some gum",
     "activate your camouflage",
-    "twist his balls into an attractive paperweight"
+    "mush his balls into a single undiscernable shape",
+    "examine his belly button with a magnifying glass",
+    "dump soap on his dick because he's a dirty boy",
+    "shave his pubes",
+    "toot the <i>Robin Hood</i> Oo De Lally song on his penis",
+	"tap SOS in morse code on his glans with your tongue"
   ],
   " and ",
   [
@@ -39,8 +44,26 @@ var blowjobs = [
     "spin around his penis like you're in a dizzy bat race.",
     "dig your fingernails into his scrotum.",
     "cut off all your hair.",
-    "show him your CQC techniques.",
     "try to inflate his penis like a balloon.",
-    "devour his life source through his penis."
+    "suck in on his urethra to remove his life essense.",
+    "twiddle your fingers on the shaft like it was a flute.",
+    "press it in a scrapbook to preserve the memories.",
+    "press up, down, up, down, left, right, left, right, testicle, testicle, dick.",
+    "hum taps while slowly sliding off his penis onto the floor.",
+    "mime revving a motor while you raspberry his penis.",
+    "screech at his penis as if you're protecting your young.",
+    "light a fire under his ass.",
+    "move side to side, blocking him from a layup.",
+    "pantomime drowning.",
+    "grow a pointy mustache and rub a melted clock on his balls. This is very meaningful.",
+    "read your 800 page thesis on the humor of cow tools.",
+    "shoulder tackle him in the balls.",
+    "refuse to take any part of him seriously.",
+    "roll a D20 for pleasure.",
+    "snoop in his wallet for loose 20 dollar bills.",
+    "pantomime choking to death, and then steal his computer when he leaves to call an ambulance.",
+	"fake a seizure.",
+	"try to recite the declaration of independence.",
+	"grab the sides of his scrotum and play them like an accordion."
   ]
 ];

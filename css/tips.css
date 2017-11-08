@@ -249,7 +249,7 @@ body {
   position: fixed;
   top: 5px;
   right: 10px;
-  z-index: 1005;
+  z-index: 5;
   outline: none;
   cursor: pointer; }
   .sidebar-button svg {
@@ -299,7 +299,7 @@ body {
   color: #212121;
   width: 14em;
   padding: 3.5rem 1rem 1rem 1rem;
-  z-index: 1004;
+  z-index: 4;
   font-family: 'Zilla Slab', serif;
   font-size: 20px;
   -webkit-transform: translateX(101%);
@@ -334,7 +334,7 @@ body {
     transform: translateX(0); }
 
 .homescreen-help-holder {
-  background-color: rgba(221, 220, 202, 0.9);
+  background-color: rgba(33, 33, 33, 0.9);
   position: fixed;
   top: 0;
   right: 0;
@@ -342,7 +342,7 @@ body {
   left: 0;
   z-index: 12; }
   .homescreen-help-holder .homescreen-help {
-    background: white;
+    background: #eee;
     color: #212121;
     position: fixed;
     top: 0;
@@ -372,8 +372,17 @@ body {
   .homescreen-help-holder .button-holder {
     padding-top: 1em;
     text-align: center; }
-    .homescreen-help-holder .button-holder button {
-      font-size: 20px; }
+  .homescreen-help-holder button {
+    color: #4885ed;
+    background-color: transparent;
+    border: 2px solid #4885ed;
+    font-family: "Taviraj", serif;
+    padding: 0.25em 1em;
+    font-size: 0.9rem; }
+    .homescreen-help-holder button:hover {
+      background: #4885ed;
+      cursor: pointer;
+      color: #eee; }
 
 @media all and (display-mode: standalone) {
   #AddToHomeScreen {
@@ -426,7 +435,7 @@ main {
   justify-content: center;
   height: 99vh;
   position: relative;
-  z-index: 5; }
+  z-index: 3; }
   main .inner {
     width: 100%;
     max-width: 960px; }
@@ -438,7 +447,7 @@ main {
     border: 3px solid rgba(33, 33, 33, 0.45); }
   main h1 {
     text-align: center;
-    font-family: "Taviraj", "Papyrus";
+    font-family: "Taviraj", serif;
     font-weight: 400;
     padding: 0.5em; }
   main h3 {
@@ -463,7 +472,7 @@ main {
     main .button-holder button {
       background-color: transparent;
       color: #e5e972;
-      font-family: "Taviraj", "Papyrus";
+      font-family: "Taviraj", serif;
       font-weight: 600;
       border: 2px solid currentColor;
       cursor: pointer;

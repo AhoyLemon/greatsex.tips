@@ -31,6 +31,26 @@ var handjobs = [
     "throw it on the grill on high for five minutes.",
     "turn it in to the authorities for a sizable reward.",
     "shrug your shoulders, confused at it's bizarre shape.",
-    "glue a small toupee on the tip."
+    "glue a small toupee on the tip.",
+    "loop it around your wrist like a bangle.",
+    "insert it into a vending machine.",
+    "sing it a lullaby.",
+    "feed it a steady diet of castor oil.",
+    "pickle it with dill, peppers, and garlic.",
+    "present it with an Oscar for Best Supporting Genital",
+    "cut his dick into pieces, this is your last resort.",
+    "tar and feather it for its heinous crimes.",
+    "realize that this dick has been <i>dead for six years</i>.",
+    "sharpen it on the strop for a real cutting edge handjob.",
+    "clothe it in a tiny dress and take it to prom.",
+    "dye it purple and enter it into the county fair as an eggplant.",
+    "wiggle it back and forth to the theme of Pink Panther.",
+    "shake shake shake, shake shake shake, shake that penis.",
+    "give it a failing grade for it's pathetic attempts in PE class.",
+    "see if it can tell the difference between Pepsi and Coke.",
+    "use it to break into and hotwire a car.",
+	"use it as a conductor's wand for the entirety of Disney's Fantasia.",
+	"stir your coffee with it.",
+	"use it as an obstacle for your hottest fingerboard tricks."
   ]
 ];

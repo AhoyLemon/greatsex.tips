@@ -16,13 +16,14 @@ var reallyUncreativeSexTips = [
     "do it backwards","talk to each other",
     "masturbate together",
     "wear some lingerie",
-    "consider couple's counciling",
+    "consider couple's counselling",
     "put his penis in your vagina",
     "use some lube",
     "write SEX in pepperonis on a pizza",
     "use your mouth AND your hands",
     "have sex in the shower",
-    "try to orgasm"
+    "try to orgasm",
+	"do it on the other side of the bed"
   ],
   [
     "?","."

@@ -28,7 +28,10 @@ var doThingsToHisGenitals = [
     "Mock",
     "Shape",
     "Spin",
-    "Tickle"
+    "Tickle",
+    "Bounce",
+    "Wiggle",
+    "Satarize"
   ],
   " his ",
   maleGenitals,
@@ -47,7 +50,7 @@ var doThingsToHisGenitals = [
     "notices.",
     "wakes up.",
     "finally enjoys it.",
-    "busts into song",
+    "bursts into song",
     "calls you <i>Mother</i>.",
     "folds into singularity.",
     "returns to dust.",
@@ -61,6 +64,18 @@ var doThingsToHisGenitals = [
     "his penis falls off and sprouts two heads in its place.",
     "loans you his Playstation.",
     "admits pineapple is an acceptable pizza topping.",
-    "unplugs you from the wall."
+    "unplugs you from the wall.",
+	"sings the entirety of I Am the Very Model of a Modern Major General.",
+	"buys that mixer you've been asking for.",
+	"hands over the microfiche.",
+	"remembers your anniversary.",
+	"spills state secrets.",
+	"finally reveals the secret Coke recipe.",
+	"admits that he faked his Xbox gamer score.",
+	"break dances on your vagina.",	
+	"scratch your nipples like a DJ turntable.",
+	"starts fingering a jar of silly putty.",
+	"gives you the pizza for free.",
+	"curls up into a defensive position."
   ]
 ];

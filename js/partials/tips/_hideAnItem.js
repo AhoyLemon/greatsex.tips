@@ -20,17 +20,28 @@ var hideAnItem = [
     "Exhibit A",
     "a bowl of clam chowder",
     "the Ark of the Covenant",
-    "Adam Sandler's ability to write jokes",
     "a large swarm of wasps",
-    "the world's tiniest juggalo",
     "Nana's ashes",
-    "<i>Sex for Dummies</i> book",
+    "a <i>Sex for Dummies</i> book",
     "a crisp fiver",
     "your frozen placenta",
-    "a pound of locally sourced Himalayan pink sea salt",
     "Gwyneth Paltrow's Goop",
     "your bitcoin wallet code",
-    "a pile of bootleg Pokemon figurines from Ali Express"
+    "a series of tasteful used lube bottles",
+    "an old cum covered sock",
+    "the evidence of your sins",
+    "eggs you pickled in your vagina",
+    "a vibrator you bought used on eBay",
+    "two slices of pepperoni and mushroom pizza",
+    "yourself",
+    "a box of wiffle condoms",
+    "a recently fallen meteorite",
+    "the supersoldier serum",
+    "the holy materia",
+    "a series of nesting matryoshka penis dolls",
+    "his internet browsing history",
+    "a fleshlight from the future",
+	"a Juli Ashton Pussy/Ass Combo Sex Toy™ ($149.99)"
   ],
   " in his ",
   [
@@ -50,12 +61,20 @@ var hideAnItem = [
     "workstation",
     "car",
     "truck",
-    "onsie",
+    "onesie",
     "pajamas",
     "banana hammock",
     "thong",
     "hair gel",
-    "shaving cream"
+    "shaving cream",
+    "coat pocket",
+    "boss' coat pocket",
+    "report for the Big Client on Thursday",
+	"xanax jar",
+	"gas tank",
+	"rice maker",
+	"terrarium",
+	"Super Nintendo"
   ],
   ". When he ",
   [
@@ -63,7 +82,8 @@ var hideAnItem = [
     "finds it",
     "finds your treat",
     "catches on",
-    "figures it out"
+    "figures it out",
+	"realizes what you've done"
   ],
   ", ",
   [
@@ -84,6 +104,16 @@ var hideAnItem = [
     "pull out the hidden camera and yell “IT'S JUST A PRANK BRO!”",
     "admit that you spent the entire yearly budget on a herd of Chincoteague horses.",
     "try to lure his penis out with yogurt covered raisins.",
-    "jump out of the bushes, tackle him, and steal his wallet. "
+    "jump out of the bushes, tackle him, and steal his wallet.",
+    "tell him to look into the camera and say “Bang Bros”.",
+    "laugh menacingly while hunched over your grand pipe organ.",
+    "stand stock still until he forgets you're there",
+    "cover yourself in mud and hide in the jungle.",
+    "roll out from under the bed, chanting unknowable hymns.",
+    "challenge him to an arm westling match to win your estranged son's love.",
+    "strip naked on the spot, revealing your many Na'vi tattoos.",
+    "jerk him off with a mint condition Power Glove.",
+    "wrestle him to the ground and do a victory pose on his unconcious body.",
+	"you've won. You now own him."
   ]
 ];

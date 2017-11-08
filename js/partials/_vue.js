@@ -8,7 +8,7 @@ var app = new Vue({
     addToHomescreen: false,
     tipLabel: 'Cosmo Sex Tip',
     backgroundImages: [
-      'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg'
+      'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg','bg7.jpg','bg8.jpg','bg9.jpg'
     ],
     secondaryImage: false,
     primaryImage: {
@@ -69,9 +69,14 @@ var app = new Vue({
     // Swap the background image
     newBackgroundImage: function() {
       var self = this;
-      self.primaryImage = {
-        backgroundImage:'url(img/'+randomFrom(self.backgroundImages)+')',
-      };
+      var i = 'url(img/'+randomFrom(self.backgroundImages)+')';
+      if (self.primaryImage.backgroundImage == i) {
+        self.newBackgroundImage();
+      } else {
+        self.primaryImage = {
+          backgroundImage:i,
+        };
+      }
     },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -151,5 +156,6 @@ var app = new Vue({
   mounted: function () {
     var self = this;
     self.generateSexTip();
+    self.checkBrowser();
   }
 });

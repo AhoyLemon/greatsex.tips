@@ -26,7 +26,10 @@ var newSexPositions = [
     "on the coffee table",
     "on the repilca Great Pyramid of Giza",
     "on the door jamb",
-    "on his Dragonlance collection"
+    "on his Dragonlance collection",
+	"through the steering wheel",
+	"in the stirrups",
+	"in the crane position"
   ],
   " and your hands ",
   [
@@ -41,14 +44,15 @@ var newSexPositions = [
     "in his chest cavity",
     "in his mouth",
     "on your phone",
-    "in a box of Cheez Its",
+    "in a box of Cheez-Its",
     "on the Bible",
     "against his pubic bone",
     "in a pair of wool mittens",
     "in his buttcrack",
     "around his tulpa",
     "around your breasts",
-    "on your trusty six shooter"
+    "on your trusty six shooter",
+	"anywhere warm"
   ],
   ". ",
   [
@@ -66,7 +70,19 @@ var newSexPositions = [
     "Now prepare a fine meal for our guest judges using the mystery ingredient Hot Cheetos.",
     "Now lay back and think of England",
     "Now ask your partner for a spot.",
-    "Now execute the legendary quadruple salchow onto the bed."
+    "Now execute the legendary quadruple salchow onto the bed.",
+	  "Now search for that ring you lost inside him but haven't brought up the courage to say.",
+    "Now engulf the both of you in a silk cocoon to complete the metamorphasis.",
+    "Now compete in the 17th Annual Company Sack Race.",
+    "Now wake up from your nightmare, having remembered nothing but sadness.",
+    "Now reconsider all of the life choices you've made up 'til now.",
+    "Now fight to the death for the claim to the throne.",
+    "Now long for the sweet release of death.",
+    "Now get jumpin and bumpin and pumpin and moving all around.",
+    "Now ram your genitals together like a game of Hungry Hungry Hippos.",
+    "Now realize that you will never be as funny as Lasagna Cat. Ever.",
+    "Now slam an entire beer and crush the can on your partner's head.",
+    "Now give him the ol' razzle dazzle!"
   ],
   " ",
   [
