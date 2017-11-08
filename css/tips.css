@@ -481,3 +481,30 @@ main {
       main .button-holder button:active {
         -webkit-box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88);
         box-shadow: inset 3px 3px rgba(33, 33, 33, 0.88); }
+
+.image-builder {
+  position: relative;
+  padding-left: 50px;
+  padding-right: 50px; }
+  .image-builder figure {
+    background-size: cover;
+    position: relative;
+    position: relative;
+    padding: 25px; }
+  .image-builder .coversheet {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #985a5a;
+    opacity: 0.8; }
+  .image-builder h3 {
+    -webkit-transform: translateX(-10px);
+    -ms-transform: translateX(-10px);
+    transform: translateX(-10px); }
+  .image-builder h1 {
+    position: relative;
+    color: #eee;
+    text-shadow: 2px 2px 4px #212121;
+    z-index: 999; }

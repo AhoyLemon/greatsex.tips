@@ -1,7 +1,8 @@
 $button-color:$yellow;
+$background-color:#985a5a;
 
 
-body { background-color: #985a5a; }
+body { background-color: $background-color; }
 figure.fullpic { @include position(absolute,0,0,0,0); background-size:cover;
   &.primary { z-index: $z-background-primary; opacity: 0.35; }
   &.secondary { z-index: $z-background-secondary; opacity: 0;
@@ -24,3 +25,18 @@ main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main
     }
   }
 }
+
+
+
+
+
+////////////
+// Image Builder
+.image-builder { position: relative; padding-left:50px; padding-right: 50px;
+  figure { background-size:cover; position: relative; position: relative; padding: 25px; }
+  .coversheet { @include position(absolute,0,0,0,0); background-color:$background-color; opacity: 0.8; }
+  h3 { transform: translateX(-10px); }
+  h1 { position: relative; color:$white; text-shadow: 2px 2px 4px $black; z-index: 999; }
+}
+
+

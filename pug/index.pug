@@ -23,6 +23,14 @@ html(lang="en")
               span {{tipLabel}} {{tipNumberFormatted}}
             h1(v-html="currentTip")
           .button-holder
+            button(v-on:click="generatePicture") Generate Image
             button(v-on:click="generateSexTip") New Tip
+          
+          .image-builder#CurrentTip
+            figure(v-bind:style="screenshotDiv")
+              .coversheet &nbsp;
+              h3 
+                span {{tipLabel}} {{tipNumberFormatted}}
+              h1(v-html="currentTip")
       
     include partials/_javascripts.pug

@@ -14,6 +14,9 @@ var app = new Vue({
     primaryImage: {
       backgroundImage:'url(img/bg1.jpg)'
     },
+    screenshotDiv: {
+      backgroundImage:'url(img/bg1.jpg)'
+    },
     tipNumber: 0,
     tipsDisplayed: 0,
     currentTip: '',
@@ -55,17 +58,36 @@ var app = new Vue({
       });
       self.tipsDisplayed++;
       
-      if (self.tipsDisplayed % 5 == 0) {
+      if (self.tipsDisplayed % 5 === 0) {
         self.newBackgroundImage();
       }
       
     },
     
+    
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Swap the background image
     newBackgroundImage: function() {
       var self = this;
       self.primaryImage = {
         backgroundImage:'url(img/'+randomFrom(self.backgroundImages)+')',
-      }
+      };
+    },
+    
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Generate an image.
+    generatePicture: function() {
+      
+      $t = document.getElementById('CurrentTip');
+      
+      
+      html2canvas($t, {
+        allowTaint: true,
+        taintTest: false,
+        onrendered: function(canvas) {
+          document.body.appendChild(canvas);
+        }
+      });
     },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
