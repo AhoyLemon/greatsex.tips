@@ -59,7 +59,7 @@ var dressUpAndSay = [
     "and text him",
     "and semaphore him",
     "and sing to him",
-	"and mime"
+    "and mime",
     "and howl",
     "and call out",
     "and screech",
