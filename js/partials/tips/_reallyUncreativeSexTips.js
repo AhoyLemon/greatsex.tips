@@ -23,7 +23,8 @@ var reallyUncreativeSexTips = [
     "use your mouth AND your hands",
     "have sex in the shower",
     "try to orgasm",
-	"do it on the other side of the bed"
+	"do it on the other side of the bed",
+  "try having sex, but be excited about it"
   ],
   [
     "?","."

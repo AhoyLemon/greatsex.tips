@@ -72,10 +72,13 @@ var doThingsToHisGenitals = [
 	"spills state secrets.",
 	"finally reveals the secret Coke recipe.",
 	"admits that he faked his Xbox gamer score.",
-	"break dances on your vagina.",	
+	"break dances on your vagina.",
 	"scratch your nipples like a DJ turntable.",
 	"starts fingering a jar of silly putty.",
 	"gives you the pizza for free.",
-	"curls up into a defensive position."
+	"curls up into a defensive position.",
+  "is found Not Guilty by a jury of his peers.",
+  "penis ejects a tiny red BANG flag.",
+  "having sex with his girlfiend."
   ]
 ];

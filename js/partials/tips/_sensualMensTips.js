@@ -51,7 +51,13 @@ var sensualMensTips = [
     "mime whale noises while opening and closing my ass cheeks.",
     "shove red jasper up my anus while chanting “We can fuck until the dawn, making love 'til magic's gone”",
     "wear your favorite three penis moon shirt",
-    "hide Easter eggs in my anus"
+    "hide Easter eggs in my anus",
+    "create a Kerbal space rocket that resembles my dick.",
+    "eat cold spaghettios straight from the can.",
+    "assimilate me into the sexy Borg collective.",
+    "make cooing noises at my penis.",
+    "knead my balls into a loaf of rustic bread.",
+    "DDOS my favorite porn websites."
   ],
   ". ",
   [

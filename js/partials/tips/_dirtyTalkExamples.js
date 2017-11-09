@@ -91,7 +91,10 @@ var dirtyTalkExamples = [
     "Baby I hope you're AdBlock because this site is covered in viruses.",
 	"And to think, Mother said I'd never amount to ANYTHING! Who's laughing now, Mother!",
 	"I'm the strudel, you're the poppy seed filling.",
-	"I understand you've got a family to feed, but I can't offer you a promotion until your metrics improve."
+	"I understand you've got a family to feed, but I can't offer you a promotion until your metrics improve.",
+  "YOU CAN'T PUT YOUR DICK IN HERE! YOU'LL REGRET THIS!",
+  "That'll do pig, that'll do.",
+  "Dicks are my art, jizz, my medium."
   ],
   "” He's sure to ",
   [

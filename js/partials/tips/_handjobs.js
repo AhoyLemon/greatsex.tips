@@ -51,6 +51,7 @@ var handjobs = [
     "use it to break into and hotwire a car.",
 	"use it as a conductor's wand for the entirety of Disney's Fantasia.",
 	"stir your coffee with it.",
-	"use it as an obstacle for your hottest fingerboard tricks."
+	"use it as an obstacle for your hottest fingerboard tricks.",
+  "bury him up to his dick and reinact Dawn of the Dead"
   ]
 ];

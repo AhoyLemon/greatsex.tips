@@ -53,7 +53,8 @@ var dressUpAndSay = [
 	"in his clothes",
 	"in a prison uniform",
 	"like Carmen Miranda",
-	"in only a top hat"
+	"in only a top hat",
+  "as a skeleton"
   ],
   " ",
   [
@@ -108,6 +109,14 @@ var dressUpAndSay = [
     "“Drop the pigs blood, lock the door, and we'll get this <i>Carrie</i> show on the road!”",
     "[Please Insert Joke Here]",
 	"“This is what I was wearing the first time I saw you through my telescope.”",
-	"“Ignore the odor.”"
+	"“Ignore the odor.”",
+  "“EVERYBODY IT'S ON SHOTS SHOTS SHOTS SHOTS SHOTS SHOTS.”",
+  "“Did you have a better idea dipshit?”",
+  "“I only could afford to rent this for an hour, so lets get to the fucking.”",
+  "“Frank is going to watch, I told him you wouldn't mind.”",
+  "“Hey there sexy, we've never met, but...”",
+  "“I poisoned a hobo for this outfit.”",
+  "“Cum in me if you want to live.”",
+  "“As the French would say, <i>Je suis de retour sur mes conneries, mon amour.</i>”"
   ]
 ];

@@ -73,7 +73,7 @@ var bondageTips = [
     "draw a magic circle and summon Satan.",
     "throw his prize collection of flesh lights into the garbage disposal.",
     "say “.elyts ni kcab emoc ot gniog si ekil uoy mug tahT”",
-    "start a game of FATAL.",
+    "start a larp of FATAL.",
     "turn off the lights and play creepy children's songs for six hours.",
     "read Fallout:Equestria with different voices for every character.",
     "triple combo kick his dick.",
@@ -87,6 +87,12 @@ var bondageTips = [
 	"show him how much you've improved at playing the kalimba.",
 	"workshop new Cards Against Humanity suggestions.",
 	"invest in a time share.",
-	"binge-watch Season 12 of Supernatural uninterrupted."
+	"binge-watch Season 12 of Supernatural uninterrupted.",
+  "then a skeleton pops out!",
+  "spin around with multiple whips in your hands, screaming “WASH CYCLE!”",
+  "try out your new electro-shock dildo.",
+  "Google how to dominatrix.",
+  "roll out your pin board filled with evidence of the Illuminati.",
+  "feed him recipes from your grandmother's Weight Watchers recipe cards."
   ]
 ];

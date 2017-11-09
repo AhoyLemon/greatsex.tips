@@ -114,6 +114,12 @@ var hideAnItem = [
     "strip naked on the spot, revealing your many Na'vi tattoos.",
     "jerk him off with a mint condition Power Glove.",
     "wrestle him to the ground and do a victory pose on his unconcious body.",
-	"you've won. You now own him."
+	"you've won. You now own him.",
+  "burst out of a large, hollow cake with dildo sparklers.",
+  "dump a Gatorade container of lube on him for winning the Big Game!",
+  "tell him he's passed the test, and can impregnate you on the solar eclipse.",
+  "noogie his testicles and call him sport.",
+  "lock him out of the house and press your boobs on the glass to mock him.",
+  "exit your bedroom covered head to toe in strap-ons."
   ]
 ];

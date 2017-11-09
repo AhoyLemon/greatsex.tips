@@ -29,7 +29,11 @@ var newSexPositions = [
     "on his Dragonlance collection",
 	"through the steering wheel",
 	"in the stirrups",
-	"in the crane position"
+	"in the crane position",
+  "in the lotus position",
+  "in the nearby woodchipper",
+  "in a frenzy",
+  "over his shoulders"
   ],
   " and your hands ",
   [
@@ -52,7 +56,11 @@ var newSexPositions = [
     "around his tulpa",
     "around your breasts",
     "on your trusty six shooter",
-	"anywhere warm"
+	"anywhere warm",
+  "on his temples",
+  "on his testicles",
+  "on his pecs",
+  "on his throat"
   ],
   ". ",
   [
@@ -82,7 +90,9 @@ var newSexPositions = [
     "Now ram your genitals together like a game of Hungry Hungry Hippos.",
     "Now realize that you will never be as funny as Lasagna Cat. Ever.",
     "Now slam an entire beer and crush the can on your partner's head.",
-    "Now give him the ol' razzle dazzle!"
+    "Now give him the ol' razzle dazzle!",
+    "Now create shadow puppets with your genitals.",
+    "Now you know your hips don't lie and you're starting to feel it's right."
   ],
   " ",
   [
