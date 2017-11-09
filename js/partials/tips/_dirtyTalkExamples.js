@@ -81,7 +81,6 @@ var dirtyTalkExamples = [
     "I'm sorry, the vagina you are trying to reach cannot be located. Please pull out and try again.",
     "Please download Sexr from the Apple store to access this vagina.",
     "Mount my Dew and give me a Code Red in my cherry.",
-    "Despite all my rage I'm still just a shaft in a babe.",
     "Mama Mia, thatsa spicy meatball!",
     "Millenials are coming to kill you next.",
     "I AM THE ONE WHO CUMS!",
@@ -89,12 +88,12 @@ var dirtyTalkExamples = [
     "Ahh, Jizz, or some say Jizm... Do you hear our orgasms?",
     "If we have a threesome with your doppleganger, is it incest or masturbation?",
     "Baby I hope you're AdBlock because this site is covered in viruses.",
-	"And to think, Mother said I'd never amount to ANYTHING! Who's laughing now, Mother!",
-	"I'm the strudel, you're the poppy seed filling.",
-	"I understand you've got a family to feed, but I can't offer you a promotion until your metrics improve.",
-  "YOU CAN'T PUT YOUR DICK IN HERE! YOU'LL REGRET THIS!",
-  "That'll do pig, that'll do.",
-  "Dicks are my art, jizz, my medium."
+    "And to think, Mother said I'd never amount to ANYTHING! Who's laughing now, Mother!",
+    "I'm the strudel, you're the poppy seed filling.",
+    "I understand you've got a family to feed, but I can't offer you a promotion until your metrics improve.",
+    "YOU CAN'T PUT YOUR DICK IN HERE! YOU'LL REGRET THIS!",
+    "That'll do pig, that'll do.",
+    "Dicks are my art, jizz, my medium."
   ],
   "” He's sure to ",
   [
