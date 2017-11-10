@@ -46,7 +46,7 @@ var handjobs = [
     "dye it purple and enter it into the county fair as an eggplant.",
     "wiggle it back and forth to the theme of Pink Panther.",
     "shake shake shake, shake shake shake, shake that penis.",
-    "give it a failing grade for it's pathetic attempts in PE class.",
+    "give it a failing grade for its poor performance in PE class.",
     "see if it can tell the difference between Pepsi and Coke.",
     "use it to break into and hotwire a car.",
     "use it as a conductor's wand for the entirety of Disney's Fantasia.",
