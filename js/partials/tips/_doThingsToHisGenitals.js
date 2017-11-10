@@ -69,7 +69,7 @@ var doThingsToHisGenitals = [
     "remembers your anniversary.",
     "finally reveals the secret Coke recipe.",
     "admits that he faked his Xbox gamer score.",
-    "scratch your nipples like a DJ turntable.",
+    "scratches your nipples like a DJ turntable.",
     "starts fingering a jar of silly putty.",
     "gives you the pizza for free.",
     "curls up into a defensive position.",
@@ -79,6 +79,11 @@ var doThingsToHisGenitals = [
     "hears a fanfare play in the background.",
     "gets fed up and does it himself.",
     "ski-bi dibby dib yo da dub dubs into orgasm.",
-    "lets you leave the bunker."
+    "lets you leave the bunker.",
+	"accepts “zanxorb”. Double letter score on Z, triple word score, that's 105 points!",
+	"passes out.",
+	"agrees that Tonya Harding is the better skater.",
+	"sobs quietly in the corner.",
+	"writes in to Penthouse Forum."
   ]
 ];

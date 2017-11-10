@@ -98,13 +98,14 @@ var nonPenisActionsFromMen = [
 	"gives me goosebumps just thinking about it",
 	"made sense at the time. I guess you had to be there",
 	"is why my neighbors all installed sound proofing",
-  "helps me feel again",
-  "levels up my sex skill",
-  "is all very predictable",
-  "puts a fine shine on my coat",
-  "feels mighty fine by golly",
-  "really puts this thing we call life into perspective",
-  "fixes all of the tax problems I've had with the IRS"
+	"helps me feel again",
+	"levels up my sex skill",
+	"is all very predictable",
+	"puts a fine shine on my coat",
+	"feels mighty fine by golly",
+	"really puts this thing we call life into perspective",
+	"fixes all of the tax problems I've had with the IRS",
+	"reminds me how insignificant this all is in the grand scheme of things"
   ],
   [
     "!", "!", "!!!", "."

@@ -30,10 +30,10 @@ var newSexPositions = [
 	"through the steering wheel",
 	"in the stirrups",
 	"in the crane position",
-  "in the lotus position",
-  "in the nearby woodchipper",
-  "in a frenzy",
-  "over his shoulders"
+	"in the lotus position",
+	"in the nearby woodchipper",
+	"in a frenzy",
+	"over his shoulders"
   ],
   " and your hands ",
   [
@@ -57,10 +57,10 @@ var newSexPositions = [
     "around your breasts",
     "on your trusty six shooter",
 	"anywhere warm",
-  "on his temples",
-  "on his testicles",
-  "on his pecs",
-  "on his throat"
+	"on his temples",
+	"on his testicles",
+	"on his pecs",
+	"on his throat"
   ],
   ". ",
   [
@@ -79,9 +79,9 @@ var newSexPositions = [
     "Now lay back and think of England",
     "Now ask your partner for a spot.",
     "Now execute the legendary quadruple salchow onto the bed.",
-	  "Now search for that ring you lost inside him but haven't brought up the courage to say.",
-    "Now engulf the both of you in a silk cocoon to complete the metamorphasis.",
-    "Now compete in the 17th Annual Company Sack Race.",
+	"Now search for that ring you lost inside him but haven't brought up the courage to say.",
+	"Now engulf the both of you in a silk cocoon to complete the metamorphasis.",
+	"Now compete in the 17th Annual Company Sack Race.",
     "Now wake up from your nightmare, having remembered nothing but sadness.",
     "Now reconsider all of the life choices you've made up 'til now.",
     "Now fight to the death for the claim to the throne.",
@@ -92,7 +92,11 @@ var newSexPositions = [
     "Now slam an entire beer and crush the can on your partner's head.",
     "Now give him the ol' razzle dazzle!",
     "Now create shadow puppets with your genitals.",
-    "Now you know your hips don't lie and you're starting to feel it's right."
+    "Now you know your hips don't lie and you're starting to feel it's right.",
+	"Now get low. Get low. Get low. Get low.",
+	"Now declare yourself the conqueror of Fuck Mountain.",
+	"Now perform a courtesy pee.",
+	"Now you're ready to use the ouija board."
   ],
   " ",
   [

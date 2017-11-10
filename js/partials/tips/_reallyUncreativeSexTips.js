@@ -13,7 +13,8 @@ var reallyUncreativeSexTips = [
     "kiss each other",
     "touch his penis with your hand",
     "put his penis in your mouth",
-    "do it backwards","talk to each other",
+    "do it backwards",
+	"talk to each other",
     "masturbate together",
     "wear some lingerie",
     "consider couple's counselling",
@@ -24,7 +25,7 @@ var reallyUncreativeSexTips = [
     "have sex in the shower",
     "try to orgasm",
 	"do it on the other side of the bed",
-  "try having sex, but be excited about it"
+	"try having sex, but be excited about it"
   ],
   [
     "?","."

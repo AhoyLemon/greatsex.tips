@@ -16,7 +16,8 @@ var sensualMensTips = [
     "push back your hair",
     "paint your nipples with glittery lipstick",
     "lick your neck",
-    "spoon with you in bed"
+    "spoon with you in bed",
+	"join you in the shower"	
   ],
   ", ",
   [
@@ -62,7 +63,13 @@ var sensualMensTips = [
     "lock us in the hidden panic room for no reason.",
     "inspire me to have a greater apprecation for life because <i>you're just so quirky!</i>",
     "turn the heat up to max in the house and pretend it's a desert.",
-    "estimate how many turkeys could fill the room."
+    "estimate how many turkeys could fill the room.",
+	"order me a model train set through your Amazon Echo.",
+	"dirty talk in iambic pentameter.",
+	"focus attention to my vestigial limb(s).",
+	"PVR CSPAN.",
+	"throw streamers around the room.",
+	"change my Twitch page settings so people don't join expecting to see a Dota 2 stream."
   ],
   ". ",
   [

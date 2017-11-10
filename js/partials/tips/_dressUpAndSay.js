@@ -54,8 +54,17 @@ var dressUpAndSay = [
 	"in a prison uniform",
 	"like Carmen Miranda",
 	"in only a top hat",
-  "as a skeleton",
-  "in a space suit"
+	"as a skeleton",
+	"in a space suit",
+	"like Slim Goodbody",
+	"like Kriss Kross",
+	"like Swamp Thing",
+	"in Christmas tree lights",
+	"like Ethel Merman in <i>Anything Goes</i>",
+	"like a caveman",
+	"like a sexy hockey player",
+	"as a Rubik's Cube",
+	"in an oversized foam cowboy hat"
   ],
   " ",
   [
@@ -70,7 +79,8 @@ var dressUpAndSay = [
     "and call out",
     "and screech",
     "and mutter",
-	"and rap"
+	"and rap",
+	"and announce:"
   ],
   " ",
   [
@@ -111,18 +121,23 @@ var dressUpAndSay = [
     "[Please Insert Joke Here]",
 	"“This is what I was wearing the first time I saw you through my telescope.”",
 	"“Ignore the odor.”",
-  "“EVERYBODY IT'S ON SHOTS SHOTS SHOTS SHOTS SHOTS SHOTS.”",
-  "“Did you have a better idea dipshit?”",
-  "“I only could afford to rent this for an hour, so lets get to the fucking.”",
-  "“Frank is going to watch, I told him you wouldn't mind.”",
-  "“Hey there sexy, we've never met, but...”",
-  "“I poisoned a hobo for this outfit.”",
-  "“Cum in me if you want to live.”",
-  "“As the French would say, <i>Je suis de retour sur mes conneries, mon amour.</i>”",
-  "“I'm so glad your birthday is only once a year.”",
-  "“Hey, is it hot in here, or is this costume covered in buffalo sauce?”",
-  "“Shhh, before my parents wake up.”",
-  "“Do you like it? I made it out of macaroni noodles and glue ;)”",
-  "“Our clips4sale ratings are going to be through the roof!”"
+	"“EVERYBODY IT'S ON SHOTS SHOTS SHOTS SHOTS SHOTS SHOTS.”",
+	"“Did you have a better idea dipshit?”",
+	"“I only could afford to rent this for an hour, so lets get to the fucking.”",
+	"“Frank is going to watch, I told him you wouldn't mind.”",
+	"“Hey there sexy, we've never met, but...”",
+	"“I poisoned a hobo for this outfit.”",
+	"“Cum in me if you want to live.”",
+	"“As the French would say, <i>Je suis de retour sur mes conneries, mon amour.</i>”",
+	"“I'm so glad your birthday is only once a year.”",
+	"“Hey, is it hot in here, or is this costume covered in buffalo sauce?”",
+	"“Shhh, before my parents wake up.”",
+	"“Do you like it? I made it out of macaroni noodles and glue ;)”",
+	"“Our clips4sale ratings are going to be through the roof!”",
+	"“I've got 15 minutes before I have to get back to my sign spinning job.”",
+	"“Eigo ga wakarimasu ka?”",
+	"“This October 31, we're celebrating HOLE-O-WEEN”",
+	"“I said a hip, hop, the hippie, the hippie to the hip hip hop and ya don't stop the rock it to the bang bang boogie say up jump the boogie to the rhythm of the boogie, the beat.”",
+	"“I got this idea when I was listening to Adam Carolla”"
   ]
 ];

@@ -34,9 +34,11 @@ var blowjobs = [
     "shave his pubes",
     "toot the <i>Robin Hood</i> Oo De Lally song on his penis",
 	"tap SOS in morse code on his glans with your tongue",
-  "make Pac-Man WAKA WAKA noises as you move down the shaft",
-  "lie profusely about the size and smell",
-  ""
+	"make Pac-Man WAKA WAKA noises as you move down the shaft",
+	"lie profusely about the size and smell",
+	"do the chicken dance with your arms",
+	"tie your hair tightly around his scrotum",
+	"stick your finger in his navel"
   ],
   " and ",
   [
@@ -68,15 +70,17 @@ var blowjobs = [
 	"fake a seizure.",
 	"try to recite the declaration of independence.",
 	"grab the sides of his scrotum and play them like an accordion.",
-  "drink straight bourbon from the bottle with a straw.",
-  "ask why it's covered in blue body paint."
-  "take off his underwear.",
-  "deflate slightly under the pressure.",
-  "do a line of coke off his balls.",
-  "finish knitting a pair of socks.",
-  "FINISH HIM.",
-  "headbang to your favorite heavy metal song.",
-  "post about it on Instagram.",
-  ""
+	"drink straight bourbon from the bottle with a straw.",
+	"ask why it's covered in blue body paint."
+	"take off his underwear.",
+	"deflate slightly under the pressure.",
+	"do a line of coke off his balls.",
+	"finish knitting a pair of socks.",
+	"FINISH HIM.",
+	"headbang to your favorite heavy metal song.",
+	"post about it on Instagram.",
+	"make the Price is Right sad trombone noise.",
+	"demonstrate a three point turn.",
+	"do the <i>I'm a little teacup</i> dance."
   ]
 ];

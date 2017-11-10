@@ -21,14 +21,15 @@ var suggestionsFromWomen = [
     "My sister's husband",
     "This guy I know",
     "Chad",
-	"My last tinder hookup",
+	"My tinder hookup"
   ],
   " ",
   [
     "loves it when",
     "really likes it when",
     "goes wild when",
-    "thinks he's died and gone to heaven when"
+    "thinks he's died and gone to heaven when",
+	"gets turned on when"
   ],
   " ",
   [
@@ -70,14 +71,16 @@ var suggestionsFromWomen = [
     "I milk his penis like a cow udder.",
 	"I berate him in front of the other girls in the book club.",
 	"I let him win a game of Steal the Bacon.",
-  "we wrestle in a pool of slimy elbow noodles.",
-  "we mosh pit naked in our bedroom.",
-  "I go along with his Zeus otherkin story.",
-  "I accept that he will never stop wearing diapers.",
-  "I wear old-timey prospector wig and pajamas and open the butt flap.",
-  "I edit his articles on Wikipedia.",
-  "I do a fan dance with handfuls of live snakes.",
-  "we try to orgasm before finishing the elevator game."
+	"we wrestle in a pool of slimy elbow noodles.",
+	"we mosh pit naked in our bedroom.",
+	"I go along with his Zeus otherkin story.",
+	"I accept that he will never stop wearing diapers.",
+	"I wear old-timey prospector wig and pajamas and open the butt flap.",
+	"I edit his articles on Wikipedia.",
+	"I do a fan dance with handfuls of live snakes.",
+	"we try to orgasm before finishing the elevator game.",
+	"we draw penises in our old college textbooks.",
+	"I wear him like a glove."
   ],
   " ",
   [
