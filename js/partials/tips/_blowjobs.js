@@ -38,7 +38,15 @@ var blowjobs = [
 	"lie profusely about the size and smell",
 	"do the chicken dance with your arms",
 	"tie your hair tightly around his scrotum",
-	"stick your finger in his navel"
+	"stick your finger in his navel",
+  "squish his flab to make a frowny face in the love handles",
+  "give him a play-by-play of the blowjob John Madden-style",
+  "stand up because it's more ergonomic",
+  "practice your tuvan throat singing",
+  "play with his testicles like a Newton's cradle",
+  "crush Kinder eggs with your hands in full view",
+  "flap your hands on his hips and make elephant noises",
+  "pierce his frenulum."
   ],
   " and ",
   [
@@ -81,6 +89,7 @@ var blowjobs = [
 	"post about it on Instagram.",
 	"make the Price is Right sad trombone noise.",
 	"demonstrate a three point turn.",
-	"do the <i>I'm a little teacup</i> dance."
+	"do the <i>I'm a little teacup</i> dance.",
+  "give your lover the thumbs up to leave the closet and escape."
   ]
 ];

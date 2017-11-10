@@ -41,7 +41,10 @@ var hideAnItem = [
     "a series of nesting matryoshka penis dolls",
     "his internet browsing history",
     "a fleshlight from the future",
-	"a Juli Ashton Pussy/Ass Combo Sex Toy™ ($149.99)"
+	"a Juli Ashton Pussy/Ass Combo Sex Toy™ ($149.99)",
+  "a xenomorph egg",
+  "an ol' H.R. Giger painting",
+  "radioactive buttplug"
   ],
   " in his ",
   [
@@ -126,6 +129,8 @@ var hideAnItem = [
 	"exit your bedroom covered head to toe in strap-ons.",
 	"convince him that this was his idea all along.",
 	"accuse him of witchcraft and turn him into the elder council.",
-	"sing the Katie Perry's <i>Peacock</i> but get the lyrics wrong."
+	"sing the Katie Perry's <i>Peacock</i> but get the lyrics wrong.",
+  "beatbox <i>Paralyzer</i> while stripping.",
+  "shoot him with a dart gun from his deer blind."
   ]
 ];
