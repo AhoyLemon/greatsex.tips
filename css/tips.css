@@ -407,6 +407,17 @@ main {
   font-family: "Lora", serif;
   font-weight: 400; }
 
+img.bug {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  z-index: 4;
+  width: 3vw;
+  height: 3vw;
+  min-width: 20px;
+  min-height: 20px;
+  mix-blend-mode: overlay; }
+
 @media (max-width: 900px) {
   main {
     font-size: 2vw; }
@@ -431,7 +442,7 @@ main {
   position: fixed;
   top: 5px;
   right: 10px;
-  z-index: 5;
+  z-index: 6;
   outline: none;
   cursor: pointer; }
   .sidebar-button svg {
@@ -481,7 +492,7 @@ main {
   color: #212121;
   width: 14em;
   padding: 3.5rem 1rem 1rem 1rem;
-  z-index: 4;
+  z-index: 5;
   font-family: 'Zilla Slab', serif;
   font-size: 20px;
   -webkit-transform: translateX(101%);
@@ -640,12 +651,20 @@ main {
     background: rgba(33, 33, 33, 0.8);
     color: #eee;
     font-family: "Didact", sans-serif;
-    padding: 0.35em 0.65em;
+    padding: 0.5em 1.25em;
     font-size: 16px;
     text-align: right; }
     .image-builder h4 .url {
       color: #e5e972;
       display: inline; }
+  .image-builder .logo {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 8px;
+    left: 8px;
+    opacity: 0.7; }
 
 .share {
   position: fixed;

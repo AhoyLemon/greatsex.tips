@@ -1,8 +1,8 @@
 - var testing = true
-- var siteTitle = "Cosmo Sex Tips"
+- var siteTitle = "Good Sex Tips"
 - var siteURL = ""
 - var fPlusURL = ""
-- var description = "Halelujah, it's raining dumb men! Amen."
+- var description = "🍆+🍑=🌟"
 - var d = new Date()
 - var lastUpdated = d.getFullYear() + '-' + (d.getMonth()<10?'0':'') + d.getMonth() + '-' + (d.getDate()<10?'0':'') + d.getDate() + '@' + (d.getHours()<10?'0':'') + d.getHours() + ':' + (d.getMinutes()<10?'0':'') + d.getMinutes() + ':' + (d.getSeconds()<10?'0':'') + d.getSeconds()
 doctype html
@@ -32,6 +32,8 @@ html(lang="en")
                 span.text Share this tip!
           .button-holder
             button(v-on:click="generateSexTip") New Tip
+      
+      img.bug(src="svg/logo-red.svg")
       
       include partials/_share.pug
       

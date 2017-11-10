@@ -48,7 +48,7 @@ var suggestionsFromWomen = [
         "“Dick's Nixon”, where I debate his neo-conservative dick on the legacy of Richard Nixon",
         "“Lady And The Dick”, where his dick and I discuss our favorite Disney films.",
         "about our top 100 MMA fights of all time.",
-		"“Slamilton”, where we rank each song from Hamilton based on how much it distracts us from having sex.",
+		    "“Slamilton”, where we rank each song from Hamilton based on how much it distracts us from having sex.",
         "“The Bone Zone”, where we talk about skeletons we'd like to fuck.",
         "“Half in the Vag”, where we describe in loving detail celebrity vaginas.",
         "“Gotta Go Cum”, where we read our favorite Sonic erotic fan fictions.",

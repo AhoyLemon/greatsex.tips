@@ -8,9 +8,10 @@
     span { border:3px solid rgba($black,0.5); border-left:none; box-shadow: none; padding:0.35em 0.65em; }
   }
   figcaption { min-height: 470px; @include flex-center(); padding:70px 25px 25px 25px; position: relative; color:$white; text-shadow: 2px 2px 4px $black; font-family: $serif; text-align: center; font-size:46px; border:3px solid rgba($black,0.5); }
-  h4 { @include position(absolute,null,0,0); background:rgba($black,0.8); color:$white; font-family:$sans-serif; padding:0.35em 0.65em; font-size:16px; text-align: right;
+  h4 { @include position(absolute,null,0,0); background:rgba($black,0.8); color:$white; font-family:$sans-serif; padding:0.5em 1.25em; font-size:16px; text-align: right;
     .url { color:$yellow; display: inline; }
   }
+  .logo { display: inline-block; width:30px; height: 30px; @include position(absolute,null,null,8px,8px); opacity: 0.7; }
 }
 
 ////////////

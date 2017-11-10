@@ -71,7 +71,7 @@ var blowjobs = [
 	"try to recite the declaration of independence.",
 	"grab the sides of his scrotum and play them like an accordion.",
 	"drink straight bourbon from the bottle with a straw.",
-	"ask why it's covered in blue body paint."
+	"ask why it's covered in blue body paint.",
 	"take off his underwear.",
 	"deflate slightly under the pressure.",
 	"do a line of coke off his balls.",

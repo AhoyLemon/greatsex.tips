@@ -40,6 +40,8 @@ main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main
   .tip-text { text-align: center; font-family:$serif; font-weight: $medium; }
 }
 
+img.bug { @include position(fixed,null,10px,10px); z-index:$z-bug; width:3vw; height: 3vw; min-width:20px; min-height: 20px; mix-blend-mode:overlay; }
+
 
 @media (max-width:900px) {
   main { font-size:2vw;
