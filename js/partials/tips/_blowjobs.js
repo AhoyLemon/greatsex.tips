@@ -33,7 +33,10 @@ var blowjobs = [
     "dump soap on his dick because he's a dirty boy",
     "shave his pubes",
     "toot the <i>Robin Hood</i> Oo De Lally song on his penis",
-	"tap SOS in morse code on his glans with your tongue"
+	"tap SOS in morse code on his glans with your tongue",
+  "make Pac-Man WAKA WAKA noises as you move down the shaft",
+  "lie profusely about the size and smell",
+  ""
   ],
   " and ",
   [
@@ -64,6 +67,16 @@ var blowjobs = [
     "pantomime choking to death, and then steal his computer when he leaves to call an ambulance.",
 	"fake a seizure.",
 	"try to recite the declaration of independence.",
-	"grab the sides of his scrotum and play them like an accordion."
+	"grab the sides of his scrotum and play them like an accordion.",
+  "drink straight bourbon from the bottle with a straw.",
+  "ask why it's covered in blue body paint."
+  "take off his underwear.",
+  "deflate slightly under the pressure.",
+  "do a line of coke off his balls.",
+  "finish knitting a pair of socks.",
+  "FINISH HIM.",
+  "headbang to your favorite heavy metal song.",
+  "post about it on Instagram.",
+  ""
   ]
 ];

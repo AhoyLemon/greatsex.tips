@@ -93,7 +93,8 @@ var dirtyTalkExamples = [
     "I understand you've got a family to feed, but I can't offer you a promotion until your metrics improve.",
     "YOU CAN'T PUT YOUR DICK IN HERE! YOU'LL REGRET THIS!",
     "That'll do pig, that'll do.",
-    "Dicks are my art, jizz, my medium."
+    "Dicks are my art, jizz, my medium.",
+    "Go about your daily duties without having to go to the brothel to get more tramps. Instead, use tramps.com to ship your packages right from the computer. Users can try out the service by enrolling in a four week trial."
   ],
   "” He's sure to ",
   [

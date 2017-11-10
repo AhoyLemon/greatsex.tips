@@ -75,6 +75,10 @@ var doThingsToHisGenitals = [
     "curls up into a defensive position.",
     "is found Not Guilty by a jury of his peers.",
     "penis ejects a tiny red BANG flag.",
-    "having sex with his girlfiend."
+    "quits having sex with his girlfiend.",
+    "hears a fanfare play in the background.",
+    "gets fed up and does it himself.",
+    "ski-bi dibby dib yo da dub dubs into orgasm.",
+    "lets you leave the bunker."
   ]
 ];

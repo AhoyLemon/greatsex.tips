@@ -54,7 +54,8 @@ var dressUpAndSay = [
 	"in a prison uniform",
 	"like Carmen Miranda",
 	"in only a top hat",
-  "as a skeleton"
+  "as a skeleton",
+  "in a space suit"
   ],
   " ",
   [
@@ -117,6 +118,11 @@ var dressUpAndSay = [
   "“Hey there sexy, we've never met, but...”",
   "“I poisoned a hobo for this outfit.”",
   "“Cum in me if you want to live.”",
-  "“As the French would say, <i>Je suis de retour sur mes conneries, mon amour.</i>”"
+  "“As the French would say, <i>Je suis de retour sur mes conneries, mon amour.</i>”",
+  "“I'm so glad your birthday is only once a year.”",
+  "“Hey, is it hot in here, or is this costume covered in buffalo sauce?”",
+  "“Shhh, before my parents wake up.”",
+  "“Do you like it? I made it out of macaroni noodles and glue ;)”",
+  "“Our clips4sale ratings are going to be through the roof!”"
   ]
 ];

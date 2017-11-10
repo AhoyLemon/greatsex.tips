@@ -51,7 +51,8 @@ var bondageTips = [
     "a basketball hoop",
     "the International Space Station",
 	"an inflatable castle",
-	"the United Nations building"
+	"the United Nations building",
+  "a full keg of Hidden Valley Ranch"
   ],
   " and ",
   [
@@ -93,6 +94,16 @@ var bondageTips = [
   "try out your new electro-shock dildo.",
   "Google how to dominatrix.",
   "roll out your pin board filled with evidence of the Illuminati.",
-  "feed him recipes from your grandmother's Weight Watchers recipe cards."
+  "feed him recipes from your grandmother's Weight Watchers recipe cards.",
+  "invite a local jam band to play while you fuck.",
+  "lose the only keys to the steel handcuffs.",
+  "show him all of your pokemons.",
+  "tickle him with a feather and find out he has a severe goose allergy.",
+  "start a STOMP jam session using his flesh as an instrument.",
+  "realize you have no sex toys and sheepishly end the session.",
+  "show off what you learned in the porno <i>American Horror Story</i>.",
+  "list all of his emotional problems on a scratchy chalkboard.",
+  "try to plug your braid into his anus.",
+  "realize nobody is having any fun."
   ]
 ];

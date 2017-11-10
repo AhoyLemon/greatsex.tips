@@ -57,7 +57,12 @@ var sensualMensTips = [
     "assimilate me into the sexy Borg collective.",
     "make cooing noises at my penis.",
     "knead my balls into a loaf of rustic bread.",
-    "DDOS my favorite porn websites."
+    "DDOS my favorite porn websites.",
+    "play ring toss with my erect penis.",
+    "lock us in the hidden panic room for no reason.",
+    "inspire me to have a greater apprecation for life because <i>you're just so quirky!</i>",
+    "turn the heat up to max in the house and pretend it's a desert.",
+    "estimate how many turkeys could fill the room."
   ],
   ". ",
   [

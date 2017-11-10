@@ -120,6 +120,9 @@ var hideAnItem = [
   "tell him he's passed the test, and can impregnate you on the solar eclipse.",
   "noogie his testicles and call him sport.",
   "lock him out of the house and press your boobs on the glass to mock him.",
-  "exit your bedroom covered head to toe in strap-ons."
+  "exit your bedroom covered head to toe in strap-ons.",
+  "convince him that this was his idea all along.",
+  "accuse him of witchcraft and turn him into the elder council.",
+  "sing the Katie Perry's <i>Peacock</i> but get the lyrics wrong."
   ]
 ];

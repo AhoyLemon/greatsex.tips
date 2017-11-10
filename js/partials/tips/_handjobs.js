@@ -52,6 +52,7 @@ var handjobs = [
 	"use it as a conductor's wand for the entirety of Disney's Fantasia.",
 	"stir your coffee with it.",
 	"use it as an obstacle for your hottest fingerboard tricks.",
-  "bury him up to his dick and reinact Dawn of the Dead"
+  "bury him up to his dick and reinact Dawn of the Dead",
+  "dress it in a glittery outfit for a one woman and dick burlesque performance."
   ]
 ];

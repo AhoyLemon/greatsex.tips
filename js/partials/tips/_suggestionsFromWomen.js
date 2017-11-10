@@ -52,14 +52,14 @@ var suggestionsFromWomen = [
         "“Half in the Vag”, where we describe in loving detail celebrity vaginas.",
         "“Gotta Go Cum”, where we read our favorite Sonic erotic fan fictions.",
         "“98.6% Intangible”, where we talk about challenge coins for 8 hours.",
-        "“Savage Love”, where we list thing we love about Fred Savage.",
+        "“Savage Love”, where we list things we love about Fred Savage.",
         "“Welcum to Spermvale”, our serial about an radio announcers sexy adventures in a strange town."
       ]
     ],
     "we watch unboxing videos together.",
     "I strap a large piece of dirty drywall to my face and tell him I'm his glory hole.",
     "I buff his dick to a mirror shine.",
-    "perform my comedy monologue in a Big Bird costume.",
+    "I perform my comedy monologue in a Big Bird costume.",
     "I put the lotion on its skin.",
     "I flap my arms and scream like a pterodactyl.",
     "I donate to the FPlus podcast.",
@@ -70,7 +70,14 @@ var suggestionsFromWomen = [
     "I milk his penis like a cow udder.",
 	"I berate him in front of the other girls in the book club.",
 	"I let him win a game of Steal the Bacon.",
-  "I"
+  "we wrestle in a pool of slimy elbow noodles.",
+  "we mosh pit naked in our bedroom.",
+  "I go along with his Zeus otherkin story.",
+  "I accept that he will never stop wearing diapers.",
+  "I wear old-timey prospector wig and pajamas and open the butt flap.",
+  "I edit his articles on Wikipedia.",
+  "I do a fan dance with handfuls of live snakes.",
+  "we try to orgasm before finishing the elevator game."
   ],
   " ",
   [

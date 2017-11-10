@@ -45,7 +45,6 @@ var nonPenisActionsFromMen = [
     "burns",
     "dribbles chocolate sauce on",
     "films",
-    "pickles",
     "liveblogs",
     "folds",
     "sculpts",
@@ -98,7 +97,14 @@ var nonPenisActionsFromMen = [
 	"reminds me of my life before the Witness Relocation Program",
 	"gives me goosebumps just thinking about it",
 	"made sense at the time. I guess you had to be there",
-	"is why my neighbors all installed sound proofing"
+	"is why my neighbors all installed sound proofing",
+  "helps me feel again",
+  "levels up my sex skill",
+  "is all very predictable",
+  "puts a fine shine on my coat",
+  "feels mighty fine by golly",
+  "really puts this thing we call life into perspective",
+  "fixes all of the tax problems I've had with the IRS"
   ],
   [
     "!", "!", "!!!", "."
