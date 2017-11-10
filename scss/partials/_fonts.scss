@@ -2,16 +2,16 @@
 // SERIF
 @font-face {
   font-family: 'Lora';
-  src: url('../fonts/lora.woff') format('woff');
+  src: url('../fonts/lora/regular.woff') format('woff');
 }
 @font-face {
   font-family: 'Lora';
-  src: url('../fonts/lora-bold.woff') format('woff');
+  src: url('../fonts/lora/bold.woff') format('woff');
   font-weight:$bold;
 }
 @font-face {
   font-family: 'Lora';
-  src: url('../fonts/lora-italic.woff') format('woff');
+  src: url('../fonts/lora/italic.woff') format('woff');
   font-style:italic;
 }
 
