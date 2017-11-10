@@ -108,6 +108,6 @@ var bondageTips = [
   "remind him of all the embarassing things he did as a teenager.",
   "put a crown on his head and delare him King Dipshit.",
   "practice your knife throwing routine.",
-  ""
+  "mix him a Manhattan but put it in a wine glass."
   ]
 ];
