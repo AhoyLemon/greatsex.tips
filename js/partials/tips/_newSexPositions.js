@@ -96,7 +96,9 @@ var newSexPositions = [
 	"Now get low. Get low. Get low. Get low.",
 	"Now declare yourself the conqueror of Fuck Mountain.",
 	"Now perform a courtesy pee.",
-	"Now you're ready to use the ouija board."
+	"Now you're ready to use the ouija board.",
+  "Now put a fig leaf on your genitals and reenact the fall of man.",
+  "Now balance on a Pogo Ball and still manage to orgasm."
   ],
   " ",
   [
