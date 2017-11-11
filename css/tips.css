@@ -264,7 +264,7 @@ body {
   background-color: #985a5a; }
 
 .fullpic {
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
@@ -305,7 +305,7 @@ main {
   -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
-  height: 99vh;
+  min-height: 91.5vh;
   position: relative;
   z-index: 3; }
   main .inner {

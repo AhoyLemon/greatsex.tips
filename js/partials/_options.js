@@ -11,10 +11,76 @@ var preambles = [
 
 var fakeNames = {
   first: {
-    men:   ["Clifton","Alistair","Crunk","Dag","Brock","Slug","Dick","P.J.","Tungsten","F. Murray","Grund","Thurston","Crud","Sandford", "Peter B","Satch","Philbert"],
-    women: ["Whinnie","Siri","Bimbi","Tawnee","Kaytee","Stacie","Katrina","Gwenevere","Annie","Phoebe","Femke","Flavia","Nestea","Fanta","Sandy","Sammi","Pansy","Brindle","Swank"]
+    men: [
+      "Clifton",
+      "Alistair",
+      "Crunk",
+      "Dag",
+      "Brock",
+      "Slug",
+      "Dick",
+      "P.J.",
+      "Tungsten",
+      "F. Murray",
+      "Grund",
+      "Thurston",
+      "Crud",
+      "Sandford",
+      "Peter B",
+      "Satch",
+      "Philbert"
+    ],
+    women: [
+      "Whinnie",
+      "Siri",
+      "Bimbi",
+      "Tawnee",
+      "Kaytee",
+      "Stacie",
+      "Katrina",
+      "Gwenevere",
+      "Annie",
+      "Phoebe",
+      "Femke",
+      "Flavia",
+      "Nestea",
+      "Fanta",
+      "Sandy",
+      "Sammi",
+      "Pansy",
+      "Brindle",
+      "Swank"
+    ]
   },
-  last:    [ "Nutskin","Slapandtickle","Dickwhistle","Realperson","Shrunkendink","Fluffermore","Gutbucket","Turnblatt","Dingle-Schmidt","Thistlewick","Bundlebottom","Troublelump","Ornithopter","Innercheese", "Winnerlose","Tremblecleft","Cliff-Note","Strunkenwhite","Arr","Genuine","Blank-Schotte","Christchurch","Odor","Actual","Peelinete"]
+  last: [
+    "Nutskin",
+    "Slapandtickle",
+    "Dickwhistle",
+    "Realperson",
+    "Shrunkendink",
+    "Fluffermore",
+    "Gutbucket",
+    "Turnblatt",
+    "Dingle-Schmidt",
+    "Thistlewick",
+    "Bundlebottom",
+    "Troublelump",
+    "Ornithopter",
+    "Innercheese",
+    "Winnerlose",
+    "Tremblecleft",
+    "Cliff-Note",
+    "Strunkenwhite",
+    "Arr",
+    "Genuine",
+    "Blank-Schotte",
+    "Christchurch",
+    "Odor",
+    "Actual",
+    "Peelinete",
+    "Pfistre",
+    "Scuntpunsch"
+  ]
 };
 
 var bodyParts = [
@@ -23,7 +89,18 @@ var bodyParts = [
 ];
 
 var maleGenitals = [
-  "taint","nut sack","vas deferens","pee hole","left nut","right ball","ball(s)","butthole","perinium","anus","extra penis","pubic hair"
+  "taint",
+  "nut sack",
+  "vas deferens",
+  "pee hole",
+  "left nut",
+  "right ball",
+  "balls",
+  "butthole",
+  "perinium",
+  "anus",
+  "extra penis",
+  "pubic hair"
 ];
 
 var thingsYouDoToAPenis = [

@@ -28,7 +28,7 @@ var handjobs = [
     "put some creative arrangements of seasonal flowers around it, adding soft lighting and take a few photos. Remember to only use the Willow filter.",
     "push it back into his body.",
     "twist it into a balloon dog.",
-    "throw it on the grill on high for five minutes.",
+    "throw it on the grill for about five minutes.",
     "turn it in to the authorities for a sizable reward.",
     "shrug your shoulders, confused at it's bizarre shape.",
     "glue a small toupee on the tip.",

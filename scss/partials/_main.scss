@@ -3,12 +3,12 @@ $background-color:#985a5a;
 
 
 body { background-color: $background-color; }
-.fullpic { @include position(fixed,0,0,0,0); background-size:cover; z-index: $z-background-primary; background: $background-color;
+.fullpic { @include position(absolute,0,0,0,0); background-size:cover; z-index: $z-background-primary; background: $background-color;
   figure { background-size:cover; background-position: center; @include position(absolute,0,0,0,0); opacity: 0.5; }
 }
 
 
-main { @include flex-center(); height: 99vh; position: relative; z-index:$z-main;
+main { @include flex-center(); min-height: 91.5vh; position: relative; z-index:$z-main;
   .inner {  width:100%; max-width: 960px; }
   .tip { background: white; padding: 1em; box-shadow: 3px 3px 3px rgba($black,0.5); border:3px solid rgba($black,0.65); position: relative;
     button { background:$yellow; border:1px solid $black; padding: 0.35em 1.25em; color:$black; cursor: pointer; @include position(absolute,5px,5px);
