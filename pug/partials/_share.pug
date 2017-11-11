@@ -3,14 +3,14 @@
 .image-builder(v-bind:class="{hidden:hideShareImage}")
   .tip#CurrentTip
     figure(v-bind:style="primaryImage")
-      .coversheet &nbsp;
+      .coversheet(v-bind:style="shareCoversheet") &nbsp;
       h3.tip-headline
         span {{tipLabel}} {{tipNumberFormatted}}
       figcaption
         .share-text(v-html="currentTip")
       h4
         span.learnmore Learn more at 
-        span.url goodsex.tips
+        span.url greatsex.tips
       img.logo(src="svg/logo-white.svg")
 
 
@@ -26,7 +26,7 @@
       .button-holder
         button.swap(v-on:click="swapBackgroundRegenerateImage" :disabled="imageLoading") 
           span(v-if="imageLoading") Hang on...
-          span(v-else) Swap Background
+          span(v-else) Switch Background
         button(v-on:click="shareScreen = false") Close 
   a.close-share(v-on:click="shareScreen = false")
     svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100")

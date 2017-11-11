@@ -83,7 +83,6 @@ var suggestionsFromWomen = [
 	"we wrestle in a pool of slimy elbow noodles.",
 	"we mosh pit naked in our bedroom.",
 	"I go along with his Zeus otherkin story.",
-	//"I accept that he will never stop wearing diapers.",
 	"I wear old-timey prospector wig and pajamas and open the butt flap.",
 	"I edit his articles on Wikipedia.",
 	"I do a fan dance with handfuls of live snakes.",

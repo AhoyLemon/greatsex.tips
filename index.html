@@ -2,21 +2,21 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Good Sex Tips</title>
+    <title>Great Sex Tips</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="🍆+🍑=🌟">
-    <meta http-equiv="last-modified" content="2017-10-10@15:32:06">
-    <link href="css/tips.css?lastUpdated=2017-10-10@15:32:06" rel="stylesheet">
+    <meta http-equiv="last-modified" content="2017-10-11@15:58:38">
+    <link href="css/tips.css?lastUpdated=2017-10-11@15:58:38" rel="stylesheet">
     <!-- Twitter-->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@AhoyLemon">
-    <meta name="twitter:title" content="Good Sex Tips">
+    <meta name="twitter:title" content="Great Sex Tips">
     <meta name="twitter:description" content="🍆+🍑=🌟">
     <meta name="twitter:image" content="https://ahoylemon.github.io/Cosmo-Sex-Tips/img/og-wide.jpg">
     <meta name="twitter:url" content="https://ahoylemon.github.io/Cosmo-Sex-Tips">
     <!-- OpenGraph-->
-    <meta property="og:title" content="Good Sex Tips">
+    <meta property="og:title" content="Great Sex Tips">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://ahoylemon.github.io/Cosmo-Sex-Tips">
     <meta property="og:image" content="https://ahoylemon.github.io/Cosmo-Sex-Tips/img/og-wide.jpg">
@@ -149,12 +149,12 @@
       <div class="image-builder" v-bind:class="{hidden:hideShareImage}">
         <div class="tip" id="CurrentTip">
           <figure v-bind:style="primaryImage">
-            <div class="coversheet">&nbsp;</div>
+            <div class="coversheet" v-bind:style="shareCoversheet">&nbsp;</div>
             <h3 class="tip-headline"><span>{{tipLabel}} {{tipNumberFormatted}}</span></h3>
             <figcaption>
               <div class="share-text" v-html="currentTip"></div>
             </figcaption>
-            <h4><span class="learnmore">Learn more at </span><span class="url">goodsex.tips</span></h4><img class="logo" src="svg/logo-white.svg">
+            <h4><span class="learnmore">Learn more at </span><span class="url">greatsex.tips</span></h4><img class="logo" src="svg/logo-white.svg">
           </figure>
         </div>
       </div>
@@ -166,7 +166,7 @@
               <p>Download this image and share it with whoever needs to have their sex lives improved.</p>
             </div>
             <div class="button-holder">
-              <button class="swap" v-on:click="swapBackgroundRegenerateImage" :disabled="imageLoading"> <span v-if="imageLoading">Hang on...</span><span v-else>Swap Background</span></button>
+              <button class="swap" v-on:click="swapBackgroundRegenerateImage" :disabled="imageLoading"> <span v-if="imageLoading">Hang on...</span><span v-else>Switch Background</span></button>
               <button v-on:click="shareScreen = false">Close </button>
             </div>
           </div>
@@ -184,7 +184,7 @@
       <!--script(src="js/libraries/html2canvas.min.js")-->
       <script src="js/libraries/dom-to-image.min.js"></script>
       <script src="js/libraries/file-saver.min.js"></script>
-      <script src="js/min/tips.min.js?lastUpdated=2017-10-10@15:32:06"></script>
+      <script src="js/min/tips.min.js?lastUpdated=2017-10-11@15:58:38"></script>
     </div>
   </body>
 </html>
