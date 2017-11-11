@@ -1,3 +1,4 @@
+// jshint -W117
 var sensualMensTips = [
   " “When I ",
   [
@@ -57,6 +58,7 @@ var sensualMensTips = [
     "eat cold spaghettios straight from the can.",
     "assimilate me into the sexy Borg collective.",
     "make cooing noises at my penis.",
+    "accept that I will <i>never</i> stop wearing diapers",
     "knead my balls into a loaf of rustic bread.",
     "DDOS my favorite porn websites.",
     "play ring toss with my erect penis.",

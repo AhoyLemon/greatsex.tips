@@ -130,7 +130,7 @@ var hideAnItem = [
 	"convince him that this was his idea all along.",
 	"accuse him of witchcraft and turn him into the elder council.",
 	"sing the Katie Perry's <i>Peacock</i> but get the lyrics wrong.",
-  "beatbox <i>Paralyzer</i> while stripping.",
-  "shoot him with a dart gun from his deer blind."
+    "beatbox <i>Paralyzer</i> while stripping.",
+    "shoot him with a dart gun from his deer blind."
   ]
 ];

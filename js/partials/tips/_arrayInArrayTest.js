@@ -18,4 +18,4 @@ var arrayInArrayTest = [
     "apologise"
   ],
   "."
-]
+];

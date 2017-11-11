@@ -105,9 +105,9 @@ var bondageTips = [
 	"list all of his emotional problems on a scratchy chalkboard.",
 	"try to plug your braid into his anus.",
 	"realize nobody is having any fun.",
-  "remind him of all the embarassing things he did as a teenager.",
-  "put a crown on his head and delare him King Dipshit.",
-  "practice your knife throwing routine.",
-  "mix him a Manhattan but put it in a wine glass."
+    "remind him of all the embarassing things he did as a teenager.",
+    "put a crown on his head and delare him King Dipshit.",
+    "practice your knife throwing routine.",
+    "mix him a Manhattan but put it in a wine glass."
   ]
 ];

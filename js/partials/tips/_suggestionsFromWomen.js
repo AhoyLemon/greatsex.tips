@@ -1,3 +1,4 @@
+// jshint -W117
 var suggestionsFromWomen = [
   fakeNames.first.women,
   " ",
@@ -48,7 +49,7 @@ var suggestionsFromWomen = [
         "“Dick's Nixon”, where I debate his neo-conservative dick on the legacy of Richard Nixon",
         "“Lady And The Dick”, where his dick and I discuss our favorite Disney films.",
         "about our top 100 MMA fights of all time.",
-		    "“Slamilton”, where we rank each song from Hamilton based on how much it distracts us from having sex.",
+        "“Slamilton”, where we rank each song from Hamilton based on how much it distracts us from having sex.",
         "“The Bone Zone”, where we talk about skeletons we'd like to fuck.",
         "“Half in the Vag”, where we describe in loving detail celebrity vaginas.",
         "“Gotta Go Cum”, where we read our favorite Sonic erotic fan fictions.",
@@ -63,7 +64,15 @@ var suggestionsFromWomen = [
     "I perform my comedy monologue in a Big Bird costume.",
     "I put the lotion on its skin.",
     "I flap my arms and scream like a pterodactyl.",
-    "I donate to the FPlus podcast.",
+    "I donate to The F Plus podcast.",
+    [
+      "we use sexy those dice but all the sides ",
+      [
+        "are “pomegranate” and “dick”",
+        "say roll again",
+        "are blank"
+      ]
+    ],
     "we use sexy dice but all the sides are Pomegranate and Dick.",
     "I invest all of our funds in overpriced, over engineered Silicon Valley kitchen appliances.",
     "I use his penis in a tasteful still life.",
@@ -74,7 +83,7 @@ var suggestionsFromWomen = [
 	"we wrestle in a pool of slimy elbow noodles.",
 	"we mosh pit naked in our bedroom.",
 	"I go along with his Zeus otherkin story.",
-	"I accept that he will never stop wearing diapers.",
+	//"I accept that he will never stop wearing diapers.",
 	"I wear old-timey prospector wig and pajamas and open the butt flap.",
 	"I edit his articles on Wikipedia.",
 	"I do a fan dance with handfuls of live snakes.",

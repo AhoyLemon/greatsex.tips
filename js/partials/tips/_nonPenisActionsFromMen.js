@@ -1,3 +1,4 @@
+// jshint -W117
 var nonPenisActionsFromMen = [
   fakeNames.first.men,
   " ",

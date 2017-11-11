@@ -118,7 +118,6 @@ var dressUpAndSay = [
     "“Willy wang winkie wanks willingly within warm wombs.”",
     "“DID BECKY EVER DO THIS FOR YOU?!!?”",
     "“Drop the pigs blood, lock the door, and we'll get this <i>Carrie</i> show on the road!”",
-    "[Please Insert Joke Here]",
 	"“This is what I was wearing the first time I saw you through my telescope.”",
 	"“Ignore the odor.”",
 	"“EVERYBODY IT'S ON SHOTS SHOTS SHOTS SHOTS SHOTS SHOTS.”",
