@@ -26,7 +26,9 @@ var reallyUncreativeSexTips = [
     "try to orgasm",
 	"do it on the other side of the bed",
 	"try having sex, but be excited about it",
-    "have sex with each other"
+    "have sex with each other",
+    "do it with the lights on",
+    "showering beforehand"
   ],
   [
     "?","."

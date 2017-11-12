@@ -1,3 +1,4 @@
+// jshint -W117
 var hideAnItem = [
   preambles,
   " Hide ",
@@ -40,11 +41,9 @@ var hideAnItem = [
     "the holy materia",
     "a series of nesting matryoshka penis dolls",
     "his internet browsing history",
-    "a fleshlight from the future",
-	"a Juli Ashton Pussy/Ass Combo Sex Toy™ ($149.99)",
-  "a xenomorph egg",
-  "an ol' H.R. Giger painting",
-  "radioactive buttplug"
+    "a fleshlight",
+    "a xenomorph egg",
+    "an old H.R. Giger painting"
   ],
   " in his ",
   [
@@ -89,7 +88,8 @@ var hideAnItem = [
     "finds your treat",
     "catches on",
     "figures it out",
-	"realizes what you've done"
+	"realizes what you've done",
+    "catches you"
   ],
   ", ",
   [

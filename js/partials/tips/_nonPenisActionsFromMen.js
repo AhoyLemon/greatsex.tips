@@ -16,7 +16,7 @@ var nonPenisActionsFromMen = [
     "It turns me on when",
     "It drives me wild when",
     "I feel like I've died and gone to heaven when",
-	"My heart skipped a beat when"
+	"My heart skips a beat when"
   ],
   " ",
   [
@@ -41,7 +41,7 @@ var nonPenisActionsFromMen = [
     "stares intently at",
     "screams at",
     "cries on",
-    "makes a sandwich out of",
+    "makes a big fucking deal of",
     "alternates an ice pack and hot water bottle on",
     "burns",
     "dribbles chocolate sauce on",

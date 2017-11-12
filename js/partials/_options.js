@@ -7,6 +7,8 @@ var preambles = [
   "Here's one he's sure to love:",
   "Here's a hot one!",
   "Hot stuff!",
+  "Our readers suggest this one:",
+  "The best way to drive him wild?"
 ];
 
 var fakeNames = {

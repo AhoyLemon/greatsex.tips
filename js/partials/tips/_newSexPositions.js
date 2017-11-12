@@ -60,7 +60,7 @@ var newSexPositions = [
 	"on his temples",
 	"on his testicles",
 	"on his pecs",
-	"on his throat"
+	"around his throat"
   ],
   ". ",
   [
@@ -88,8 +88,9 @@ var newSexPositions = [
     "Now long for the sweet release of death.",
     "Now get jumpin and bumpin and pumpin and moving all around.",
     "Now ram your genitals together like a game of Hungry Hungry Hippos.",
-    "Now realize that you will never be as funny as Lasagna Cat. Ever.",
-    "Now slam an entire beer and crush the can on your partner's head.",
+    "Now lick anything you can reach.",
+    "Now realize that you will never be as funny as Lasagna Cat.",
+    "Now slam an entire beer and crush the can on his head.",
     "Now give him the ol' razzle dazzle!",
     "Now create shadow puppets with your genitals.",
     "Now you know your hips don't lie and you're starting to feel it's right.",
@@ -110,6 +111,8 @@ var newSexPositions = [
     "This makes for an explosive orgasm!",
     "Like a science experiment!",
     "You never knew your body could bend that way!",
-    "Sensational sensations!"
+    "Sensational sensations!",
+    "He'll thank you later!",
+    "Just like a porn star!"
   ]
 ];

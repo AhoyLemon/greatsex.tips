@@ -307,7 +307,8 @@ main {
   justify-content: center;
   min-height: 91.5vh;
   position: relative;
-  z-index: 3; }
+  z-index: 3;
+  padding-top: 3.5rem; }
   main .inner {
     width: 100%;
     max-width: 960px; }
@@ -736,7 +737,7 @@ img.bug {
     padding: 0.35em 1.35em;
     cursor: pointer; }
     .share button.swap {
-      width: 11em; }
+      width: 12em; }
     .share button:hover {
       background: #e5e972;
       color: #212121; }

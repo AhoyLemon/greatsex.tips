@@ -10,7 +10,7 @@ var app = new Vue({
     shareScreen: false,
     tipLabel: 'Great Sex Tip',
     backgroundImages: [
-      'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg','bg7.jpg','bg8.jpg','bg9.jpg'
+      'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg','bg7.jpg','bg8.jpg','bg9.jpg','bg10.jpg'
     ],
     backgroundColors: [
       '#622927', '#150f4b', '#073615', '#230622', '#061e26', '#232405', '#210512'
@@ -19,7 +19,7 @@ var app = new Vue({
       backgroundColor: '#622927'
     },
     primaryImage: {
-      backgroundImage:'url(img/bg9.jpg)'
+      backgroundImage:'url(img/bg1.jpg)'
     },
     imageLoading: false,
     tipNumber: 0,
