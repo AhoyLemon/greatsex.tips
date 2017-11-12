@@ -20,11 +20,11 @@
   .share-screen
     .inner 
       #ShareImageWrapper
-        img(src="https://picsum.photos/900/510")
+        //img(src="https://picsum.photos/900/510")
       .share-caption 
         p Download this image and share it with whoever needs to have their sex lives improved.
       .button-holder
-        button.swap(v-on:click="swapBackgroundRegenerateImage" :disabled="imageLoading") 
+        button.swap(v-on:click="switchBackground" :disabled="imageLoading") 
           span(v-if="imageLoading") Hang on...
           span(v-else) Switch Background
         button(v-on:click="shareScreen = false") Close 

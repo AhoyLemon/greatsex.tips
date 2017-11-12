@@ -4,7 +4,7 @@ $background-color:#985a5a;
 
 body { background-color: $background-color; }
 .fullpic { @include position(absolute,0,0,0,0); background-size:cover; z-index: $z-background-primary; background: $background-color;
-  figure { background-size:cover; background-position: center; @include position(absolute,0,0,0,0); opacity: 0.5; }
+  figure { background-size:cover; background-position: center; @include position(absolute,0,0,0,0); opacity: 0.3; }
 }
 
 

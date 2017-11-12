@@ -29,7 +29,7 @@ var app = new Vue({
     names: fakeNames
   },
   methods: {
-    
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // GENERATE NEW SEX TIP
     generateSexTip: function() {
@@ -38,13 +38,13 @@ var app = new Vue({
       var r = Math.floor(Math.random()*(self.tips.sexActs.length));
       self.currentTip = '';
       self.tipNumber = Math.floor(Math.random()*(99999))+1;
-      
+
       self.tips.sexActs[r].forEach(function(k) {
         //console.log(typeof k);
         if (typeof k == "object") {
           //console.log(k)
           var z = Math.floor(Math.random()*(k.length));
-          
+
           if (typeof k[z] == "object") {
             k[z].forEach(function(a) {
               if (typeof a == "object") {
@@ -59,17 +59,24 @@ var app = new Vue({
         } else {
           self.currentTip += k;
         }
-        
+
       });
       self.tipsDisplayed++;
-      
+
       if (self.tipsDisplayed % 4 === 0) {
         self.newBackgroundImage();
       }
-      
+
     },
-    
-    
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Function for when you click the "New Tip" button.
+    newTip: function() {
+      var self = this;
+      self.generateSexTip();
+      sendEvent('New Tip', self.currentTip);
+    },
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Swap the background image
     newBackgroundImage: function() {
@@ -83,7 +90,7 @@ var app = new Vue({
         };
       }
     },
-    
+
     newBackgroundColor: function() {
       var self = this;
       var i = randomFrom(self.backgroundColors);
@@ -93,33 +100,43 @@ var app = new Vue({
         self.shareCoversheet.backgroundColor = i;
       }
     },
-    
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Generate an image.
     generatePicture: function() {
       var self = this;
       self.hideShareImage = false;
-      
+
       var node = document.getElementById('CurrentTip');
 
       domtoimage.toJpeg(node)
         .then(function (dataUrl) {
-          var img = new Image();
-          img.src = dataUrl;
-          document.getElementById('ShareImageWrapper').innerHTML="";
-          document.getElementById('ShareImageWrapper').appendChild(img);
-          self.hideShareImage = true;
-          self.shareScreen = true;
-        })
+        var img = new Image();
+        img.src = dataUrl;
+        document.getElementById('ShareImageWrapper').innerHTML="";
+        document.getElementById('ShareImageWrapper').appendChild(img);
+        self.hideShareImage = true;
+        self.shareScreen = true;
+      })
         .catch(function (error) {
-            console.error('oops, something went wrong!', error);
-        });
+        console.error('oops, something went wrong!', error);
+      });
+      
+      //sendEvent('Tip Shared',self.currentTip);
+      
     },
     
-    
-    
-    
-    swapBackgroundRegenerateImage: function() {
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // When you click the "Share this tip!" button.    
+    shareThisTip: function() {
+      var self = this;
+      self.generatePicture();
+      sendEvent('Share this tip',self.currentTip);
+    },
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // When you click "Switch Background" on the share screen.
+    switchBackground: function() {
       var self = this;
       self.newBackgroundImage();
       self.newBackgroundColor();
@@ -128,8 +145,19 @@ var app = new Vue({
         self.generatePicture();
         self.imageLoading = false;
       }, 300);
+      sendEvent('Switch Background', self.currentTip);
     },
     
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // When you click the Info Drawer Toggle (? in circle)
+    toggleDrawer: function() {
+      var self = this;
+      self.sidebarVisible = !self.sidebarVisible;
+      if (self.sidebarVisible) {
+        sendEvent('Info Drawer Opened', 'Drawer Open');
+      }
+    },
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // CHECK BROWSER
     checkBrowser: function() {
@@ -181,13 +209,13 @@ var app = new Vue({
     }
 
   },
-  
+
   computed: {
     tipNumberFormatted: function() {
       return '#' + addCommas(this.tipNumber);
     }
   },
-  
+
   mounted: function () {
     var self = this;
     self.generateSexTip();
