@@ -122,7 +122,7 @@ var hideAnItem = [
     "wrestle him to the ground and do a victory pose on his unconcious body.",
 	"you've won. You now own him.",
 	"burst out of a large, hollow cake with dildo sparklers.",
-	"dump a Gatorade container of lube on him for winning the Big Game!",
+	"dump a Gatorade container of lube on him to congratulate him!",
 	"tell him he's passed the test, and can impregnate you on the solar eclipse.",
 	"noogie his testicles and call him sport.",
 	"lock him out of the house and press your boobs on the glass to mock him.",

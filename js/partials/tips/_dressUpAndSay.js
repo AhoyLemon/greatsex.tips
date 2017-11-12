@@ -119,12 +119,11 @@ var dressUpAndSay = [
     "“Ramburgler my meat hatch, you daring frycook of industry!”",
     "“Willy wang winkie wanks willingly within warm wombs.”",
     "“DID BECKY EVER DO THIS FOR YOU?!!?”",
-    "“Drop the pigs blood, lock the door, and we'll get this <i>Carrie</i> show on the road!”",
+    "“Drop the pigs' blood, lock the door, and we'll get this <i>Carrie</i> show on the road!”",
 	"“This is what I was wearing the first time I saw you through my telescope.”",
 	"“Ignore the odor.”",
 	"“EVERYBODY IT'S ON SHOTS SHOTS SHOTS SHOTS SHOTS SHOTS.”",
 	"“Did you have a better idea dipshit?”",
-	"“I only could afford to rent this for an hour, so lets get to the fucking.”",
 	"“Frank is going to watch, I told him you wouldn't mind.”",
 	"“Hey there sexy, we've never met, but...”",
 	"“I poisoned a hobo for this outfit.”",
@@ -136,7 +135,6 @@ var dressUpAndSay = [
 	"“Our clips4sale ratings are going to be through the roof!”",
 	"“I've got 15 minutes before I have to get back to my sign spinning job.”",
 	"“Eigo ga wakarimasu ka?”",
-	"“I said a hip, hop, the hippie, the hippie to the hip hip hop and ya don't stop the rock it to the bang bang boogie say up jump the boogie to the rhythm of the boogie, the beat.”",
-	"“I got this idea when I was listening to Adam Carolla”"
+	"“I said a hip, hop, the hippie, the hippie to the hip hip hop and ya don't stop the rock it to the bang bang boogie say up jump the boogie to the rhythm of the boogie, the beat.”"
   ]
 ];

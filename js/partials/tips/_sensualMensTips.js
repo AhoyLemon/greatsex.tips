@@ -63,7 +63,7 @@ var sensualMensTips = [
     "DDoS my favorite porn websites",
     "play ring toss with my erect penis",
     "inspire me to have a greater apprecation for life because <i>you're just so quirky!</i>",
-    "turn the heat up to max in the house and pretend it's a desert",
+    "turn up the thermostat to 116° and sell me a glass of icewater",
     "estimate how many frozen turkeys could fill the room",
 	"order me a model train set through your Amazon Echo",
 	"dirty talk in iambic pentameter",
