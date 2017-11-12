@@ -1,5 +1,5 @@
 ![greatsex.tips](https://raw.githubusercontent.com/AhoyLemon/greatsex.tips/master/android-chrome-512x512.png?token=ADQU0K7ni8CP89bRmB49Ak9iHVcMUSBWks5aESLUwA%3D%3D)
-## Great Sex Tips!
+# Great Sex Tips!
 
 ### So what's this?
 This is a site that generates new and exiting sex tips just for *you!*
