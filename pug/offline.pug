@@ -1,0 +1,35 @@
+- var testing = false
+- var siteTitle = "Great Sex Tips!"
+- var siteURL = "https://greatsex.tips"
+- var fPlusURL = ""
+- var description = "🍆+🍑=🌟"
+- var d = new Date()
+- var lastUpdated = d.getFullYear() + '-' + (d.getMonth()<10?'0':'') + d.getMonth() + '-' + (d.getDate()<10?'0':'') + d.getDate() + '@' + (d.getHours()<10?'0':'') + d.getHours() + ':' + (d.getMinutes()<10?'0':'') + d.getMinutes() + ':' + (d.getSeconds()<10?'0':'') + d.getSeconds()
+doctype html
+html(lang="en")
+  head
+    include partials/_head.pug
+  body
+    #app
+    
+      //figure.fullpic.secondary(v-bind:style="secondaryImage" v-bind:class="{visible:secondaryImage}")  
+      .fullpic
+        figure.primary(style="background-image:url(img/bg-offline.jpg)")
+    
+      include partials/_sidebar.pug
+      
+      main
+        .inner(v-cloak)
+          .tip
+            h3.tip-headline
+              span You are offline
+            .tip-text
+              | You're not currently connected to the internet.
+              br
+              | Figure out what's wrong with your connection and refresh.
+      
+      img.bug(src="svg/logo-red.svg")
+      
+      include partials/_share.pug
+      
+    include partials/_javascripts.pug
