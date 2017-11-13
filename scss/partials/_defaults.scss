@@ -24,6 +24,8 @@ ul { padding-left: 1.5em;
   .desktop-only { display: none; }
 }
 
-body { background-image:url(../img/bg/rain1.jpg); background-size:cover; background-position: center;
-  .cover { @include position(fixed,0,0,0,0); background-image:url(../img/bg/rain1.jpg); background-size:cover; background-position: center; opacity: 0.18; }
+/*
+body { background-size:cover; background-position: center;
+  .cover { @include position(fixed,0,0,0,0); background-size:cover; background-position: center; opacity: 0.18; }
 }
+*/
