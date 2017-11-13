@@ -1,4 +1,4 @@
-button.sidebar-button(v-on:click="toggleDrawer" v-bind:class=" {active: sidebarVisible} ")
+button.sidebar-button(v-on:click="toggleDrawer" v-bind:class=" {active: sidebarVisible} " aria-label="Open Sidebar")
   svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100")
     circle.fill(cx="50.6" cy="49.7" r="42")
     path.outline(d="M50 96C24.6 96 4 75.4 4 50S24.6 4 50 4s46 20.6 46 46-20.6 46-46 46zm0-86.2C27.8 9.8 9.8 27.8 9.8 50s18 40.3 40.2 40.3S90.3 72.2 90.3 50 72.2 9.8 50 9.8z")
@@ -11,18 +11,18 @@ button.sidebar-button(v-on:click="toggleDrawer" v-bind:class=" {active: sidebarV
       span.label This site is
       span.indent
         span by 
-        a(href="http://ahoylemon.xyz" target="_blank" onclick="sendEvent('outside link', 'site by Lemon', 'http://ahoylemon.xyz')") Lemon
+        a(href="http://ahoylemon.xyz" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'site by Lemon', 'http://ahoylemon.xyz')") Lemon
     li
       span.label With help from
       span.indent
-        a(href="https://twitter.com/AberrantWhimsy" target="_blank" onclick="sendEvent('outside link', 'Sanguinary Novel', 'https://twitter.com/AberrantWhimsy')") Sanguinary Novel
+        a(href="https://twitter.com/AberrantWhimsy" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'Sanguinary Novel', 'https://twitter.com/AberrantWhimsy')") Sanguinary Novel
       span.indent
         span and 
-        a(href="https://thefpl.us/meet/boots-raingear" target="_blank" onclick="sendEvent('outside link', 'Boots Raingear', 'https://thefpl.us/meet/boots-raingear')") Boots Raingear
+        a(href="https://thefpl.us/meet/boots-raingear" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'Boots Raingear', 'https://thefpl.us/meet/boots-raingear')") Boots Raingear
     li
       span.label Thoughts?
       span.indent
-        a(href="https://goo.gl/forms/e1fJU67sQdC3BIrn1" target="_blank") Let us know
+        a(href="https://goo.gl/forms/e1fJU67sQdC3BIrn1" rel="noopener" target="_blank") Let us know
     li#AddToHomeScreen(v-if="device")
       span.label By the way, you should
       span.indent 

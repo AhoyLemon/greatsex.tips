@@ -1,7 +1,7 @@
 {
   "manifest_version": 1.001,
   "name": "greatsex.tips",
-  "short_name": "Great Sex Tips!",
+  "short_name": "Great Tips!",
   "description": "The service that generates new and exciting sex advice for you and your lover(s).",
   "default_locale": "en",
   "display": "standalone",
