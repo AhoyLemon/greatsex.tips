@@ -84,6 +84,8 @@ var doThingsToHisGenitals = [
 	"passes out.",
 	"agrees that Tonya Harding is the better skater.",
 	"sobs quietly in the corner.",
-	"writes in to Penthouse Forum."
+	"writes in to Penthouse Forum.",
+  "puts down the Hatsune Miku figurine.",
+  "considers celibacy."
   ]
 ];

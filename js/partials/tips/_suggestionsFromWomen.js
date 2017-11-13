@@ -70,10 +70,10 @@ var suggestionsFromWomen = [
       [
         "are “pomegranate” and “dick”",
         "say roll again",
-        "are blank"
+        "are blank",
+        "are emoji",
       ]
     ],
-    "we use sexy dice but all the sides are Pomegranate and Dick.",
     "I invest all of our funds in overpriced, over engineered Silicon Valley kitchen appliances.",
     "I use his penis in a tasteful still life.",
     "I jiggle his balls like dice in a cup.",
@@ -88,7 +88,15 @@ var suggestionsFromWomen = [
 	"I do a fan dance with handfuls of live snakes.",
 	"we try to orgasm before finishing the elevator game.",
 	"we draw penises in our old college textbooks.",
-	"I wear him like a glove."
+	"I wear him like a glove.",
+  "I roast his chestnuts over an open fire.",
+  "I hide in a crane game and he has to win me.",
+  "I piledrive him into the bed for foreplay.",
+  "I mail a pair of my used underwear to his workplace.",
+  "I preserve his jizz in the Svalbard Global Seed Vault.",
+  "I put my breasts in a paint can shaker.",
+  "I bodypaint all his ex-girlfiend's names on my ass.",
+  "I encase my breasts in tuna aspic for sexy edible foreplay."
   ],
   " ",
   [

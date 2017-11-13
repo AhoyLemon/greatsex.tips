@@ -109,6 +109,9 @@ var bondageTips = [
     "remind him of all the embarassing things he did as a teenager.",
     "put a crown on his head and delare him King Dipshit.",
     "practice your knife throwing routine.",
-    "mix him a Manhattan but put it in a wine glass."
+    "mix him a Manhattan but put it in a wine glass.",
+    "never stop teasing his penis, until it decends into schoolyard bullying.",
+    "tattoo his name on your left breast, but spell it wrong.",
+    "strap his penis and testicles to an even smaller rack, using tiny whips on them."
   ]
 ];

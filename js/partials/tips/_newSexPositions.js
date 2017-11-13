@@ -6,7 +6,8 @@ var newSexPositions = [
     "Forget the kama sutra, try this one:",
     "If you're daring:",
     "If you're up for a challenge:",
-    "Get yourself into one of these hardcore positions:"
+    "Get yourself into one of these hardcore positions:",
+    "Make your next romp one to remember:"
   ],
   " Put your legs ",
   [
@@ -99,7 +100,10 @@ var newSexPositions = [
 	"Now perform a courtesy pee.",
 	"Now you're ready to use the ouija board.",
     "Now put a fig leaf on your genitals and reenact the fall of man.",
-    "Now balance on a Pogo Ball and still manage to orgasm."
+    "Now balance on a Pogo Ball and still manage to orgasm.",
+    "Now consult your horoscope for the appropriate amount of touching.",
+    "Now throw glitter over everything, turning your session into a disco fuck festival.",
+    "Now braid your hair into a set of reigns and Hi Ho Silver, Fuck Away!"
   ],
   " ",
   [

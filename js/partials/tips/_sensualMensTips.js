@@ -18,7 +18,7 @@ var sensualMensTips = [
     "paint your nipples with glittery lipstick",
     "lick your neck",
     "spoon with you in bed",
-	"join you in the shower"	
+	"join you in the shower"
   ],
   ", ",
   [
@@ -70,7 +70,12 @@ var sensualMensTips = [
 	"focus attention to my vestigial limb(s)",
 	"PVR C-SPAN",
 	"throw streamers around the room",
-	"change my Twitch page settings so people don't join expecting to see a Dota 2 stream"
+	"change my Twitch page settings so people don't join expecting to see a Dota 2 stream",
+  "rejuvinate your vagina with alum powder douche",
+  "scare the absolute shit out of me to activate the fight or flight response",
+  "use Russian Twitter bots to accuse me of having a tiny penis.",
+  "offer my heart up to Quetzalcoatl.",
+  "set up a dick jousting duel with my rival, competing for your affection."
   ],
   ". ",
   [

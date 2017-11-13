@@ -56,6 +56,8 @@ var handjobs = [
     "dress it in a glittery outfit for a one woman and dick burlesque performance.",
     "place it in dick prison for the crime of <i>malfeasance in orifice</i>.",
     "decorate it with fondant for the season premiere of The Walking Dead.",
-    "judge it for it's terrible grammar."
+    "judge it for it's terrible grammar.",
+    "wrap it in bacon for internet points.",
+    "pour molten gold over it for a real Gold Finger."
   ]
 ];
