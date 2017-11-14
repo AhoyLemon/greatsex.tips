@@ -576,8 +576,6 @@ img.bug {
   top: 0;
   left: 0;
   z-index: 1; }
-  .image-builder.hidden {
-    display: none; }
   .image-builder figure {
     background-size: cover;
     position: relative;
@@ -602,6 +600,10 @@ img.bug {
       -webkit-box-shadow: none;
       box-shadow: none;
       padding: 0.35em 0.65em; }
+  .image-builder .share-text {
+    position: relative; }
+  .image-builder .tip-headline, .image-builder .share-text, .image-builder .learn-more, .image-builder img.logo {
+    z-index: 3; }
   .image-builder figcaption {
     min-height: 470px;
     display: -webkit-box;
@@ -656,6 +658,16 @@ img.bug {
     left: 8px;
     opacity: 0.7; }
 
+@media screen and (max-width: 900px) {
+  .image-builder figure {
+    width: 90vw; }
+  .image-builder .share-text {
+    font-size: 8vw;
+    padding-top: 0.5em;
+    padding-bottom: 1em; }
+  .image-builder figcaption {
+    min-height: 90vw; } }
+
 .share {
   position: fixed;
   top: 0;
@@ -665,6 +677,8 @@ img.bug {
   background-color: rgba(33, 33, 33, 0.92);
   z-index: 13;
   display: none; }
+  .share canvas {
+    max-width: 100%; }
   .share .inner {
     max-width: 900px; }
   .share .share-screen {
@@ -725,8 +739,13 @@ img.bug {
     display: inline-block;
     padding: 0.35em 1.35em;
     cursor: pointer; }
+    .share button.download {
+      font-family: "Lora", serif;
+      font-weight: 600;
+      font-size: 1.5em;
+      padding: 0.25 1em; }
     .share button.swap {
-      width: 12em; }
+      width: 14em; }
     .share button:hover {
       background: #e5e972;
       color: #212121; }
@@ -734,3 +753,8 @@ img.bug {
       color: rgba(238, 238, 238, 0.5);
       background: transparent;
       border-color: currentColor; }
+
+@media screen and (max-width: 900px) {
+  .share .inner {
+    overflow-y: scroll;
+    max-height: 80vh; } }

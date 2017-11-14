@@ -21,6 +21,7 @@ var app = new Vue({
     primaryImage: {
       backgroundImage:'url(img/bg1.jpg)'
     },
+    canvas: false,
     imageLoading: false,
     tipNumber: 0,
     tipsDisplayed: 0,
@@ -108,6 +109,8 @@ var app = new Vue({
       self.hideShareImage = false;
 
       var node = document.getElementById('CurrentTip');
+      
+      /*
 
       domtoimage.toJpeg(node)
         .then(function (dataUrl) {
@@ -121,9 +124,32 @@ var app = new Vue({
         .catch(function (error) {
         console.error('oops, something went wrong!', error);
       });
+      */
       
-      //sendEvent('Tip Shared',self.currentTip);
+      html2canvas(node, {
+        onrendered: function(canvas) {
+          document.getElementById('ShareImageWrapper').innerHTML="";
+          document.getElementById('ShareImageWrapper').appendChild(canvas);
+          //self.hideShareImage = true;
+          self.shareScreen = true;
+          self.canvas = canvas;
+          
+          //self.downloadImage = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
+          //var a = document.getElementById('DownloadImageButton');
+          //document.getElementById('DownloadImageButton').href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
+          //document.getElementById('DownloadImageButton').download = 'somefilename.jpg';
+          
+        }
+      });
       
+    },
+    
+    
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Download
+    downloadCanvas: function() {
+      var self = this;
+      Canvas2Image.saveAsPNG(self.canvas);
     },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

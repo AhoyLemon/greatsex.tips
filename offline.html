@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="🍆+🍑=🌟">
-    <meta http-equiv="last-modified" content="2017-10-14@09:45:31">
-    <link href="css/tips.css?lastUpdated=2017-10-14@09:45:31" rel="stylesheet">
+    <meta http-equiv="last-modified" content="2017-10-14@14:42:35">
+    <link href="css/tips.css?lastUpdated=2017-10-14@14:42:35" rel="stylesheet">
     <!-- Twitter-->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@AhoyLemon">
@@ -148,7 +148,7 @@
             <figcaption>
               <div class="share-text" v-html="currentTip"></div>
             </figcaption>
-            <h4><span class="learnmore">Learn more at </span><span class="url">greatsex.tips</span></h4><img class="logo" src="svg/logo-white.svg">
+            <h4 class="learn-more"><span class="learnmore">Learn more at </span><span class="url">greatsex.tips</span></h4><img class="logo" src="img/logo-white32.png" style="position:absolute; z-index:9999;">
           </figure>
         </div>
       </div>
@@ -158,11 +158,12 @@
             <div id="ShareImageWrapper">
               <!--img(src="https://picsum.photos/900/510")-->
             </div>
-            <div class="share-caption"> 
-              <p>Download this image and share it with whoever needs to have their sex lives improved.</p>
+            <div class="button-holder">
+              <button class="download" v-on:click="downloadCanvas">download</button>
             </div>
             <div class="button-holder">
               <button class="swap" v-on:click="switchBackground" :disabled="imageLoading"> <span v-if="imageLoading">Hang on...</span><span v-else>Switch Background</span></button>
+              <!--button#DownloadImageButton(download) Download-->
               <button v-on:click="shareScreen = false">Close </button>
             </div>
           </div>
@@ -176,8 +177,8 @@
     </div>
     <div class="javascripts">
       <script src="js/libraries/vue.min.js"></script>
-      <script src="js/libraries/dom-to-image.min.js"></script>
-      <script src="js/libraries/file-saver.min.js"></script>
+      <script src="js/libraries/html2canvas.min.js"></script>
+      <script src="js/libraries/canvas2image.js"></script>
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -187,7 +188,7 @@
         ga('create', 'UA-15129990-28', 'auto');
         ga('send', 'pageview');
       </script>
-      <script src="js/min/tips.min.js?lastUpdated=2017-10-14@09:45:31"></script>
+      <script src="js/min/tips.min.js?lastUpdated=2017-10-14@14:42:35"></script>
       <script type="text/javascript">
         if ('serviceWorker' in navigator) {
           navigator.serviceWorker.register('/service-worker.js').then(function(registration) {

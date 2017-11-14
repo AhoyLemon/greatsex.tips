@@ -8,10 +8,10 @@
         span {{tipLabel}} {{tipNumberFormatted}}
       figcaption
         .share-text(v-html="currentTip")
-      h4
+      h4.learn-more
         span.learnmore Learn more at 
         span.url greatsex.tips
-      img.logo(src="svg/logo-white.svg")
+      img.logo(src="img/logo-white32.png" style="position:absolute; z-index:9999;")
 
 
 //--------------------------
@@ -21,12 +21,15 @@
     .inner 
       #ShareImageWrapper
         //img(src="https://picsum.photos/900/510")
-      .share-caption 
-        p Download this image and share it with whoever needs to have their sex lives improved.
+      //-.share-caption 
+        p Share this with someone who needs her sex life improved
+      .button-holder
+        button.download(v-on:click="downloadCanvas") download
       .button-holder
         button.swap(v-on:click="switchBackground" :disabled="imageLoading") 
           span(v-if="imageLoading") Hang on...
           span(v-else) Switch Background
+        //button#DownloadImageButton(download) Download
         button(v-on:click="shareScreen = false") Close 
   a.close-share(v-on:click="shareScreen = false")
     svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100")
