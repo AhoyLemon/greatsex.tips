@@ -7,7 +7,7 @@ var sensualMensTips = [
     "stroke your clit",
     "look into your eyes",
     "touch your chest",
-    "finger your baby hole",
+    "finger you",
     "bend you over the bed",
     "load you into the sex swing",
     "mount you from behind",
@@ -71,11 +71,11 @@ var sensualMensTips = [
 	"PVR C-SPAN",
 	"throw streamers around the room",
 	"change my Twitch page settings so people don't join expecting to see a Dota 2 stream",
-  "rejuvinate your vagina with alum powder douche",
-  "scare the absolute shit out of me to activate the fight or flight response",
-  "use Russian Twitter bots to accuse me of having a tiny penis.",
-  "offer my heart up to Quetzalcoatl.",
-  "set up a dick jousting duel with my rival, competing for your affection."
+    "rejuvinate your vagina with alum powder douche",
+    "scare the absolute shit out of me to activate the fight or flight response",
+    "use Russian Twitter bots to accuse me of having a tiny penis.",
+    "offer my heart up to Quetzalcoatl.",
+    "set up a dick jousting duel with my rival, competing for your affection."
   ],
   ". ",
   [

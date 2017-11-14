@@ -32,7 +32,6 @@ var newSexPositions = [
 	"in the stirrups",
 	"in the crane position",
 	"in the lotus position",
-	"in the nearby woodchipper",
 	"in a frenzy",
 	"over his shoulders"
   ],
@@ -91,7 +90,7 @@ var newSexPositions = [
     "Now ram your genitals together like a game of Hungry Hungry Hippos.",
     "Now lick anything you can reach.",
     "Now realize that you will never be as funny as Lasagna Cat.",
-    "Now slam an entire beer and crush the can on his head.",
+    "Now slam a beer and crush the can on his head.",
     "Now give him the ol' razzle dazzle!",
     "Now create shadow puppets with your genitals.",
     "Now you know your hips don't lie and you're starting to feel it's right.",
@@ -103,7 +102,8 @@ var newSexPositions = [
     "Now balance on a Pogo Ball and still manage to orgasm.",
     "Now consult your horoscope for the appropriate amount of touching.",
     "Now throw glitter over everything, turning your session into a disco fuck festival.",
-    "Now braid your hair into a set of reigns and Hi Ho Silver, Fuck Away!"
+    "Now braid your hair into a set of reigns and Hi Ho Silver, Fuck Away!",
+    "Now twirl, damn it <i>twirl!</i> If you stop twirling he won't love you anymore."
   ],
   " ",
   [

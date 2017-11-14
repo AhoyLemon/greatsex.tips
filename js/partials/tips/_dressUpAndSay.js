@@ -107,8 +107,7 @@ var dressUpAndSay = [
     "“You said you were going to dress up as Johnny Depp!”",
     "“Trick or Treat!”",
     "“Chicka Chicka Boom Boom, your dick is in my womb.”",
-    "“Fuck, you really <i>are</i> a basic bitch.”",
-    "“No, no, the OTHER hole.”",
+    "“You really <i>are</i> a basic bitch.”",
     "“Sir, this is a McDonalds drive thru.”",
     "“Find a penis, pick it up, and all day you'll have good fuck.”",
 	"“Okay, there are two doors and two guards. One of them always tells the truth, the other always lies...”",
@@ -135,6 +134,7 @@ var dressUpAndSay = [
 	"“Our clips4sale ratings are going to be through the roof!”",
 	"“I've got 15 minutes before I have to get back to my sign spinning job.”",
 	"“Eigo ga wakarimasu ka?”",
-	"“I said a hip, hop, the hippie, the hippie to the hip hip hop and ya don't stop the rock it to the bang bang boogie say up jump the boogie to the rhythm of the boogie, the beat.”"
+	"“I said a hip, hop, the hippie, the hippie to the hip hip hop and ya don't stop the rock it to the bang bang boogie say up jump the boogie to the rhythm of the boogie, the beat.”",
+    "“Let me apologize in advance for what's about to happen.”",
   ]
 ];

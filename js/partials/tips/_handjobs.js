@@ -8,7 +8,8 @@ var handjobs = [
     "When he's not looking, grab his penis and",
     "Contemplate his penis, then",
     "Unsheath his penis, then",
-    "Scare his penis from its warren and"
+    "Scare his penis from its warren and",
+    "Take his penis out from his pants, and"
   ],
   " ",
   [
@@ -52,12 +53,13 @@ var handjobs = [
     "use it as a conductor's wand for the entirety of Disney's Fantasia.",
     "stir your coffee with it.",
     "use it as an obstacle for your hottest fingerboard tricks.",
-    "bury him up to his dick and reenact Dawn of the Dead",
+    "bury him up to his dick to reenact <i>Dawn of the Dead</i>.",
     "dress it in a glittery outfit for a one woman and dick burlesque performance.",
     "place it in dick prison for the crime of <i>malfeasance in orifice</i>.",
     "decorate it with fondant for the season premiere of The Walking Dead.",
     "judge it for it's terrible grammar.",
     "wrap it in bacon for internet points.",
-    "pour molten gold over it for a real Gold Finger."
+    "pour molten gold over it.",
+    "make a face of obvious disgust, then gradual but grudging acceptance."
   ]
 ];

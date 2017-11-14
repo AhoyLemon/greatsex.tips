@@ -89,14 +89,14 @@ var suggestionsFromWomen = [
 	"we try to orgasm before finishing the elevator game.",
 	"we draw penises in our old college textbooks.",
 	"I wear him like a glove.",
-  "I roast his chestnuts over an open fire.",
-  "I hide in a crane game and he has to win me.",
-  "I piledrive him into the bed for foreplay.",
-  "I mail a pair of my used underwear to his workplace.",
-  "I preserve his jizz in the Svalbard Global Seed Vault.",
-  "I put my breasts in a paint can shaker.",
-  "I bodypaint all his ex-girlfiend's names on my ass.",
-  "I encase my breasts in tuna aspic for sexy edible foreplay."
+    "I roast his chestnuts over an open fire.",
+    "I hide in a crane game and he has to win me.",
+    "I piledrive him into the bed for foreplay.",
+    "I mail a pair of my used underwear to his workplace.",
+    "I preserve his jizz in the Svalbard Global Seed Vault.",
+    "I put my breasts in a paint can shaker.",
+    "I bodypaint all his ex-girlfiend's names on my ass.",
+    "I encase my breasts in tuna aspic for sexy edible foreplay."
   ],
   " ",
   [
