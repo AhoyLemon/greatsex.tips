@@ -1,7 +1,7 @@
-- var testing = true
+- var testing = false
 - var siteTitle = "Great Sex Tips!"
 - var siteURL = "https://greatsex.tips"
-- var fPlusURL = ""
+- var fPlusURL = "https://thefpl.us/also-made/great-sex-tips"
 - var description = "🍆+🍑=🌟"
 - var d = new Date()
 - var lastUpdated = d.getFullYear() + '-' + (d.getMonth()<10?'0':'') + d.getMonth() + '-' + (d.getDate()<10?'0':'') + d.getDate() + '@' + (d.getHours()<10?'0':'') + d.getHours() + ':' + (d.getMinutes()<10?'0':'') + d.getMinutes() + ':' + (d.getSeconds()<10?'0':'') + d.getSeconds()
@@ -12,7 +12,6 @@ html(lang="en")
   body
     #app
     
-      //figure.fullpic.secondary(v-bind:style="secondaryImage" v-bind:class="{visible:secondaryImage}")  
       .fullpic
         figure.primary(v-bind:style="primaryImage")
     
@@ -37,4 +36,5 @@ html(lang="en")
       
       include partials/_share.pug
       
+    include partials/_schema.pug
     include partials/_javascripts.pug
