@@ -80,12 +80,12 @@ var doThingsToHisGenitals = [
     "gets fed up and does it himself.",
     "ski-bi dibby dib yo da dub dubs into orgasm.",
     "lets you leave the bunker.",
-	"accepts “zanxorb”. Double letter score on Z, triple word score, that's 105 points!",
-	"passes out.",
-	"agrees that Tonya Harding is the better skater.",
-	"sobs quietly in the corner.",
-	"writes in to Penthouse Forum.",
-  "puts down the Hatsune Miku figurine.",
-  "considers celibacy."
+    "accepts “zanxorb”. Double letter score on Z, triple word score, that's 105 points!",
+    "passes out.",
+    "agrees that Tonya Harding is the better skater.",
+    "sobs quietly in the corner.",
+    "writes in to Penthouse Forum.",
+    "puts down the Hatsune Miku figurine.",
+    "considers celibacy."
   ]
 ];

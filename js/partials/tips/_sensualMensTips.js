@@ -61,7 +61,6 @@ var sensualMensTips = [
     "accept that I will <i>never</i> stop wearing diapers",
     "knead my balls into a loaf of rustic bread.",
     "DDoS my favorite porn websites",
-    "play ring toss with my erect penis",
     "inspire me to have a greater apprecation for life because <i>you're just so quirky!</i>",
     "turn up the thermostat to 116° and sell me a glass of icewater",
     "estimate how many frozen turkeys could fill the room",
@@ -87,7 +86,7 @@ var sensualMensTips = [
   ],
   "”",
   "<br />",
-  "     -",
+  "-",
   fakeNames.first.men,
   ", ",
   [

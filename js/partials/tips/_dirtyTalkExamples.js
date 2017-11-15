@@ -1,7 +1,7 @@
 var dirtyTalkExamples = [
   [
     "Men love dirty talk!",
-    "Take IN the trash... with dirty talk!",
+    "Take <i>in</i> the trash... with dirty talk!",
     "Get vocal in the bedroom!",
     "Start talking dirty!",
     "Even clean girls can talk dirty!",

@@ -22,7 +22,7 @@ var suggestionsFromWomen = [
     "My sister's husband",
     "This guy I know",
     "Chad",
-	"My tinder hookup"
+    "My Tindr hookup"
   ],
   " ",
   [
@@ -30,7 +30,7 @@ var suggestionsFromWomen = [
     "really likes it when",
     "goes wild when",
     "thinks he's died and gone to heaven when",
-	"gets turned on when"
+    "gets turned on when"
   ],
   " ",
   [
@@ -78,17 +78,17 @@ var suggestionsFromWomen = [
     "I use his penis in a tasteful still life.",
     "I jiggle his balls like dice in a cup.",
     "I milk his penis like a cow udder.",
-	"I berate him in front of the other girls in the book club.",
-	"I let him win a game of Steal the Bacon.",
-	"we wrestle in a pool of slimy elbow noodles.",
-	"we mosh pit naked in our bedroom.",
-	"I go along with his Zeus otherkin story.",
-	"I wear old-timey prospector wig and pajamas and open the butt flap.",
-	"I edit his articles on Wikipedia.",
-	"I do a fan dance with handfuls of live snakes.",
-	"we try to orgasm before finishing the elevator game.",
-	"we draw penises in our old college textbooks.",
-	"I wear him like a glove.",
+    "I berate him in front of the other girls in the book club.",
+    "I let him win a game of Steal the Bacon.",
+    "we wrestle in a pool of slimy elbow noodles.",
+    "we mosh pit naked in our bedroom.",
+    "I go along with his Zeus otherkin story.",
+    "I wear old-timey prospector wig and pajamas and open the butt flap.",
+    "I edit his articles on Wikipedia.",
+    "I do a fan dance with handfuls of live snakes.",
+    "we try to orgasm before finishing the elevator game.",
+    "we draw penises in our old college textbooks.",
+    "I wear him like a glove.",
     "I roast his chestnuts over an open fire.",
     "I hide in a crane game and he has to win me.",
     "I piledrive him into the bed for foreplay.",

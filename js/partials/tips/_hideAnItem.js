@@ -73,14 +73,14 @@ var hideAnItem = [
     "coat pocket",
     "boss' coat pocket",
     "report for the Big Client on Thursday",
-	"xanax jar",
-	"gas tank",
-	"rice maker",
-	"terrarium",
-	"Super Nintendo",
-	"fireplace",
-	"overalls",
-	"Lego collection"
+    "xanax jar",
+    "gas tank",
+    "rice maker",
+    "terrarium",
+    "Super Nintendo",
+    "fireplace",
+    "overalls",
+    "Lego collection"
   ],
   ". When he ",
   [
@@ -89,7 +89,7 @@ var hideAnItem = [
     "finds your treat",
     "catches on",
     "figures it out",
-	"realizes what you've done",
+    "realizes what you've done",
     "catches you"
   ],
   ", ",

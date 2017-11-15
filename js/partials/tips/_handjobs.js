@@ -59,6 +59,7 @@ var handjobs = [
     "decorate it with fondant for the season premiere of The Walking Dead.",
     "judge it for it's terrible grammar.",
     "wrap it in bacon for internet points.",
+    "play a game of ring toss with it.",
     "pour molten gold over it.",
     "make a face of obvious disgust, then gradual but grudging acceptance."
   ]

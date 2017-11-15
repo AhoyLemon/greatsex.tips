@@ -2,7 +2,7 @@ $z-imageBuilderText: 3;
 
 ////////////
 // Image Builder
-.image-builder { position: absolute; top:0; left: 0; z-index:1;
+.image-builder { position: absolute; top:0; left: 0; z-index:$z-image-builder;
   //&.hidden { display: none; }
   figure { background-size:cover; position: relative; background-position: center; position: relative; width:900px; }
   .coversheet { @include position(absolute,0,0,0,0); background-color:#622927; opacity: 0.83; }
