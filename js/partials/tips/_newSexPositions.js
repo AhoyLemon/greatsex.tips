@@ -8,7 +8,8 @@ var newSexPositions = [
     "If you're up for a challenge:",
     "Get yourself into one of these hardcore positions:",
     "Make your next romp one to remember:",
-    "Take your sex from bleh to BAM:"
+    "Take your sex from bleh to BAM:",
+    "Dr. Honeypot recommends:"
   ],
   " Put your legs ",
   [
