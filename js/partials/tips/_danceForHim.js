@@ -25,7 +25,9 @@ var danceForHim = [
     "teasing",
     "blowtorching"
   ],
-  " your " bodyParts " and ",
+  " your ",
+  bodyParts,
+  " and ",
   [
     "taking out a subprime mortgage.",
     "rubbing your butt in his face.",
