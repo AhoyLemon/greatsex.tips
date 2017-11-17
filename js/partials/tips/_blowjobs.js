@@ -87,6 +87,7 @@ var blowjobs = [
     "FINISH HIM.",
     "regret it later.",
     "post about it on Instagram.",
-    "make the Price is Right “sad trombone” noise."
+    "make the Price is Right “sad trombone” noise.",
+    "laugh at the absurdity of it all."
   ]
 ];

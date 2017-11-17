@@ -108,6 +108,14 @@ var bondageTips = [
     "mix him a Manhattan but put it in a wine glass.",
     "never stop teasing his penis, until it decends into schoolyard bullying.",
     "tattoo his name on your left breast, but spell it wrong.",
-    "strap his penis and testicles to an even smaller rack, using tiny whips on them."
+    "strap his penis and testicles to an even smaller rack, using tiny whips on them.",
+    "go back to reading <i>Fifty Shades of Grey</i>.",
+    "show him all of the latest memes.",
+    "tell him you've replaced all of the lube with Sriracha mayo and go to town.",
+    "read his high school diary out loud.",
+    "throw an octopus on the floor and see how it goes.",
+    "burn a several bags of popcorn and lock him in the room with them.",
+    "put on a looping playlist of anime girl hip hop covers.",
+    "crumble stale cookies all over the bed while he watches."
   ]
 ];

@@ -30,7 +30,10 @@ var reallyUncreativeSexTips = [
     "do it with the lights on",
     "try showering beforehand",
     "ask him what he likes",
-    "tell him what you like"
+    "tell him what you like",
+    "try wearing animal print underwear",
+    "watch a porn together",
+    "go slow then speed up"
   ],
   [
     "?","."

@@ -73,8 +73,10 @@ var sensualMensTips = [
     "rejuvinate your vagina with alum powder douche",
     "scare the absolute shit out of me to activate the fight or flight response",
     "use Russian Twitter bots to accuse me of having a tiny penis",
-    "offer my heart up to Quetzalcoatl.",
-    "set up a dick jousting duel with my rival, competing for your affection"
+    "offer my heart up to Quetzalcoatl",
+    "set up a dick jousting duel with my rival, competing for your affection",
+    "touches me trantrically instead of sexually",
+    "schedules a Google Alert for when we can have sex"
   ],
   ". ",
   [

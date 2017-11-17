@@ -44,7 +44,8 @@ var hideAnItem = [
     "a fleshlight",
     "a xenomorph egg",
     "an old H.R. Giger painting",
-    "Guy Fieri"
+    "Guy Fieri",
+    "a bundle of lit bottle rockets"
   ],
   " in his ",
   [

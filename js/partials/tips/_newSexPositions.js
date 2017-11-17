@@ -7,7 +7,8 @@ var newSexPositions = [
     "If you're daring:",
     "If you're up for a challenge:",
     "Get yourself into one of these hardcore positions:",
-    "Make your next romp one to remember:"
+    "Make your next romp one to remember:",
+    "Take your sex from bleh to BAM:"
   ],
   " Put your legs ",
   [
@@ -33,7 +34,10 @@ var newSexPositions = [
     "in the crane position",
     "in the lotus position",
     "in a frenzy",
-    "over his shoulders"
+    "over his shoulders",
+    "on the fishtank",
+    "on the radiator",
+    "on his essential oils collection"
   ],
   " and your hands ",
   [
@@ -60,7 +64,10 @@ var newSexPositions = [
     "on his temples",
     "on his testicles",
     "on his pecs",
-    "around his throat"
+    "around his throat",
+    "on your foam cowboy hat",
+    "on a stopwatch",
+    "on your cheeks in a <i>Home Alone</i> expression"
   ],
   ". ",
   [
@@ -104,7 +111,13 @@ var newSexPositions = [
     "Now throw glitter over everything, turning your session into a disco fuck festival.",
     "Now braid your hair into a set of reigns and Hi Ho Silver, Fuck Away!",
     "Now twirl, damn it <i>twirl!</i> If you stop twirling he won't love you anymore.",
-    "Now complain that it's too cold in the room, but don't do anything to change it."
+    "Now complain that it's too cold in the room, but don't do anything to change it.",
+    "Now stop what you're doing entirely and move the lamps, the Feng Shui is ALL WRONG.",
+    "Now consult your Sex Coach via Skype for some hot tips.",
+    "Now control your own erotic destiny and masturbate to orgasm before he can finish.",
+    "Now put your right butt cheek on red, left labia on yellow.",
+    "Now accidentally catch on fire from the hundreds of candles you have around the bedroom.",
+    "Now present your perfectly formatted MLA bibliography for tonight's sex positions."
   ],
   " ",
   [

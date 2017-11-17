@@ -105,6 +105,7 @@ var dirtyTalkExamples = [
     "come back for more!",
 	"have a heart attack!",
     "remember <i>that</i> one.",
-    "brag to his friends about you!"
+    "brag to his friends about you!",
+    "return the favor!"
   ]
 ];

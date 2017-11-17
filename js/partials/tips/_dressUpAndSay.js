@@ -136,5 +136,9 @@ var dressUpAndSay = [
 	"“Eigo ga wakarimasu ka?”",
 	"“I said a hip, hop, the hippie, the hippie to the hip hip hop and ya don't stop the rock it to the bang bang boogie say up jump the boogie to the rhythm of the boogie, the beat.”",
     "“Let me apologize in advance for what's about to happen.”",
+    "“Roll me around your Salzburg mountains and let's make the <i>Sound of Music</i>.”",
+    "“They should have sent a prostitute.”",
+    "“This is a level beyond sex. I call it super sex 3.”",
+    "“Cum. Spout. Jizz it all out. This is the dick I can't do without.",
   ]
 ];

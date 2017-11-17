@@ -96,7 +96,12 @@ var suggestionsFromWomen = [
     "I preserve his jizz in the Svalbard Global Seed Vault.",
     "I put my breasts in a paint can shaker.",
     "I bodypaint all his ex-girlfiend's names on my ass.",
-    "I encase my breasts in tuna aspic for sexy edible foreplay."
+    "I encase my breasts in tuna aspic for sexy edible foreplay.",
+    "I hide the nights I want to have sex in a cryptex.",
+    "I bench press him for 100 reps.",
+    "I dress in an oppo suit made of swiss cheese.",
+    "I unhinge my jaw and devour an entire roast chicken.",
+    "I play my melodica during sex."
   ],
   " ",
   [
