@@ -89,7 +89,10 @@ var dirtyTalkExamples = [
     "YOU CAN'T PUT YOUR DICK IN HERE! YOU'LL REGRET THIS!",
     "That'll do pig, that'll do.",
     "Dicks are my art, jizz, my medium.",
-    "Oh I wonder, wonder, wonder what's in YOUR wonder ball?"
+    "Oh I wonder, wonder, wonder what's in YOUR wonder ball?",
+    "Don't you touch that dial, we've got a rockin' cockin' here in my cooch up next.",
+    "...did you leave the oven on?",
+    "I didn't know pearl necklaces could be so watery."
   ],
   "” He's sure to ",
   [

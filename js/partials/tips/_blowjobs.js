@@ -48,7 +48,9 @@ var blowjobs = [
     "play with his testicles like a Newton's cradle",
     "crush Kinder eggs with your hands in full view",
     "flap your hands on his hips and make elephant noises",
-    "pierce his frenulum"
+    "pierce his frenulum",
+    "place the testicles on a small doily",
+    "strap on a binocular headband to find the rest of his penis"
   ],
   " and ",
   [
@@ -88,6 +90,8 @@ var blowjobs = [
     "regret it later.",
     "post about it on Instagram.",
     "make the Price is Right “sad trombone” noise.",
-    "laugh at the absurdity of it all."
+    "laugh at the absurdity of it all.",
+    "clap a pair of symbols upon ejaculation.",
+    "rest his testicles upon a throne of spun sugar."
   ]
 ];

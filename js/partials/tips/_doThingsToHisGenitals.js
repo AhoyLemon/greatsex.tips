@@ -86,6 +86,9 @@ var doThingsToHisGenitals = [
     "sobs quietly in the corner.",
     "writes in to Penthouse Forum.",
     "puts down the Hatsune Miku figurine.",
-    "considers celibacy."
+    "considers celibacy.",
+    "the seven dwarves return from their labors in the mine.",
+    "he summons a horde of zombies to pull you both into hell.",
+    "he cuts off your head and absorbs your essence."
   ]
 ];

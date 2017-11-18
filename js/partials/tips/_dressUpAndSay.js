@@ -140,5 +140,6 @@ var dressUpAndSay = [
     "“They should have sent a prostitute.”",
     "“This is a level beyond sex. I call it super sex 3.”",
     "“Cum. Spout. Jizz it all out. This is the dick I can't do without.",
+    "“I need one more shot of tequila for this to happen.”",
   ]
 ];

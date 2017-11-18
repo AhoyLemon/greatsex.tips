@@ -48,7 +48,10 @@ var bondageTips = [
     "a stake",
     "an inflatable castle",
     "the United Nations building",
-    "a full keg of Hidden Valley Ranch"
+    "a full keg of Hidden Valley Ranch",
+    "a Himalayan salt lamp",
+    "your collectoin of antique bowling balls",
+    "your cousin's wedding cake"
   ],
   " and ",
   [
@@ -116,6 +119,7 @@ var bondageTips = [
     "throw an octopus on the floor and see how it goes.",
     "burn a several bags of popcorn and lock him in the room with them.",
     "put on a looping playlist of anime girl hip hop covers.",
-    "crumble stale cookies all over the bed while he watches."
+    "crumble stale cookies all over the bed while he watches.",
+    "put on reruns of <i>Bridezillas</i>."
   ]
 ];

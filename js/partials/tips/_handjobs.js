@@ -61,6 +61,7 @@ var handjobs = [
     "wrap it in bacon for internet points.",
     "play a game of ring toss with it.",
     "pour molten gold over it.",
-    "make a face of obvious disgust, then gradual but grudging acceptance."
+    "make a face of obvious disgust, then gradual but grudging acceptance.",
+    "pack it away in the attic with moth balls for the winter."
   ]
 ];
