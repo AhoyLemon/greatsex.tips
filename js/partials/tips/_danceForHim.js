@@ -9,11 +9,12 @@ var danceForHim = [
     "Gregorian chant",
     "the screaming of the damned"
   ],
-    " while seductively stripping out of ",
   [
-    "your <i>Home Depot</i> uniform",
-    "a live hive of African wasps",
-    "your meat dress"
+    " while seductively stripping out of your <i>Home Depot</i> uniform",
+    " and dance with a live hive of African wasps",
+    " and strip out of your meat dress"
+    " and shuffle slowly from side to side, muttering 'this too will end'",
+    " and do the most sombre Charlston he's ever seen"
   ],
   ". ",
     "Get intimate at the end by ",
