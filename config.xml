@@ -43,7 +43,6 @@
   <engine name="android" spec="^6.3.0" />
   <plugin name="cordova-plugin-dialogs" spec="~1.2.0" />
   <plugin name="cordova-plugin-file" spec="^4.3.3" />
-  <plugin name="cordova-plugin-geolocation" spec="~2.1.0" />
   <plugin name="cordova-plugin-globalization" spec="~1.0.3" />
   <plugin name="cordova-plugin-splashscreen" spec="~3.2.1" />
   <plugin name="cordova-plugin-vibration" spec="~2.1.0" />
