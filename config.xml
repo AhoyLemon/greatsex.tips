@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="tips.greatsex" version="0.0.1" versionCode="10" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+  <name>Great Sex Tips!</name>
+  <description>
+    He's gonna love what you do to him.
+  </description>
+  <author email="lemon@thefpl.us" href="http://ahoylemon.xyz">
+    Lemon
+  </author>
+  <platform name="ios">
+    <icon height="180" src="res/icon/ios/app-icons-iOS_a_180.png" width="180" />
+    <icon height="60" src="res/icon/ios/app-icons-iOS_a_76.png" width="60" />
+    <icon height="120" src="res/icon/ios/app-icons-iOS_a_120.png" width="120" />
+    <icon height="76" src="res/icon/ios/app-icons-iOS_a_76.png" width="76" />
+    <icon height="152" src="res/icon/ios/app-icons-iOS_a_152.png" width="152" />
+    <icon height="40" src="res/icon/ios/app-icons-iOS_a_40.png" width="40" />
+    <icon height="80" src="res/icon/ios/app-icons-iOS_a_80.png" width="80" />
+    <icon height="57" src="res/icon/ios/app-icons-iOS_a_58.png" width="57" />
+    <icon height="114" src="res/icon/ios/app-icons-iOS_a_120.png" width="114" />
+    <icon height="72" src="res/icon/ios/app-icons-iOS_a_76.png" width="72" />
+    <icon height="144" src="res/icon/ios/app-icons-iOS_a_152.png" width="144" />
+    <icon height="167" src="res/icon/ios/app-icons-iOS_a_167.png" width="167" />
+    <icon height="29" src="res/icon/ios/app-icons-iOS_a_29.png" width="29" />
+    <icon height="58" src="res/icon/ios/app-icons-iOS_a_58.png" width="58" />
+    <icon height="50" src="res/icon/ios/app-icons-iOS_a_58.png" width="50" />
+    <icon height="100" src="res/icon/ios/app-icons-iOS_a_120.png" width="100" />
+    <icon height="167" src="res/icon/ios/app-icons-iOS_a_167.png" width="167" />
+  </platform>
+  <platform name="android">
+    <icon density="ldpi" src="res/icon/android/app-icons-android_a36.png" />
+    <icon density="mdpi" src="res/icon/android/app-icons-android_a48.png" />
+    <icon density="hdpi" src="res/icon/android/app-icons-android_a72.png" />
+    <icon density="xhdpi" src="res/icon/android/app-icons-android_a96.png" />
+    <icon density="xxhdpi" src="res/icon/android/app-icons-android_a144.png" />
+    <icon density="xxxhdpi" src="res/icon/android/app-icons-android_a192.png" />
+  </platform>
+  <preference name="android-minSdkVersion" value="20" />
+  <platform name="winphone" />
+  <access origin="*" />
+  <allow-intent href="*" />
+  <allow-navigation href="*" />
+  <engine name="ios" spec="^4.4.0" />
+  <engine name="android" spec="^6.3.0" />
+  <plugin name="cordova-plugin-dialogs" spec="~1.2.0" />
+  <plugin name="cordova-plugin-file" spec="^4.3.3" />
+  <plugin name="cordova-plugin-geolocation" spec="~2.1.0" />
+  <plugin name="cordova-plugin-globalization" spec="~1.0.3" />
+  <plugin name="cordova-plugin-splashscreen" spec="~3.2.1" />
+  <plugin name="cordova-plugin-vibration" spec="~2.1.0" />
+  <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
+  <plugin name="cordova-plugin-inappbrowser" spec="^1.7.1" />
+</widget>

@@ -1,0 +1,38 @@
+{
+  "name": "xyz.ahoylemon.greatsextips",
+  "version": "0.0.1",
+  "displayName": "Great Sex Tips!",
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-dialogs": {},
+      "cordova-plugin-file": {},
+      "cordova-plugin-geolocation": {},
+      "cordova-plugin-globalization": {},
+      "cordova-plugin-splashscreen": {},
+      //"cordova-plugin-vibration": {},
+      //"cordova-plugin-whitelist": {},
+      //"onesignal-cordova-plugin": {},
+      "cordova-plugin-inappbrowser": {}
+    }
+  },
+  "dependencies": {
+    "browser": "^0.2.6",
+    "cordova-android": "^6.3.0",
+    "cordova-ios": "^4.4.0",
+    "cordova-plugin-compat": "^1.2.0",
+    "cordova-plugin-dialogs": "~1.2.0",
+    "cordova-plugin-file": "^4.3.3",
+    "cordova-plugin-geolocation": "~2.1.0",
+    "cordova-plugin-globalization": "~1.0.3",
+    "cordova-plugin-inappbrowser": "^1.7.1",
+    "cordova-plugin-splashscreen": "~3.2.1",
+    //"cordova-plugin-vibration": "~2.1.0",
+    //"cordova-plugin-whitelist": "~1.2.1",
+    //"onesignal-cordova-plugin": "^2.2.2",
+    //"phonegap-plugin-push": "^2.0.0"
+  }
+}
