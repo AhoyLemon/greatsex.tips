@@ -92,7 +92,9 @@ var dirtyTalkExamples = [
     "Oh I wonder, wonder, wonder what's in YOUR wonder ball?",
     "Don't you touch that dial, we've got a rockin' cockin' here in my cooch up next.",
     "...did you leave the oven on?",
-    "I didn't know pearl necklaces could be so watery."
+    "I didn't know pearl necklaces could be so watery.",
+    "Workin' in the fuck mine / Goin' down, down, down / Workin' in a fuck mine / Oops, let the dick down",
+    "Impale my hot gash with your love stake."
   ],
   "” He's sure to ",
   [

@@ -112,3 +112,6 @@ var thingsYouDoToAPenis = [
 var penisEuphamisms = [
   "rod","member","schlong","dong","cock","meat","anaconda","boomstick","bratwurst","deez nuts","bologna pony","chub","disco stick","e-peen","hog","helmet","joystick","johnson","love muscle","love shaft","main vein","manhood","Mr. Winky","Mr. Happy","ol' one eye","pecker","middle leg","meat popsicle","meat thermometer","one-eyed snake","trouser snake","package","peen","peeper","piece","pocket rocket","pole","pork sword","prick","Russel the Love Muscle", "skin flute","shaft","swamp nuts","stiffie","stiffy","tallywacker","tent pole","throbber","tool","trouser meat","tube steak","wang","wanker","unit","willy","wood","yogurt slinger","yoo-hoo"
 ];
+var ladyBodyParts = [
+  "butt", "ass", "hair", "breasts", "crotch", "vagina", "labia", "boobs", "thighs", "areolas", "nipples", "hands", "buttock", "feet", "foot", "mammeries", "fingers", "loins", "tounge"
+];
