@@ -15,14 +15,22 @@ var danceForHim = [
     "Leonard Cohen's <i>Hallelujah</i>",
     "Gary Jules' <i>Mad World</i>",
     "the emergency broadcast signal",
-    "<i>Turkey in the Straw<i>",
+    "<i>Turkey in the Straw</i>",
     "the <i>Silent Hill</i> soundtrack",
     "dial-up modem connection sound",
     "<i>Faerie's Air and Death Waltz</i>",
     "<i>Gilligan's Island</i> theme song",
     "your avant-garde jazz playlist",
     "whale sounds album",
-    "Kriss Kross' <i>Jump</i>"
+    "Kriss Kross' <i>Jump</i>",
+    "<i>Flight of the Bumblebee</i> played by kazoos",
+    "Amon Amarth",
+    "a chorus of children singing <i>Mary, Mary, Quite Contrary</i>",
+    "a Grateful Dead guitar solo",
+    "the Five Finger Family song",
+    "a bootleg copy of ",
+    "the Jingle Cats album",
+    "the <i>Symphonies for Dog Whistles</i> album"
   ],
   " ",
   [
@@ -31,7 +39,7 @@ var danceForHim = [
     "and strip out of your meat dress",
     "and shuffle slowly from side to side, muttering 'this too will end'",
     "and do the most sombre Charlston he's ever seen",
-    "while lumbering like a zombie aobut the room",
+    "while lumbering like a zombie about the room",
     "while twirling Nicholas Cage-shaped pasties",
     "while spinning on the floor like Curly, whooping loudly.",
     "and dance around with fans made out of houseplant leaves",
@@ -55,7 +63,13 @@ var danceForHim = [
     "and call upon your high school techno goth dance skills",
     "and whip around a set of glowsticks on shoestrings",
     "while rolling around in a pool of overcooked spaghetti",
-    "while catching up on your burpees"
+    "while catching up on your burpees",
+    "and dead eye stare him in the face while river dancing",
+    "and summon a cadre of cirque du soleil to flank you",
+    "while jiggling all of your loose flesh",
+    "while shooting the ceiling with your finger guns",
+    "and sway your hips to displace the creamed corn",
+    "and start dancing on a disconnected DDR mat"
   ],
   ". ",
     "Get intimate at the end by ",
@@ -114,6 +128,11 @@ var danceForHim = [
     "fall asleep due to the effort.",
     "collapse into sexy singularity.",
     "rip off your undewear to reveal a skin colored bodysuit.",
-    "sit down in a chair and say it's his turn."
+    "sit down in a chair and say it's his turn.",
+    "bring out a banjo to really start this hootenanny.",
+    "plead for Jabba the Hutt to release you.",
+    "fling your bra in his face like a rubber band.",
+    "triple flip onto his penis.",
+    "pick up your tips from the edge of the stage."
   ]
 ];
