@@ -30,6 +30,7 @@ var doThingsToHisGenitals = [
     "Tickle",
     "Bounce",
     "Wiggle",
+    "Review"
   ],
   " his ",
   maleGenitals,
@@ -89,6 +90,7 @@ var doThingsToHisGenitals = [
     "considers celibacy.",
     "the seven dwarves return from their labors in the mine.",
     "he summons a horde of zombies to pull you both into hell.",
-    "he cuts off your head and absorbs your essence."
+    "he cuts off your head and absorbs your essence.",
+    "retweets your joke."
   ]
 ];

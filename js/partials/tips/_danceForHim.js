@@ -2,9 +2,10 @@ var danceForHim = [
   [
     "Show him your sultry moves:",
     "Dance moves to make your man melt:",
-    "Strut your sexy stuff:"
+    "Strut your sexy stuff:",
+    "Give him a private show: "
   ],
-    " Play ",
+  " Play ",
   [
     "<i>The Breakfast Machine</i>",
     "Gregorian chant",
@@ -28,7 +29,6 @@ var danceForHim = [
     "a chorus of children singing <i>Mary, Mary, Quite Contrary</i>",
     "a Grateful Dead guitar solo",
     "the Five Finger Family song",
-    "a bootleg copy of ",
     "the Jingle Cats album",
     "the <i>Symphonies for Dog Whistles</i> album"
   ],
@@ -41,7 +41,7 @@ var danceForHim = [
     "and do the most sombre Charlston he's ever seen",
     "while lumbering like a zombie about the room",
     "while twirling Nicholas Cage-shaped pasties",
-    "while spinning on the floor like Curly, whooping loudly.",
+    "while spinning on the floor like Curly, whooping loudly",
     "and dance around with fans made out of houseplant leaves",
     "while spinning a cane and straw hat",
     "and tango with a mannequin in lingerie",
@@ -71,8 +71,7 @@ var danceForHim = [
     "and sway your hips to displace the creamed corn",
     "and start dancing on a disconnected DDR mat"
   ],
-  ". ",
-    "Get intimate at the end by ",
+  ". Get intimate at the end by ",
   [
     "jiggling",
     "twerking",

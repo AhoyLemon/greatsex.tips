@@ -30,7 +30,7 @@ var dirtyTalkExamples = [
   " “",
   [
     "Your penis is totally fine, all things considered.",
-	"I'm not really sure what the point of all <i>this</i> is!",
+    "I'm not really sure what the point of all <i>this</i> is!",
     "Great green globs of greasy, grimy, gopher guts / Mutilated monkey meat / Hairy pickled piggy feet / French fried eyeballs floating in some kerosene / and me without a spoon",
     "Okay.",
     "Dirt!",
@@ -108,7 +108,7 @@ var dirtyTalkExamples = [
     "orgasm immediately!",
     "pack up his dick and go home!",
     "come back for more!",
-	"have a heart attack!",
+    "have a heart attack!",
     "remember <i>that</i> one.",
     "brag to his friends about you!",
     "return the favor!"

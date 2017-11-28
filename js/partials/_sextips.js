@@ -21,7 +21,6 @@
 
 var sexActs = [
   blowjobs, bondageTips, dirtyTalkExamples, doThingsToHisGenitals, dressUpAndSay, handjobs, hideAnItem, newSexPositions, nonPenisActionsFromMen, reallyUncreativeSexTips, sensualMensTips, suggestionsFromWomen, danceForHim
-  //danceForHim
 ];
 
 var sexTips = {
