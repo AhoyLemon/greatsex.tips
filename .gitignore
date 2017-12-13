@@ -1,6 +1,6 @@
 .sass-cache/
 *.css.map
 .DS_Store
-
+*.pyc
 /js/min/tips.min.js
 VSCodeSetup-x64-1.18.0.exe
