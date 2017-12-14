@@ -171,8 +171,8 @@ var app = new Vue({
       
       shareOptions.message = self.currentTip;
       shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
-      
-      setTimeout(function(){ 
+      shareOptions.files = [self.canvas];
+      setTimeout(function(){
         window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
       }, 480);
       
