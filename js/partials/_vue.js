@@ -21,6 +21,7 @@ var app = new Vue({
     primaryImage: {
       backgroundImage:'url(img/bg1.jpg)'
     },
+    shareImage: false,
     canvas: false,
     imageLoading: false,
     tipNumber: 0,
@@ -110,22 +111,24 @@ var app = new Vue({
 
       var node = document.getElementById('CurrentTip');
       
-      /*
+      
 
       domtoimage.toJpeg(node)
         .then(function (dataUrl) {
         var img = new Image();
         img.src = dataUrl;
+        shareOptions.files = dataUrl;
+        self.shareImage = dataUrl;
         document.getElementById('ShareImageWrapper').innerHTML="";
         document.getElementById('ShareImageWrapper').appendChild(img);
         self.hideShareImage = true;
-        self.shareScreen = true;
+        //self.shareScreen = true;
       })
         .catch(function (error) {
         console.error('oops, something went wrong!', error);
       });
-      */
       
+      /*
       html2canvas(node, {
         onrendered: function(canvas) {
           document.getElementById('ShareImageWrapper').innerHTML="";
@@ -140,25 +143,8 @@ var app = new Vue({
           //document.getElementById('DownloadImageButton').download = 'somefilename.jpg';
         }
       });
+      */
       
-    },
-    
-    
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Share Image (PhoneGap only?)
-    
-    shareTipImage: function() {
-      var self = this;
-      var shareHeadline = self.tipNumber + " " + self.tipNumberFormatted;
-      //window.plugins.socialsharing.share(self.currentTip, shareHeadline, self.canvas, 'https://greatsex.tips');
-    },
-    
-    
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    // Download
-    downloadCanvas: function() {
-      var self = this;
-      Canvas2Image.saveAsPNG(self.canvas);
     },
     
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -171,7 +157,6 @@ var app = new Vue({
       
       shareOptions.message = self.currentTip;
       shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
-      shareOptions.files = [self.canvas];
       setTimeout(function(){
         window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
       }, 480);
