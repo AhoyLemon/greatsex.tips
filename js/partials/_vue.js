@@ -131,7 +131,7 @@ var app = new Vue({
         shareOptions.files = self.shareImage;
         
         //window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
-        window.plugins.socialsharing.share(shareOptions.message, shareOptions.subject, 'https://greatsex.tips/img/bg3.jpg', 'https://greatsex.tips');
+        window.plugins.socialsharing.share(shareOptions.message, shareOptions.subject, dataUrl, 'https://greatsex.tips');
         
       })
         .catch(function (error) {
