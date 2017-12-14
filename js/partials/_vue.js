@@ -130,7 +130,8 @@ var app = new Vue({
         shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
         shareOptions.files = self.shareImage;
         
-        window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
+        //window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
+        window.plugins.socialsharing.share(shareOptions.message, shareOptions.subject, 'https://greatsex.tips/img/bg3.jpg', 'https://greatsex.tips');
         
       })
         .catch(function (error) {
