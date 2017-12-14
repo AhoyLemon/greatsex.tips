@@ -280,7 +280,6 @@ main {
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
   -webkit-flex-wrap: wrap;
@@ -289,10 +288,8 @@ main {
   flex-wrap: wrap;
   -webkit-box-align: center;
   -ms-flex-align: center;
-  -webkit-align-items: center;
   align-items: center;
   -webkit-box-pack: center;
-  -webkit-justify-content: center;
   -ms-flex-pack: center;
   justify-content: center;
   min-height: 91.5vh;
@@ -311,29 +308,24 @@ main {
     position: relative; }
     main .tip button {
       background: #e5e972;
-      border: 1px solid #212121;
+      border: none;
       padding: 0.35em 1.25em;
       color: #212121;
       cursor: pointer;
       position: absolute;
       top: 5px;
-      right: 5px; }
+      right: 5px;
+      background: transparent; }
       main .tip button svg * {
         fill: currentColor; }
       main .tip button .icon {
         display: inline-block;
-        width: 1.5em;
-        height: 1.5em;
-        margin-right: 0.3em; }
+        width: 3em;
+        height: 3em;
+        margin-right: 0.3em;
+        color: #4885ed; }
       main .tip button .text {
-        display: inline-block;
-        font-family: "Lora", serif;
-        font-style: italic;
-        font-size: 1.15em;
-        text-shadow: none;
-        -webkit-transform: translateY(-4px);
-        -ms-transform: translateY(-4px);
-        transform: translateY(-4px); }
+        display: none; }
       main .tip button:hover .icon {
         -webkit-transform: scale(1.5);
         -ms-transform: scale(1.5);
@@ -362,7 +354,6 @@ main {
       font-weight: 600;
       border: 2px solid currentColor;
       cursor: pointer;
-      font-size: 1.5rem;
       padding: 0.25em 1em;
       text-shadow: 1px 1px 0 #212121;
       -webkit-box-shadow: 1px 1px 0 #212121;
@@ -424,7 +415,7 @@ img.bug {
     main .button-holder {
       padding-top: 40px; }
       main .button-holder button {
-        font-size: 16px; } }
+        font-size: 22px; } }
 
 .sidebar-button {
   background: transparent;
@@ -613,7 +604,6 @@ img.bug {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
     -webkit-flex-wrap: wrap;
@@ -622,10 +612,8 @@ img.bug {
     flex-wrap: wrap;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    -webkit-align-items: center;
     align-items: center;
     -webkit-box-pack: center;
-    -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
     padding: 70px 25px 25px 25px;
@@ -689,7 +677,6 @@ img.bug {
     display: flex;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
     -webkit-flex-wrap: wrap;
@@ -698,10 +685,8 @@ img.bug {
     flex-wrap: wrap;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    -webkit-align-items: center;
     align-items: center;
     -webkit-box-pack: center;
-    -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
     height: 100%; }

@@ -126,11 +126,7 @@ var app = new Vue({
         self.hideShareImage = true;
         //self.shareScreen = true;
         
-        shareOptions.message = self.currentTip;
-        shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
-        shareOptions.files = null;
         
-        window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
         //window.plugins.socialsharing.share(shareOptions.message, shareOptions.subject, dataUrl, 'https://greatsex.tips');
         
       })
@@ -161,7 +157,11 @@ var app = new Vue({
     // When you click the "Share this tip!" button.    
     shareThisTip: function() {
       var self = this;
-      self.generatePicture();
+      //self.generatePicture();
+      shareOptions.message = self.currentTip;
+      shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
+      shareOptions.files = false;
+      window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
 
       //sendEvent('Share this tip',self.currentTip);
     },
