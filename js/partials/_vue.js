@@ -117,7 +117,6 @@ var app = new Vue({
         .then(function (dataUrl) {
         var img = new Image();
         img.src = dataUrl;
-        shareOptions.files = dataUrl;
         self.shareImage = dataUrl;
         document.getElementById('ShareImageWrapper').innerHTML="";
         document.getElementById('ShareImageWrapper').appendChild(img);
@@ -158,9 +157,9 @@ var app = new Vue({
       shareOptions.message = self.currentTip;
       shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
       setTimeout(function(){
+        shareOptions.files = [self.shareImage];
         window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
       }, 480);
-      
       
       //sendEvent('Share this tip',self.currentTip);
     },

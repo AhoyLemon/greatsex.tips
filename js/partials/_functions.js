@@ -21,8 +21,6 @@ function sendEvent(c, a, l, v) {
   }
 }
 
-
-
 var shareOptions = {
   message: 'Dance moves to make your man melt: Play a recording of your economics course lecture and drop to the floor and do the worm. Get intimate at the end by teasing your boobs and putting more clothes on.', // not supported on some apps (Facebook, Instagram)
   subject: 'Great Sex Tip #69,557', // fi. for email
