@@ -18,7 +18,7 @@ var sensualMensTips = [
     "paint your nipples with glittery lipstick",
     "lick your neck",
     "spoon with you in bed",
-	"join you in the shower"
+    "join you in the shower"
   ],
   ", ",
   [

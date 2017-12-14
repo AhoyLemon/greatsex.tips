@@ -15,11 +15,12 @@
 //@prepros-prepend tips/_reallyUncreativeSexTips.js
 //@prepros-prepend tips/_sensualMensTips.js
 //@prepros-prepend tips/_suggestionsFromWomen.js
+//@prepros-prepend tips/_danceForHim.js
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 var sexActs = [
-  blowjobs, bondageTips, dirtyTalkExamples, doThingsToHisGenitals, dressUpAndSay, handjobs, hideAnItem, newSexPositions, nonPenisActionsFromMen, reallyUncreativeSexTips, sensualMensTips, suggestionsFromWomen
+  blowjobs, bondageTips, dirtyTalkExamples, doThingsToHisGenitals, dressUpAndSay, handjobs, hideAnItem, newSexPositions, nonPenisActionsFromMen, reallyUncreativeSexTips, sensualMensTips, suggestionsFromWomen, danceForHim
 ];
 
 var sexTips = {

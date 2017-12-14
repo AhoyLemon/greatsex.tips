@@ -120,6 +120,7 @@ var bondageTips = [
     "burn a several bags of popcorn and lock him in the room with them.",
     "put on a looping playlist of anime girl hip hop covers.",
     "crumble stale cookies all over the bed while he watches.",
-    "put on reruns of <i>Bridezillas</i>."
+    "put on reruns of <i>Bridezillas</i>.",
+    "pontificate on the use of whitespace in Wikipedia's site design."
   ]
 ];

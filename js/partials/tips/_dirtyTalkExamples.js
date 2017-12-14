@@ -30,7 +30,7 @@ var dirtyTalkExamples = [
   " “",
   [
     "Your penis is totally fine, all things considered.",
-	"I'm not really sure what the point of all <i>this</i> is!",
+    "I'm not really sure what the point of all <i>this</i> is!",
     "Great green globs of greasy, grimy, gopher guts / Mutilated monkey meat / Hairy pickled piggy feet / French fried eyeballs floating in some kerosene / and me without a spoon",
     "Okay.",
     "Dirt!",
@@ -92,7 +92,9 @@ var dirtyTalkExamples = [
     "Oh I wonder, wonder, wonder what's in YOUR wonder ball?",
     "Don't you touch that dial, we've got a rockin' cockin' here in my cooch up next.",
     "...did you leave the oven on?",
-    "I didn't know pearl necklaces could be so watery."
+    "I didn't know pearl necklaces could be so watery.",
+    "Workin' in the fuck mine / Goin' down, down, down / Workin' in a fuck mine / Oops, let the dick down",
+    "Impale my hot gash with your love stake."
   ],
   "” He's sure to ",
   [
@@ -106,7 +108,7 @@ var dirtyTalkExamples = [
     "orgasm immediately!",
     "pack up his dick and go home!",
     "come back for more!",
-	"have a heart attack!",
+    "have a heart attack!",
     "remember <i>that</i> one.",
     "brag to his friends about you!",
     "return the favor!"
