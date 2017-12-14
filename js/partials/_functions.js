@@ -25,7 +25,7 @@ var shareOptions = {
   message: null, // not supported on some apps (Facebook, Instagram)
   subject: null, // fi. for email
   files: null, // an array of filenames either locally or remotely
-  url: siteURL,
+  url: "https://greatsex.tips",
   chooserTitle: 'Pick an app' // Android only, you can override the default share sheet title
 }
 

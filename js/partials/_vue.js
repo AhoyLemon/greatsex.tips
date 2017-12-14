@@ -121,12 +121,17 @@ var app = new Vue({
         document.getElementById('ShareImageWrapper').innerHTML="";
         document.getElementById('ShareImageWrapper').appendChild(img);
 
+        
+
+        self.hideShareImage = true;
+        self.shareScreen = true;
+        
         shareOptions.message = self.currentTip;
         shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
         shareOptions.files = self.shareImage;
+        
         window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
-
-        self.hideShareImage = true;
+        
       })
         .catch(function (error) {
         console.error('oops, something went wrong!', error);
