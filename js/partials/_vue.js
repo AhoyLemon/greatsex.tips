@@ -110,8 +110,8 @@ var app = new Vue({
       self.hideShareImage = false;
 
       var node = document.getElementById('CurrentTip');
-      
-      
+
+
 
       domtoimage.toJpeg(node)
         .then(function (dataUrl) {
@@ -120,13 +120,18 @@ var app = new Vue({
         self.shareImage = dataUrl;
         document.getElementById('ShareImageWrapper').innerHTML="";
         document.getElementById('ShareImageWrapper').appendChild(img);
+
+        shareOptions.message = self.currentTip;
+        shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
+        shareOptions.files = self.shareImage;
+        window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
+
         self.hideShareImage = true;
-        //self.shareScreen = true;
       })
         .catch(function (error) {
         console.error('oops, something went wrong!', error);
       });
-      
+
       /*
       html2canvas(node, {
         onrendered: function(canvas) {
@@ -135,7 +140,7 @@ var app = new Vue({
           //self.hideShareImage = true;
           //self.shareScreen = true;
           self.canvas = canvas;
-          
+
           //self.downloadImage = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
           //var a = document.getElementById('DownloadImageButton');
           //document.getElementById('DownloadImageButton').href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
@@ -143,24 +148,15 @@ var app = new Vue({
         }
       });
       */
-      
+
     },
-    
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // When you click the "Share this tip!" button.    
     shareThisTip: function() {
       var self = this;
       self.generatePicture();
-      
-      var shareHeadline = self.tipNumber + " " + self.tipNumberFormatted;
-      
-      shareOptions.message = self.currentTip;
-      shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
-      setTimeout(function(){
-        shareOptions.files = self.shareImage;
-        window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
-      }, 480);
-      
+
       //sendEvent('Share this tip',self.currentTip);
     },
 
@@ -177,7 +173,7 @@ var app = new Vue({
       }, 300);
       sendEvent('Switch Background', self.currentTip);
     },
-    
+
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // When you click the Info Drawer Toggle (? in circle)
     toggleDrawer: function() {
