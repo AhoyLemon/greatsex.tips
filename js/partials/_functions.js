@@ -32,10 +32,10 @@ var shareOptions = {
 }
 
 var onShareSuccess = function(result) {
-  alert.log("Share completed? " + result.completed); // On Android apps mostly return false even while it's true
-  alert.log("Shared to app: " + result.app); // On Android result.app is currently empty. On iOS it's empty when sharing is cancelled (result.completed=false)
+  alert("Share completed? " + result.completed); // On Android apps mostly return false even while it's true
+  alert("Shared to app: " + result.app); // On Android result.app is currently empty. On iOS it's empty when sharing is cancelled (result.completed=false)
 }
  
 var onShareError = function(msg) {
-  alert.log("Sharing failed with message: " + msg);
+  alert("Sharing failed with message: " + msg);
 }
