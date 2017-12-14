@@ -124,7 +124,7 @@ var app = new Vue({
         
 
         self.hideShareImage = true;
-        self.shareScreen = true;
+        //self.shareScreen = true;
         
         shareOptions.message = self.currentTip;
         shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
