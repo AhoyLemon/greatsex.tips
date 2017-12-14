@@ -10,11 +10,7 @@
   
    <preference name="orientation" value="portrait" />
   
-  <plugin name="cordova-plugin-splashscreen" source="npm" />  
-  <preference name="SplashScreenDelay" value="3000" />  
-  <preference name="AutoHideSplashScreen" value="true" />  
-  <preference name="SplashScreen" value="www/res/screen/android" />  
-  <preference name="SplashMaintainAspectRatio" value="true" />  
+  <plugin name="cordova-plugin-splashscreen" spec="4.1.0" source="npm" />  
   
   <splash src="res/screens/android/drawable-port-mdpi-screen.png"/>  
   
@@ -80,6 +76,6 @@
   <plugin name="cordova-plugin-file" spec="^4.3.3" />
   <plugin name="cordova-plugin-globalization" spec="~1.0.3" />
   <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
-  <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
+  <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" spec="5.2.1" />
   
 </widget>

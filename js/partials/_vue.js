@@ -131,14 +131,13 @@ var app = new Vue({
           document.getElementById('ShareImageWrapper').innerHTML="";
           document.getElementById('ShareImageWrapper').appendChild(canvas);
           //self.hideShareImage = true;
-          self.shareScreen = true;
+          //self.shareScreen = true;
           self.canvas = canvas;
           
           //self.downloadImage = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
           //var a = document.getElementById('DownloadImageButton');
           //document.getElementById('DownloadImageButton').href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
           //document.getElementById('DownloadImageButton').download = 'somefilename.jpg';
-          
         }
       });
       
@@ -152,7 +151,6 @@ var app = new Vue({
       var self = this;
       var shareHeadline = self.tipNumber + " " + self.tipNumberFormatted;
       //window.plugins.socialsharing.share(self.currentTip, shareHeadline, self.canvas, 'https://greatsex.tips');
-      window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
     },
     
     
@@ -168,7 +166,18 @@ var app = new Vue({
     shareThisTip: function() {
       var self = this;
       self.generatePicture();
-      sendEvent('Share this tip',self.currentTip);
+      
+      var shareHeadline = self.tipNumber + " " + self.tipNumberFormatted;
+      
+      shareOptions.message = self.currentTip;
+      shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
+      
+      setTimeout(function(){ 
+        window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
+      }, 480);
+      
+      
+      //sendEvent('Share this tip',self.currentTip);
     },
 
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
