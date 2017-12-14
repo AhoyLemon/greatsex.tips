@@ -80,6 +80,6 @@
   <plugin name="cordova-plugin-file" spec="^4.3.3" />
   <plugin name="cordova-plugin-globalization" spec="~1.0.3" />
   <plugin name="cordova-plugin-whitelist" spec="~1.2.1" />
-  <gap:plugin name="cordova-plugin-x-socialsharing" source="npm" />
+  <plugin name="cordova-plugin-x-socialsharing" source="npm" />
   
 </widget>

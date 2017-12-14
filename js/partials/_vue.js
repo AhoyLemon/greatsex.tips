@@ -150,7 +150,8 @@ var app = new Vue({
     
     shareTipImage: function() {
       var self = this;
-      window.plugins.socialsharing.share('Message, subject, image and link', 'The subject', 'https://www.google.nl/images/srpr/logo4w.png', 'http://www.x-services.nl');
+      var shareHeadline = self.tipNumber + " " + self.tipNumberFormatted;
+      window.plugins.socialsharing.share(self.currentTip, shareHeadline, self.canvas, 'https://greatsex.tips');
     },
     
     
