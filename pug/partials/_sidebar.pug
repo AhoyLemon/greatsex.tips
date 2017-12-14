@@ -8,7 +8,7 @@ button.sidebar-button(v-on:click="toggleDrawer" v-bind:class=" {active: sidebarV
 .sidebar(v-bind:class=" {visible: sidebarVisible} ")
   ul
     li
-      span.label This site is
+      span.label This app is
       span.indent
         span by 
         a(href="https://ahoylemon.xyz" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'site by Lemon', 'https://ahoylemon.xyz')") Lemon
@@ -16,10 +16,10 @@ button.sidebar-button(v-on:click="toggleDrawer" v-bind:class=" {active: sidebarV
       span.label With help from
       span.indent
         a(href="https://twitter.com/AberrantWhimsy" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'Sanguinary Novel', 'https://twitter.com/AberrantWhimsy')") Sanguinary Novel
-      span.indent
+      //-span.indent
         span and 
         a(href="https://thefpl.us/meet/boots-raingear" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'Boots Raingear', 'https://thefpl.us/meet/boots-raingear')") Boots Raingear
-    li
+    //-li
       span.label There's more info in the
       span.indent
         a(href="https://github.com/AhoyLemon/greatsex.tips#readme" target="_blank" rel="noopener" onclick="sendEvent('outside link', 'GitHub Repo', 'https://github.com/AhoyLemon/greatsex.tips')") GitHub repository
@@ -27,7 +27,7 @@ button.sidebar-button(v-on:click="toggleDrawer" v-bind:class=" {active: sidebarV
       span.label Thoughts?
       span.indent
         a(href="https://goo.gl/forms/e1fJU67sQdC3BIrn1" rel="noopener" target="_blank") Let us know
-    li#AddToHomeScreen(v-if="device")
+    //-li#AddToHomeScreen(v-if="device")
       span.label By the way, you should
       span.indent 
         a(v-on:click="addToHomescreen = true")
