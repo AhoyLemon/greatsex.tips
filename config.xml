@@ -8,6 +8,9 @@
     Lemon
   </author>
   
+  <icon src="res/icons/icon.png" />
+  <splash src="res/screens/splash.png" />
+  
   <platform name="android">
     <icon density="ldpi" src="res/icons/android/drawable-ldpi-icon.png" />
     <icon density="mdpi" src="res/icons/android/drawable-mdpi-icon.png" />
