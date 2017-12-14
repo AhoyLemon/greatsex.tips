@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="🍆+🍑=🌟">
-    <meta http-equiv="last-modified" content="2017-11-14@14:01:11">
-    <link href="css/tips.css?lastUpdated=2017-11-14@14:01:11" rel="stylesheet">
+    <meta http-equiv="last-modified" content="2017-11-14@15:10:24">
+    <link href="css/tips.css?lastUpdated=2017-11-14@15:10:24" rel="stylesheet">
     <!-- Twitter-->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:creator" content="@AhoyLemon">
@@ -164,9 +164,7 @@
             <div id="ShareImageWrapper">
               <!--img(src="https://picsum.photos/900/510")-->
             </div>
-            <div class="button-holder">
-              <button class="download" v-on:click="shareTipImage">Share This</button>
-            </div>
+            <div class="button-holder"></div>
             <div class="button-holder">
               <button class="swap" v-on:click="switchBackground" :disabled="imageLoading"> <span v-if="imageLoading">Hang on...</span><span v-else>Switch Background</span></button>
               <!--button#DownloadImageButton(download) Download-->
@@ -184,9 +182,10 @@
     <script type="text/javascript" src="cordova.js"></script>
     <div class="javascripts">
       <script src="js/libraries/vue.full.js"></script>
+      <script src="js/libraries/dom-to-image.min.js"></script>
       <script src="js/libraries/html2canvas.min.js"></script>
       <script src="js/libraries/canvas2image.js"></script>
-      <script src="js/min/tips.min.js?lastUpdated=2017-11-14@14:01:11"></script>
+      <script src="js/min/tips.min.js?lastUpdated=2017-11-14@15:10:24"></script>
     </div>
   </body>
 </html>
