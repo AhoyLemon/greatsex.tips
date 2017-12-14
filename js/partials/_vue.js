@@ -151,7 +151,8 @@ var app = new Vue({
     shareTipImage: function() {
       var self = this;
       var shareHeadline = self.tipNumber + " " + self.tipNumberFormatted;
-      window.plugins.socialsharing.share(self.currentTip, shareHeadline, self.canvas, 'https://greatsex.tips');
+      //window.plugins.socialsharing.share(self.currentTip, shareHeadline, self.canvas, 'https://greatsex.tips');
+      window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
     },
     
     
