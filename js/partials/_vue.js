@@ -157,7 +157,7 @@ var app = new Vue({
       shareOptions.message = self.currentTip;
       shareOptions.subject = self.tipLabel + " " + self.tipNumberFormatted;
       setTimeout(function(){
-        shareOptions.files = ["https://greatsex.tips/img/bg3.jpg", self.shareImage];
+        shareOptions.files = self.shareImage;
         window.plugins.socialsharing.shareWithOptions(shareOptions, onShareSuccess, onShareError);
       }, 480);
       
