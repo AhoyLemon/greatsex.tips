@@ -8,32 +8,35 @@
     Lemon
   </author>
   
+   <preference name="orientation" value="portrait" />
+  
   <plugin name="cordova-plugin-splashscreen" source="npm" />  
   <preference name="SplashScreenDelay" value="3000" />  
   <preference name="AutoHideSplashScreen" value="true" />  
   <preference name="SplashScreen" value="www/res/screen/android" />  
   <preference name="SplashMaintainAspectRatio" value="true" />  
   
+  <splash src="res/screens/android/drawable-port-mdpi-screen.png"/>  
+  
   <platform name="android">
-    <icon density="ldpi" src="res/icons/android/drawable-ldpi-icon.png" />
-    <icon density="mdpi" src="res/icons/android/drawable-mdpi-icon.png" />
-    <icon density="hdpi" src="res/icons/android/drawable-hdpi-icon.png" />
-    <icon density="xhdpi" src="res/icons/android/drawable-xhdpi-icon.png" />
-    <icon density="xxhdpi" src="res/icons/android/drawable-xxhdpi-icon.png" />
-    <icon density="xxxhdpi" src="res/icons/android/drawable-xxxhdpi-icon.png" />
-    <splash density="land-ldpi" src="res/screens/android/drawable-land-ldpi-screen.png" />
-    <splash density="land-mdpi" src="res/screens/android/drawable-land-mdpi-screen.png" />
-    <splash density="land-hdpi" src="res/screens/android/drawable-land-hdpi-screen.png" />
-    <splash density="land-xhdpi" src="res/screens/android/drawable-land-xhdpi-screen.png" />
-    <splash density="land-xxhdpi" src="res/screens/android/drawable-land-xxhdpi-screen.png" />
-    <splash density="land-xxxhdpi" src="res/screens/android/drawable-land-xxxhdpi-screen.png" />
-    <splash density="port-ldpi" src="res/screens/android/drawable-port-ldpi-screen.png" />
-    <splash density="port-mdpi" src="res/screens/android/drawable-port-mdpi-screen.png" />
-    <splash density="port-hdpi" src="res/screens/android/drawable-port-hdpi-screen.png" />
-    <splash density="port-xhdpi" src="res/screens/android/drawable-port-xhdpi-screen.png" />
-    <splash density="port-xxhdpi" src="res/screens/android/drawable-port-xxhdpi-screen.png" />
-    <splash density="port-xxxhdpi" src="res/screens/android/drawable-port-xxxhdpi-screen.png" />
+    
+    <preference name="SplashScreen" value="res/screens/android/drawable-port-mdpi-screen.png" />  
+    
+    <icon qualifier="ldpi" src="res/icons/android/drawable-ldpi-icon.png" />
+    <icon qualifier="mdpi" src="res/icons/android/drawable-mdpi-icon.png" />
+    <icon qualifier="hdpi" src="res/icons/android/drawable-hdpi-icon.png" />
+    <icon qualifier="xhdpi" src="res/icons/android/drawable-xhdpi-icon.png" />
+    <icon qualifier="xxhdpi" src="res/icons/android/drawable-xxhdpi-icon.png" />
+    <icon qualifier="xxxhdpi" src="res/icons/android/drawable-xxxhdpi-icon.png" />
+    
+    <splash qualifier="port-ldpi" platform="android" src="res/screens/android/drawable-port-ldpi-screen.png" />
+    <splash qualifier="port-mdpi" platform="android" src="res/screens/android/drawable-port-mdpi-screen.png" />
+    <splash qualifier="port-hdpi" platform="android" src="res/screens/android/drawable-port-hdpi-screen.png" />
+    <splash qualifier="port-xhdpi" platform="android" src="res/screens/android/drawable-port-xhdpi-screen.png" />
+    <splash qualifier="port-xxhdpi" platform="android" src="res/screens/android/drawable-port-xxhdpi-screen.png" />
+    <splash qualifier="port-xxxhdpi" platform="android" src="res/screens/android/drawable-port-xxxhdpi-screen.png" />
   </platform>
+  
   <platform name="ios">
     <icon height="57" platform="ios" src="res/icons/ios/icon.png" width="57" />
     <icon height="114" platform="ios" src="res/icons/ios/icon@2x.png" width="114" />
@@ -51,6 +54,7 @@
     <icon height="29" platform="ios" src="res/icons/ios/icon-small.png" width="29" />
     <icon height="58" platform="ios" src="res/icons/ios/icon-small@2x.png" width="58" />
     <icon height="87" platform="ios" src="res/icons/ios/icon-small@3x.png" width="87" />
+    
     <splash height="1136" platform="ios" src="res/screens/ios/Default-568h@2x~iphone.png" width="640" />
     <splash height="1334" platform="ios" src="res/screens/ios/Default-667h.png" width="750" />
     <splash height="2208" platform="ios" src="res/screens/ios/Default-736h.png" width="1242" />
@@ -61,6 +65,7 @@
     <splash height="1024" platform="ios" src="res/screens/ios/Default-Portrait~ipad.png" width="768" />
     <splash height="960" platform="ios" src="res/screens/ios/Default@2x~iphone.png" width="640" />
     <splash height="480" platform="ios" src="res/screens/ios/Default~iphone.png" width="320" />
+    
   </platform>
   
   <preference name="android-minSdkVersion" value="20" />
