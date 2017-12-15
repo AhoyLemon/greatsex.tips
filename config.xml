@@ -69,11 +69,15 @@
   <preference name="android-minSdkVersion" value="20" />
   <platform name="winphone" />
   <access origin="*" />
+  
+  <!-- 
   <allow-intent href="*" />
   <allow-navigation href="*" />
+  -->
+  
   <engine name="ios" spec="^4.4.0" />
   <engine name="android" spec="^6.3.0" />
-
+  
   <plugin name="cordova-plugin-dialogs" spec="~1.2.0" />
   <plugin name="cordova-plugin-file" spec="^4.3.3" />
   <plugin name="cordova-plugin-globalization" spec="~1.0.3" />
