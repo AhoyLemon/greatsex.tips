@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="tips.greatsex" version="0.0.5" versionCode="10" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="tips.greatsex" version="0.89" versionCode="1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
   <name>Great Sex Tips!</name>
   <description>
     He's gonna love what you do to him.
@@ -32,6 +32,7 @@
     <splash qualifier="port-xhdpi" platform="android" src="res/screens/android/drawable-port-xhdpi-screen.png" />
     <splash qualifier="port-xxhdpi" platform="android" src="res/screens/android/drawable-port-xxhdpi-screen.png" />
     <splash qualifier="port-xxxhdpi" platform="android" src="res/screens/android/drawable-port-xxxhdpi-screen.png" />
+    
   </platform>
 
   <platform name="ios">
