@@ -22,7 +22,7 @@ var danceForHim = [
     "<i>Faerie's Air and Death Waltz</i>",
     "<i>Gilligan's Island</i> theme song",
     "your avant-garde jazz playlist",
-    "whale sounds album",
+    "a whale sounds album",
     "Kriss Kross' <i>Jump</i>",
     "<i>Flight of the Bumblebee</i> played by kazoos",
     "Amon Amarth",
@@ -30,7 +30,18 @@ var danceForHim = [
     "a Grateful Dead guitar solo",
     "the Five Finger Family song",
     "the Jingle Cats album",
-    "the <i>Symphonies for Dog Whistles</i> album"
+    "the <i>Symphonies for Dog Whistles</i> album",
+    "a warped country-western vinyl you found a Goodwill",
+    "a <i>Kidz Bop</i> cd",
+    "the sound of a thousand screaming rats",
+    "<i>Yakety Sax</i>",
+    "Khachaturian's Sabre Dance",
+    "that funky music white boy",
+    "your fifth grade recorder concert VHS",
+    "<i>Paralyzer</i> on a series of floppy drives",
+    "your playlist of Geocities midi files",
+    "your voicemail inbox on repeat",
+    "the marimbas"
   ],
   " ",
   [
@@ -65,11 +76,17 @@ var danceForHim = [
     "while rolling around in a pool of overcooked spaghetti",
     "while catching up on your burpees",
     "and dead eye stare him in the face while river dancing",
-    "and summon a cadre of cirque du soleil to flank you",
+    "and summon a cadre of cirque du soleil dancers to flank you",
     "while jiggling all of your loose flesh",
     "while shooting the ceiling with your finger guns",
     "and sway your hips to displace the creamed corn",
-    "and start dancing on a disconnected DDR mat"
+    "and start dancing on a disconnected DDR mat",
+    "while running a rented jackhammer",
+    "and reenact the entirety of <i>Bring It On</>",
+    "while spraying whipped cream wildly in the air",
+    "and bust out of the life-sized pinata of yourself",
+    "while spinning live snakes like nunchucks",
+    "while swinging from the fan like a naked orangutan"
   ],
   ". Get intimate at the end by ",
   [
@@ -84,7 +101,12 @@ var danceForHim = [
     "strumming",
     "puppeteering",
     "revealing",
-    "spinning"
+    "spinning",
+    "caressing",
+    "fondling",
+    "squishing",
+    "wiggling",
+    "presenting"
   ],
   " your ",
   ladyBodyParts,
@@ -132,6 +154,10 @@ var danceForHim = [
     "plead for Jabba the Hutt to release you.",
     "fling your bra in his face like a rubber band.",
     "triple flip onto his penis.",
-    "pick up your tips from the edge of the stage."
+    "pick up your tips from the edge of the stage.",
+    "wriggle your eyebrows “Eeeeeh? EEEEEHHH?”",
+    "slam an antique Gibson guitar into the ground.",
+    "get lost in the music, forgetting the point entirely.",
+    "shower him in used scratch-off ticket confetti."
   ]
 ];

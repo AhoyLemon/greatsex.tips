@@ -62,6 +62,13 @@ var handjobs = [
     "play a game of ring toss with it.",
     "pour molten gold over it.",
     "make a face of obvious disgust, then gradual but grudging acceptance.",
-    "pack it away in the attic with moth balls for the winter."
+    "pack it away in the attic with moth balls for the winter.",
+    "lay it down in a wooden ship and give it a Viking funeral.",
+    "scrape out the smegma for a future Vegimite recipe.",
+    "find a matching Fenty concealer and make it dissappear.",
+    "use it to swipe right on Tindr.",
+    "rotoscope it for your personal hentai masterwork.",
+    "use a caliper and compare the shaft circumference to the national average.",
+    "put way too much honey on it, attracting bears."
   ]
 ];

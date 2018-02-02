@@ -72,7 +72,7 @@ var dirtyTalkExamples = [
     "OMG your dick is hilarious! I'm <i>so</i> putting this up on YouTube.",
     "You wouldn't steal a car.",
     "Hey, apropos of nothing, do you feel about the movie <i>Teeth</i>?",
-    "Want to try something I saw on Clips for Sale?",
+    "Want to try something I saw on Clips4Sale?",
     "My milk shake brings all the boys to the yard / And they're like / It smells like prawns",
     "I'm sorry, the vagina you are trying to reach cannot be located. Please pull out and try again.",
     "Please download Sexr from the Apple store to access this vagina.",
@@ -94,7 +94,15 @@ var dirtyTalkExamples = [
     "...did you leave the oven on?",
     "I didn't know pearl necklaces could be so watery.",
     "Workin' in the fuck mine / Goin' down, down, down / Workin' in a fuck mine / Oops, let the dick down",
-    "Impale my hot gash with your love stake."
+    "Impale my hot gash with your love stake.",
+    "Oh Edward!",
+    "The nuclear access code is 1-2-3-4-5!",
+    "It's a real shame that's gonna fall off soon.",
+    "I'M OVER HERE ASSHOLE.",
+    "The Elizabeth Bathory method really did work!",
+    "SPIDERS, SPIDERS EVERYWHERE.",
+    "Deal is a deal, I'll change your Yelp review to five stars.",
+    "I've been dead for six years."
   ],
   "” He's sure to ",
   [

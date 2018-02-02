@@ -50,8 +50,19 @@ var bondageTips = [
     "the United Nations building",
     "a full keg of Hidden Valley Ranch",
     "a Himalayan salt lamp",
-    "your collectoin of antique bowling balls",
-    "your cousin's wedding cake"
+    "your collection of antique bowling balls",
+    "your cousin's wedding cake",
+    "an antique lamp",
+    "a large tesla coil",
+    "a clothes drying rack",
+    "a rickety deer blind",
+    "a subwoofer",
+    "a power substation",
+    "the rafters",
+    "the sex swing",
+    "a tire swing",
+    "two furious raccoons",
+    "the toilet tank"
   ],
   " and ",
   [
@@ -121,6 +132,19 @@ var bondageTips = [
     "put on a looping playlist of anime girl hip hop covers.",
     "crumble stale cookies all over the bed while he watches.",
     "put on reruns of <i>Bridezillas</i>.",
-    "pontificate on the use of whitespace in Wikipedia's site design."
+    "pontificate on the use of whitespace in Wikipedia's site design.",
+    "quiz him about typeface kerning.",
+    "unsuccessfully sync your partner's IOT buttplug to your phone.",
+    "scatter his prized baseball cards while playing a loop of cats vomiting.",
+    "put on a puppet show of his past sexual failures.",
+    "saunter up to him sexily and immediately trip in your 12 inch hooker heels.",
+    "stab him in the pinneal gland and steal his precious juice to become young again.",
+    "just fuck up all of his chakras with bad crystals and a bunch of magnets.",
+    "practice your newly acquired accupuncture skills from ez-accupunktooronline.com",
+    "export all of his EDM remixes at the lowest bitrate and delete the FLAC.",
+    "take off all the stickers on his Snapback hats.",
+    "use clothespins to clip your underwear to his flesh for a sexy combo of housework and pain play.",
+    "just load his dick up with all the chip clips in the house.",
+    "fill his chest with clothe band aids and rip them all off."
   ]
 ];

@@ -50,7 +50,10 @@ var blowjobs = [
     "flap your hands on his hips and make elephant noises",
     "pierce his frenulum",
     "place the testicles on a small doily",
-    "strap on a binocular headband to find the rest of his penis"
+    "strap on a binocular headband to find the rest of his penis",
+    "encircle the shaft with multi-colored scrunchies",
+    "give the shaft an indian burn",
+    "use the phsyics of the waterbed to bob up and down"
   ],
   " and ",
   [
@@ -92,6 +95,12 @@ var blowjobs = [
     "make the Price is Right “sad trombone” noise.",
     "laugh at the absurdity of it all.",
     "clap a pair of symbols upon ejaculation.",
-    "rest his testicles upon a throne of spun sugar."
+    "rest his testicles upon a throne of spun sugar.",
+    "write down tasting notes for later review.",
+    "jazz hands upon ejaculation.",
+    "start tossing his testicles like a pair of sandbags.",
+    "flop side to side, wide eyed, simulating the reverse mermaid blowjob.",
+    "start braiding his pubes for that viking dick look.",
+    "slit your palms with your athame and grab his shaft, sealing the contract."
   ]
 ];

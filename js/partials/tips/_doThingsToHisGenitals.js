@@ -91,6 +91,11 @@ var doThingsToHisGenitals = [
     "the seven dwarves return from their labors in the mine.",
     "he summons a horde of zombies to pull you both into hell.",
     "he cuts off your head and absorbs your essence.",
-    "retweets your joke."
+    "retweets your joke.",
+    "wakes up from a self-induced coma.",
+    "presents you with a key to the city.",
+    "sings out “Oh, sweet mystery of life, at last I've found you!”",
+    "sets off a handful of party poppers.",
+    "closes up your surgery incisions."
   ]
 ];

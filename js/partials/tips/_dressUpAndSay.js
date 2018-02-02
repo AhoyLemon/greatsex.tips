@@ -68,7 +68,16 @@ var dressUpAndSay = [
 	"like a caveman",
 	"like a sexy hockey player",
 	"as a Rubik's Cube",
-	"in an oversized foam cowboy hat"
+	"in an oversized foam cowboy hat",
+  "as Dave Navarro",
+  "as the 90s Slim Jim mascot",
+  "as the <i>Shape of Water</i> fish man",
+  "in a red Handmaiden robe",
+  "in the blackend shroude of Death Himself",
+  "in a sparkly wizard robe and pointy cap",
+  "in a bikini made of interlocking AOL trial CDs",
+  "in a bootleg Harley Quinn costume",
+  "as an anthropomorphized Bitcoin"
   ],
   " ",
   [
@@ -141,5 +150,15 @@ var dressUpAndSay = [
     "“This is a level beyond sex. I call it super sex 3.”",
     "“Cum. Spout. Jizz it all out. This is the dick I can't do without.",
     "“I need one more shot of tequila for this to happen.”",
+    "“Doctor Giggity-Geiger, I need you to check my levels on the Sex-o-meter.”",
+    "“Let's bust through this sex embargo with your dickmada!”",
+    "“Behold the field in which we shall sow our fucks.”",
+    "“The glue should hold long enough to get to the good part.”",
+    "“The fabric only causes cancer in California, so we're good to go!”",
+    "“We gotta stop taking the sex shop owner's advice.”",
+    "“I have no idea how you're going to find my vagina in all of this”",
+    "“Ready for the Razzle Dazzle Vijazzle experience my love?”",
+    "“I'm just not sure about the fleshlight strap-on, to be honest.”",
+    "“Captain, you're needed at command, please exit the holo-deck.”"
   ]
 ];
