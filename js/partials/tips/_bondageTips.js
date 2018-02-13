@@ -145,6 +145,7 @@ var bondageTips = [
     "take off all the stickers on his Snapback hats.",
     "use clothespins to clip your underwear to his flesh for a sexy combo of housework and pain play.",
     "just load his dick up with all the chip clips in the house.",
-    "fill his chest with clothe band aids and rip them all off."
+    "fill his chest with clothe band aids and rip them all off.",
+    "slowly put ketchup on his Chicago hot dog."
   ]
 ];

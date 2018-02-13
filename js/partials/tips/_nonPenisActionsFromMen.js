@@ -58,7 +58,11 @@ var nonPenisActionsFromMen = [
 	"drools on",
 	"instagrams",
 	"snapchats",
-	"sends all my facebook friends photos of"
+	"sends all my facebook friends photos of",
+  "licks",
+  "carresses",
+  "pinches",
+  "kisses"
   ],
   " my ",
   bodyParts,
@@ -73,7 +77,7 @@ var nonPenisActionsFromMen = [
     "makes me want to flee the country",
     "makes for a great Reddit post",
     "helps me finish my screenplay",
-    "is an amazing revalation",
+    "is an amazing revelation",
     "sustains me emotionally",
     "scratches that itch",
     "is really quite inopportune",
@@ -106,7 +110,21 @@ var nonPenisActionsFromMen = [
 	"feels mighty fine by golly",
 	"really puts this thing we call life into perspective",
 	"fixes all of the tax problems I've had with the IRS",
-	"reminds me how insignificant this all is in the grand scheme of things"
+	"reminds me how insignificant this all is in the grand scheme of things",
+  "makes my legs quake and makes me go crazy",
+  "sets my atoms aflame",
+  "truly fucks with my perception of reality"
+  "turns my body into stone",
+  "sexy in a Dickensian way",
+  "supports my one-man sex comedy",
+  "is really adorable",
+  "helps me find meaning in this life",
+  "sustains me until Fuck O'Clock",
+  "is <i>really</i> confusing, but sexy confusing",
+  "really spins my record right round. And that record is my dick. She makes my dick feel good. Get it? I don't think you get it. Here's a five point presentaiton about how she makes my dick feel.",
+  "is hot?",
+  "makes my penis do the worm",
+  "makes me pine for the simplier days of vanilla sex"
   ],
   [
     "!", "!", "!!!", "."

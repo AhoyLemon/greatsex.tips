@@ -45,7 +45,21 @@ var hideAnItem = [
     "a xenomorph egg",
     "an old H.R. Giger painting",
     "Guy Fieri",
-    "a bundle of lit bottle rockets"
+    "a bundle of lit bottle rockets",
+    "a <i>50 Shades of Grey</i> buttplug",
+    "a carved cucumber replica of his penis",
+    "the phsysical manifestation of infidelity",
+    "a private investigator",
+    "a boob-shaped stress ball",
+    "a set of truck nuts",
+    "compromising photos",
+    "the answer to the Voynich manuscript",
+    "a sack of novelty penis gummies",
+    "a cheesecloth filled with lube",
+    "the spare house key",
+    "a pirate map to sexy booty",
+    "the Wu-Tang secret",
+    "a sourdough starter"
   ],
   " in his ",
   [
@@ -81,7 +95,14 @@ var hideAnItem = [
     "Super Nintendo",
     "fireplace",
     "overalls",
-    "Lego collection"
+    "Lego collection",
+    "401K",
+    "china cabinet",
+    "cubicle",
+    "pillowcase",
+    "sheets",
+    "C string",
+    "violin case"
   ],
   ". When he ",
   [
@@ -134,6 +155,17 @@ var hideAnItem = [
     "sing the Katie Perry's <i>Peacock</i> but get the lyrics wrong.",
     "beatbox <i>Paralyzer</i> while stripping.",
     "shoot him with a dart gun from his deer blind.",
-    "initiate the Rapture and ironcially be the one left behind."
+    "initiate the Rapture and ironcially be the one left behind.",
+    "write your name in hickies on his forehead.",
+    "downgrade his NASDAQ score.",
+    "twerk wildly around the bedroom.",
+    "send him a cease and desist letter from your new home in Belize.",
+    "pants him.",
+    "spray him with a fire hose of lube.",
+    "pantomime sexy poses you bookmarked on Fetlife.",
+    "knock him over from within a human sized hamster ball.",
+    "give him an uncomfortably long raspberry on his stomach.",
+    "tell him your Shercock Homes and you're looking for the missing pearl necklace.",
+    "pinch his butt cheeks like coked up fiddler crab."
   ]
 ];

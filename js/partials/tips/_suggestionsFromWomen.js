@@ -69,9 +69,13 @@ var suggestionsFromWomen = [
       "we use sexy those dice but all the sides ",
       [
         "are “pomegranate” and “dick”",
-        "say roll again",
+        "say “roll again”",
         "are blank",
         "are emoji",
+        "are The pAper chAse lyrics",
+        "shock us when they land",
+        "are Jumanji dice and trap him in an alternate world",
+        "are suggestions from this website and prove none too helpful",
       ]
     ],
     "I invest all of our funds in overpriced, over engineered Silicon Valley kitchen appliances.",
@@ -101,7 +105,15 @@ var suggestionsFromWomen = [
     "I bench press him for 100 reps.",
     "I dress in an oppo suit made of swiss cheese.",
     "I unhinge my jaw and devour an entire roast chicken.",
-    "I play my melodica during sex."
+    "I play my melodica during sex.",
+    "I cartwheel around in a skimpy bear costume.",
+    "I peg him with a can of Pringles.",
+    "I slap his ass to the beat of the <i>Mortal Kombat</i> theme.",
+    "I liberally sprinkle our bed with rose petals and lego pieces.",
+    "we have sex inside of a mini golf course mountain",
+    "I transfurm into a werewelf.",
+    "we go out into the back 40 and have sex in the swamp.",
+    "we hold a breakdance competition for who gets to top."
   ],
   " ",
   [

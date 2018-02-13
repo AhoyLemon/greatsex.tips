@@ -18,7 +18,15 @@ var sensualMensTips = [
     "paint your nipples with glittery lipstick",
     "lick your neck",
     "spoon with you in bed",
-    "join you in the shower"
+    "join you in the shower",
+    "lick your pussy",
+    "tweak your nipples",
+    "kiss your body",
+    "pinch your bottom",
+    "whisper sweet nothings into your ear",
+    "give you those bedroom eyes",
+    "confess my love for you",
+    "reach for you"
   ],
   ", ",
   [
@@ -65,7 +73,7 @@ var sensualMensTips = [
     "turn up the thermostat to 116° and sell me a glass of icewater",
     "estimate how many frozen turkeys could fill the room",
     "order me a model train set through your Amazon Echo",
-    "dirty talk in iambic pentameter",
+    "talk dirty in iambic pentameter",
     "focus attention to my vestigial limb(s)",
     "PVR C-SPAN",
     "throw streamers around the room",
@@ -75,8 +83,15 @@ var sensualMensTips = [
     "use Russian Twitter bots to accuse me of having a tiny penis",
     "offer my heart up to Quetzalcoatl",
     "set up a dick jousting duel with my rival, competing for your affection",
-    "touches me trantrically instead of sexually",
-    "schedules a Google Alert for when we can have sex"
+    "touch me trantrically instead of sexually",
+    "schedule a Google Alert for when we can have sex",
+    "put on a miner's hat and go digging for dick",
+    "stroke me to climax with a prosthetic limb",
+    "use a frog puppet to give me a blowjob",
+    "cover us both in ranch for a real spicy fuck",
+    "drizzle a Mountain Dew reduction all over your body",
+    "judo flip me into the 69 position",
+    "take us to your hand-crafted fuckgloo"
   ],
   ". ",
   [
