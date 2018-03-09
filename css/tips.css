@@ -307,10 +307,10 @@ main {
     border: 3px solid rgba(33, 33, 33, 0.65);
     position: relative; }
     main .tip button {
-      background: #4cf6ff;
-      border: 1px solid #212121;
+      background: transparent;
+      border: none;
       padding: 0.35em 1.25em;
-      color: #212121;
+      color: #d7004c;
       cursor: pointer;
       position: absolute;
       top: 5px;
