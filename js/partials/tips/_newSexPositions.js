@@ -162,7 +162,7 @@ var newSexPositions = [
     "Now remember you left the oven on.",
     "Now accept your BAFTA for a convinving performance in this position.",
     "Now slowly back away, easy now, you've triggered his Dorito rage.",
-    "Now make like Will Smith and get jiggy with it."
+    "Now make like Will Smith and get jiggy with it.",
     "Now realize that this tip came from Jenga instructions, not a sex article.",
     "Now crack an egg into your mouth for sweet protein gains.",
     "Now succumb to a frozen death in the artic wastelands.",

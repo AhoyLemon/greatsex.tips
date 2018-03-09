@@ -8,6 +8,7 @@ var app = new Vue({
     addToHomescreen: false,
     hideShareImage: true,
     shareScreen: false,
+    bannerVisible: false,
     tipLabel: 'Great Sex Tip',
     backgroundImages: [
       'bg2.jpg','bg3.jpg','bg4.jpg','bg5.jpg','bg6.jpg','bg7.jpg','bg8.jpg','bg9.jpg','bg10.jpg'
@@ -67,6 +68,14 @@ var app = new Vue({
       if (self.tipsDisplayed % 4 === 0) {
         self.newBackgroundImage();
       }
+      
+      if (self.tipsDisplayed == 5) {
+        new Audio('audio/bylemon.mp3').play()
+        setTimeout(function(){ 
+          self.bannerVisible = true;
+        }, 800);
+      }
+      
 
     },
 

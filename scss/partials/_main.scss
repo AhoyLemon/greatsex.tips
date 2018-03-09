@@ -11,7 +11,7 @@ body { background-color: $background-color; }
 main { @include flex-center(); min-height: 91.5vh; position: relative; z-index:$z-main; padding-top: $header-height;
   .inner {  width:100%; max-width: 960px; }
   .tip { background: white; padding: 1em; box-shadow: 3px 3px 3px rgba($black,0.5); border:3px solid rgba($black,0.65); position: relative;
-    button { background:$yellow; border:1px solid $black; padding: 0.35em 1.25em; color:$black; cursor: pointer; @include position(absolute,5px,5px);
+    button { background:$cyan; border:1px solid $black; padding: 0.35em 1.25em; color:$black; cursor: pointer; @include position(absolute,5px,5px);
       svg * { fill:currentColor; }
       .icon { display: inline-block; width:1.5em; height: 1.5em; margin-right: 0.3em; }
       .text { display: inline-block; font-family:$serif; font-style:italic; font-size:1.15em; text-shadow:none; transform: translateY(-4px); }

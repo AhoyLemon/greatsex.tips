@@ -72,7 +72,7 @@ var suggestionsFromWomen = [
         "say “roll again”",
         "are blank",
         "are emoji",
-        "are The pAper chAse lyrics",
+        "are pAper chAse lyrics",
         "shock us when they land",
         "are Jumanji dice and trap him in an alternate world",
         "are suggestions from this website and prove none too helpful",
