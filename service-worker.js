@@ -1,6 +1,7 @@
 'use strict';
 
-const cacheName = 'v0.21b';
+const cacheName = 'v0.22';
+const offlineUrl = '/offline.html';
 
 self.addEventListener('install', e => {
   // once the SW is installed, go ahead and fetch the resources
@@ -14,22 +15,23 @@ self.addEventListener('install', e => {
         '/js/min/tips.min.js',
         '/js/min/vue.min.js',
         '/img/bg-offline.jpg',
-        '/offline.html'
+        offlineUrl
       ]).then(() => self.skipWaiting());
     })
   );
 });
 
 self.addEventListener('fetch', function(event) {
-  event.respondWith(
-    caches.match(event.request)
-      .then(function(response) {
-        // Cache hit - return response
-        if (response) {
-          return response;
-        }
-        return fetch(event.request);
-      }
-    )
-  );
+  if (event.request.mode === 'navigate' || (event.request.method === 'GET' && event.request.headers.get('accept').includes('text/html'))) {
+    event.respondWith(
+      fetch(event.request.url).catch(error => {
+        return caches.match(offlineUrl);
+      })
+    );
+  } else {
+    event.respondWith(caches.match(event.request).then(function (response) {
+      return response || fetch(event.request);
+      })
+    );
+  }
 });
