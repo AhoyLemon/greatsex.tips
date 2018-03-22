@@ -1,6 +1,6 @@
 'use strict';
 
-const cacheName = 'v0.22';
+const cacheName = 'v0.23';
 const offlineUrl = '/offline.html';
 
 self.addEventListener('install', e => {
@@ -29,9 +29,6 @@ self.addEventListener('fetch', function(event) {
       })
     );
   } else {
-    event.respondWith(caches.match(event.request).then(function (response) {
-      return response || fetch(event.request);
-      })
-    );
+    return response
   }
 });
