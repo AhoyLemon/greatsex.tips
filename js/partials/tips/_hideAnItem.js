@@ -165,7 +165,7 @@ var hideAnItem = [
     "pantomime sexy poses you bookmarked on Fetlife.",
     "knock him over from within a human sized hamster ball.",
     "give him an uncomfortably long raspberry on his stomach.",
-    "tell him your Shercock Homes and you're looking for the missing pearl necklace.",
+    "tell him you're Shercock Holmes and you're looking for the missing pearl necklace.",
     "pinch his butt cheeks like coked up fiddler crab."
   ]
 ];
