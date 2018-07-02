@@ -119,34 +119,12 @@ var app = new Vue({
 
       var node = document.getElementById('CurrentTip');
       
-      /*
-
-      domtoimage.toJpeg(node)
-        .then(function (dataUrl) {
-        var img = new Image();
-        img.src = dataUrl;
-        document.getElementById('ShareImageWrapper').innerHTML="";
-        document.getElementById('ShareImageWrapper').appendChild(img);
-        self.hideShareImage = true;
-        self.shareScreen = true;
-      })
-        .catch(function (error) {
-        console.error('oops, something went wrong!', error);
-      });
-      */
-      
       html2canvas(node, {
         onrendered: function(canvas) {
           document.getElementById('ShareImageWrapper').innerHTML="";
           document.getElementById('ShareImageWrapper').appendChild(canvas);
-          //self.hideShareImage = true;
           self.shareScreen = true;
           self.canvas = canvas;
-          
-          //self.downloadImage = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
-          //var a = document.getElementById('DownloadImageButton');
-          //document.getElementById('DownloadImageButton').href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
-          //document.getElementById('DownloadImageButton').download = 'somefilename.jpg';
           
         }
       });
