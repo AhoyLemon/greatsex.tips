@@ -3,20 +3,24 @@
 @font-face {
   font-family: 'Lora';
   src: url('../fonts/lora/regular.woff') format('woff');
+  font-display: swap;
 }
 @font-face {
   font-family: 'Lora';
   src: url('../fonts/lora/bold.woff') format('woff');
   font-weight:$bold;
+  font-display: swap;
 }
 @font-face {
   font-family: 'Lora';
   src: url('../fonts/lora/italic.woff') format('woff');
   font-style:italic;
+  font-display: swap;
 }
 
 // SANS SERIF
 @font-face {
   font-family: 'Didact';
   src: url('../fonts/didact.woff') format('woff');
+  font-display: swap;
 }
