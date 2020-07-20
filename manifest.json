@@ -1,8 +1,9 @@
 {
-  "manifest_version": "2",
+  "manifest_version": 2.0,
   "name": "Great Sex Tips!",
   "short_name": "GreatSexTips",
-  "description": "The service that generates new and exciting sex advice for you and your lover(s).",
+  "description": "🍆+🍑=🌟",
+  "default_locale": "en",
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
@@ -30,29 +31,40 @@
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-144x144.png",
+      "src": "/maskable-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maskable-144.png",
       "sizes": "144x144",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "/maskable-192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "/android-chrome-256x256.png",
+      "src": "/maskable-256.png",
       "sizes": "256x256",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     },
     {
-      "src": "/android-chrome-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png"
-    },
-    {
-      "src": "/android-chrome-512x512.png",
+      "src": "/maskable-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/maskable-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
