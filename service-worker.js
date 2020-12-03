@@ -1,4 +1,4 @@
-const cacheName = 'v2.0';
+const cacheName = 'v2.01';
 const offlineUrl = '/index.html';
 const offlineFiles = [
   '/index.html',
@@ -13,6 +13,7 @@ const offlineFiles = [
   '/svg/logo-white.svg',
   '/svg/logo-duotone.svg',
   '/svg/lemon.svg',
+  '/audio/bylemon.mp3',
   '/img/bg1.jpg',
   '/img/bg2.jpg',
   '/img/bg3.jpg',
