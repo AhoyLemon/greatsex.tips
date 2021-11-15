@@ -4,11 +4,12 @@
   else
     script(src="js/libraries/vue.min.js")
   
-  //-script(src="js/libraries/dom-to-image.min.js")
-  //-script(src="js/libraries/file-saver.min.js")
   script(src="js/libraries/html2canvas.min.js")
   script(src="js/libraries/canvas2image.js")
-  
+
+  script(type="text/javascript").
+    const siteURL = #{siteURL}
+
 
   // Google Analytics
   script(type="text/javascript").
@@ -28,7 +29,7 @@
     if ('serviceWorker' in navigator) {
       // Register a service worker hosted at the root of the
       // site using the default scope.
-      navigator.serviceWorker.register('/service-worker.js').then(function(registration) {
+      navigator.serviceWorker.register('#{siteURL}/service-worker.js').then(function(registration) {
         console.log('Service worker registration succeeded:', registration);
 
       }, function(error) {
