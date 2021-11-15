@@ -1,11 +1,11 @@
-![greatsex.tips](https://greatsex.tips/svg/logo-wide.svg)
+![greatsex.tips](https://ahoylemon.github.io/greatsex.tips/svg/logo-wide.svg)
 # He'll *love* what you do to him.
 
 ### So what's this?
 This is a site that generates new and exiting sex tips just for *you!*
 
 ### Who made this?
-[Lemon](http://ahoylemon.xyz) made this. [Sanguinary Novel](https://twitter.com/AberrantWhimsy) did the imagery and wrote a number of tips. [Boots Raingear](https://thefpl.us/meet/boots-raingear) wrote some tips as well..
+[Lemon](http://ahoylemon.xyz) made this. [Sanguinary Novel](https://twitter.com/AberrantWhimsy) did the imagery and wrote a number of tips. [Boots Raingear](https://thefpl.us/meet/boots-raingear) wrote some tips as well.
 
 ### Where'd these pictures come from?
 The images are sourced from [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com/).
