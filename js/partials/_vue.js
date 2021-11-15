@@ -70,7 +70,7 @@ var app = new Vue({
       }
       
       if (self.tipsDisplayed == 5) {
-        new Audio('audio/bylemon.mp3').play()
+        new Audio('audio/bylemon.mp3').play();
         setTimeout(function(){ 
           self.bannerVisible = true;
         }, 800);
